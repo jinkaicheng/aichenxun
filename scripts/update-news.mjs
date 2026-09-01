@@ -6,7 +6,7 @@ import { createHash } from "node:crypto";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const outDir = path.join(root, "public", "data");
 const timeZone = "Asia/Shanghai";
-const sourcePolicyVersion = "2026-09-trusted-cn-v1";
+const sourcePolicyVersion = "2026-09-trusted-cn-v2";
 
 const sourceRules = [
   {
@@ -28,14 +28,20 @@ const sourceRules = [
     names: [/OpenAI|Anthropic|Google|DeepMind|Microsoft|NVIDIA|Meta|阿里云|百度|腾讯|华为|DeepSeek|智谱|月之暗面|MiniMax|字节跳动/],
   },
   {
+    tier: "国内主流媒体",
+    rank: 3,
+    domains: ["bjnews.com.cn", "bjd.com.cn", "jfdaily.com", "southcn.com", "21jingji.com", "eeo.com.cn", "nbd.com.cn", "cnstock.com", "cs.com.cn"],
+    names: [/新京报|北京日报|上观新闻|南方网|21世纪经济报道|经济观察报|每日经济新闻|上海证券报|中国证券报/],
+  },
+  {
     tier: "专业科技媒体",
     rank: 4,
-    domains: ["cls.cn", "jiemian.com", "36kr.com", "ithome.com", "leiphone.com", "zhidx.com", "qbitai.com", "ifanr.com"],
-    names: [/财联社|界面新闻|36氪|IT之家|雷峰网|智东西|量子位|爱范儿/],
+    domains: ["cls.cn", "jiemian.com", "36kr.com", "ithome.com", "leiphone.com", "zhidx.com", "qbitai.com", "ifanr.com", "geekpark.net", "pingwest.com", "tmtpost.com", "donews.com", "techweb.com.cn", "huxiu.com", "c114.com.cn"],
+    names: [/财联社|界面新闻|36氪|IT之家|雷峰网|智东西|量子位|爱范儿|极客公园|PingWest|钛媒体|DoNews|TechWeb|虎嗅|C114/],
   },
 ];
 
-const highRiskTitle = /(?:传闻|网传|爆料|内幕|震惊|惊天|泄密|造假|诈骗|犯罪|丑闻|封杀|崩盘|末日|灭绝|杀疯了|彻底怒了|危险阶段)/i;
+const highRiskTitle = /(?:传闻|网传|爆料|内幕|震惊|惊天|泄密|造假|诈骗|犯罪|丑闻|封杀|崩盘|末日|灭绝|杀疯了|彻底怒了|危险阶段|美国病|得了.{0,8}病|牛股|涨停|股票|荐股|概念股|投资建议)/i;
 const sensitiveSubject = /(?:军事|外交|战争|领导人|国家安全|社会事件|事故|灾害|疫情|选举|制裁)/i;
 
 function dateInChina(offsetDays = 0) {
@@ -92,7 +98,8 @@ function parseItems(xml) {
     if (!metadata) return null;
     const { source, sourceUrl, sourceTier, sourceRank } = metadata;
     const title = rawTitle.replace(new RegExp(`\\s+-\\s+${source.replace(/[.*+?^${}()|[\\]\\]/g, "\\$&")}$`), "");
-    if (highRiskTitle.test(title) || sensitiveSubject.test(title)) return null;
+    if (highRiskTitle.test(title)) return null;
+    if (sensitiveSubject.test(title) && !["政务官方", "权威媒体", "国内主流媒体"].includes(sourceTier)) return null;
     return {
       id: createHash("sha1").update(`${title}|${tag(block, "link")}`).digest("hex").slice(0, 12),
       title,
@@ -110,16 +117,18 @@ function parseItems(xml) {
 
 const query = encodeURIComponent("人工智能 OR AI OR OpenAI OR Anthropic OR Gemini OR DeepSeek when:2d");
 const trustedQuery = encodeURIComponent("(site:news.cn OR site:people.com.cn OR site:cctv.com OR site:cnr.cn OR site:chinanews.com.cn OR site:gov.cn OR site:miit.gov.cn OR site:cac.gov.cn OR site:stdaily.com OR site:stcn.com) (人工智能 OR AI) when:2d");
+const mainstreamQuery = encodeURIComponent("(site:bjnews.com.cn OR site:jfdaily.com OR site:21jingji.com OR site:nbd.com.cn OR site:cnstock.com OR site:cs.com.cn OR site:36kr.com OR site:ithome.com OR site:geekpark.net OR site:tmtpost.com) (人工智能 OR AI) when:2d");
 const officialQuery = encodeURIComponent("(site:openai.com OR site:anthropic.com OR site:deepmind.google OR site:microsoft.com OR site:nvidia.com OR site:alibabacloud.com OR site:baidu.com OR site:tencent.com OR site:huawei.com OR site:deepseek.com) AI when:2d");
 const feeds = [
   `https://news.google.com/rss/search?q=${query}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
   `https://news.google.com/rss/search?q=${trustedQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
+  `https://news.google.com/rss/search?q=${mainstreamQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
   `https://news.google.com/rss/search?q=${officialQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
 ];
 
-const fixture = process.env.AI_NEWS_RSS_FILE;
-const results = fixture
-  ? [{ status: "fulfilled", value: parseItems(await fs.readFile(fixture, "utf8")) }]
+const fixturePaths = (process.env.AI_NEWS_RSS_FILES || process.env.AI_NEWS_RSS_FILE || "").split(path.delimiter).filter(Boolean);
+const results = fixturePaths.length
+  ? await Promise.allSettled(fixturePaths.map(async (fixture) => parseItems(await fs.readFile(fixture, "utf8"))))
   : await Promise.allSettled(feeds.map(async (url) => {
       const response = await fetch(url, { headers: { "user-agent": "AI-Pulse-Daily/1.0" } });
       if (!response.ok) throw new Error(`RSS ${response.status}`);
@@ -139,7 +148,7 @@ const articles = results.flatMap((result) => result.status === "fulfilled" ? res
   .filter(Boolean)
   .filter((item) => item.title && item.url && publicationDate(item.publishedAt) === targetDate && !seen.has(item.title) && seen.add(item.title))
   .sort((a, b) => a.sourceRank - b.sourceRank || new Date(b.publishedAt) - new Date(a.publishedAt))
-  .slice(0, 24);
+  .slice(0, 18);
 
 if (!articles.length) throw new Error("没有获取到新闻，保留上一版数据。");
 
