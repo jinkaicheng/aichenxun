@@ -120,7 +120,7 @@ export function App() {
     <div className="site-shell">
       <header className="site-header">
         <div className="header-row">
-          <a className="brand" href="#top" aria-label="智潮日报首页">智潮日报 · AI 前沿</a>
+          <a className="brand" href="#top" aria-label="AI 晨讯首页">AI 晨讯</a>
           <label className="date-control"><span>选择日期</span><input type="date" max={localDate(-1)} value={selectedDate} onChange={(event) => setSelectedDate(event.target.value)} /></label>
         </div>
         <nav aria-label="新闻分类">
@@ -152,7 +152,7 @@ export function App() {
         </div>
       </main>
 
-      <footer><span>智潮日报 · AI 前沿</span><span>仅作信息索引 · 保留来源与原文入口 · 不构成法律、投资或决策建议</span></footer>
+      <footer><span>AI 晨讯</span><span>仅作信息索引 · 保留来源与原文入口 · 不构成法律、投资或决策建议</span></footer>
       <button className="assistant-fab" type="button" onClick={() => setAssistantOpen(true)}>AI 情报助手</button>
       {assistantOpen && <Assistant data={data} onClose={() => setAssistantOpen(false)} />}
     </div>
