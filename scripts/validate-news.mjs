@@ -12,6 +12,7 @@ const errors = [];
 const articles = data.groups?.flatMap((group) => group.articles || []) || [];
 
 if (!data.sourcePolicy?.version) errors.push("缺少来源策略版本");
+if (!Array.isArray(data.watchlist) || !data.watchlist.includes("OpenAI / Codex") || !data.watchlist.includes("DeepSeek")) errors.push("缺少头部公司与模型重点跟踪清单");
 if (!articles.length) errors.push("可信来源新闻为空");
 if (articles.length > 18) errors.push("新闻数量超过上限 18");
 

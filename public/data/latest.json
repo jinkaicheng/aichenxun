@@ -1,24 +1,94 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-09-01T06:39:12.356Z",
+  "generatedAt": "2026-09-01T08:01:52.139Z",
   "sourcePolicy": {
-    "version": "2026-09-trusted-cn-v2",
-    "mode": "政府官网、网信办稿源名单媒体及企业官方发布白名单"
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
   },
-  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，主要涉及 Nvidia、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 5 条来自头部公司与模型重点队列，主要涉及 OpenAI、Nvidia、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
   "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "6dce0c87650f",
+          "title": "在 ChatGPT 中选购 Shopify 商家商品",
+          "summary": "该条信息来自企业官方“OpenAI Help Center”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI Help Center",
+          "sourceUrl": "https://help.openai.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2dvUldwNnJJYUJyOTlVSm5iOFgtNm8wM3FTOFVfSFNHVnBhQ0NoQnJSeWlxOFJtQk9zbGI1QWM1bmJNaTVpdktTVUpTTWwxbC1iQlkwQWZ1Vi1ZTVhPTGE1T3NSV0E5NXh3WXZGUThNVDZjMHNVTjJ2aVVpclpEaEFYSzJjMXQ0MkhYR0lqX1Z1bjdHVVhZbzA0UQ?oc=5",
+          "publishedAt": "Mon, 31 Aug 2026 09:33:34 GMT"
+        },
+        {
+          "id": "197fe24c1333",
+          "title": "OpenAI 印度计划正式发布",
+          "summary": "该条信息来自企业官方“OpenAI”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WSXFieUtMb3JBWmlzS012OWJnSjltUjNtU0wzc3JoTDFXYVhuNHpOd0VxZkl2RmlIVm5LUWdpMTRQemFzRk9vM0FlUlI0YmR2a2E0ZVVUdXJlTDlvNkpWSlFjNA?oc=5",
+          "publishedAt": "Mon, 31 Aug 2026 09:05:11 GMT"
+        }
+      ]
+    },
     {
       "name": "Nvidia",
       "articles": [
         {
           "id": "0ba6857d88eb",
           "title": "湃迅半导体柔性芯片将支持物理AI落地",
-          "summary": "该条信息来自权威媒体“stcn.com”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "stcn.com",
+          "summary": "该条信息来自权威媒体“证券时报”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "证券时报",
           "sourceUrl": "https://www.stcn.com",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pd3dUOEs5SFQxdHJ2dEZiYTl6RkJuTXNCb2J5MFptazJpNHBlM2NTSlYzb25NZEowdnZTUEpPNmdiWnZ6eTNsNWNCWEhxU3ZPellJSEJtaFl6LWVo?oc=5",
           "publishedAt": "Mon, 31 Aug 2026 13:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "7f1c21b9ae26",
+          "title": "智谱上半年营收9.54亿元增400% 8月ARR为16亿美元",
+          "summary": "该条信息来自权威媒体“Caixin Global”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "Caixin Global",
+          "sourceUrl": "https://companies.caixin.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oWkIxelVqQWU5MExQZklsRnNIWEhEa1ZfdnlmSXdrdXZ5RVZWSWY0b2syY0dKd05rQnh5bEE5ZXVzRTVSMkpNSGRDTk5Jc1NQeWJkdWZKWDhmZ0lySmFjWGxRVng?oc=5",
+          "publishedAt": "Mon, 31 Aug 2026 14:44:00 GMT"
+        },
+        {
+          "id": "8e4f1dc93957",
+          "title": "AI App月报：头部应用月活整体下滑，Qwen跌出千万级阵营",
+          "summary": "该条信息来自国内主流媒体“新京报”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新京报",
+          "sourceUrl": "https://www.bjnews.com.cn",
+          "sourceTier": "国内主流媒体",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iNENfOThqSmFOR19oSXFobGhKYU1DNjZsUndCTllKbUtsdlM1ZU8xQVhyR0w2clppdVJDR0hDQjBlNFdmV3F6dFNTMFJGSDd2elpiSV9RVmsycUJ5WTZxOUMybkY?oc=5",
+          "publishedAt": "Mon, 31 Aug 2026 11:09:00 GMT"
+        },
+        {
+          "id": "519b9d155499",
+          "title": "刚刚，DeepSeek-V4多模态模型开源",
+          "summary": "该条信息来自专业科技媒体“智东西”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "智东西",
+          "sourceUrl": "https://zhidx.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TVFUzZ1U4T1VhRzNOUDhJaDFNOVVQUkVhMmVnUDc5QmxXQm1Udk1ZN0xyMWh4MDZxREJwZmkyTFZjRFdIcnc?oc=5",
+          "publishedAt": "Mon, 31 Aug 2026 12:33:39 GMT"
         }
       ]
     },
@@ -38,8 +108,8 @@
         {
           "id": "12dc4a9dac1b",
           "title": "“AI交警”上岗朝阳62个路口",
-          "summary": "该条信息来自政务官方“bjwmb.gov.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "bjwmb.gov.cn",
+          "summary": "该条信息来自政务官方“首都文明网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "首都文明网",
           "sourceUrl": "https://www.bjwmb.gov.cn",
           "sourceTier": "政务官方",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RYmQ3RzVkLWFUYzdudGtFUXZfZkU5NjdyY1dFTzh5eWd4Unc5Vmp0US15YVppMnB1M0t4bEZmelJTNlhUZ1V0cGtFZHRpQmZNWVY4UUNGLUNpajQ?oc=5",
@@ -48,8 +118,8 @@
         {
           "id": "61fbb4b24f22",
           "title": "门头沟AI大赛落幕，为“一人创业”铺就体系化通道_投促活动",
-          "summary": "该条信息来自政务官方“invest.beijing.gov.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "invest.beijing.gov.cn",
+          "summary": "该条信息来自政务官方“北京市投资促进服务中心”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市投资促进服务中心",
           "sourceUrl": "https://invest.beijing.gov.cn",
           "sourceTier": "政务官方",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53T2Q2emd4Y2V6dVR3X1VKQWI4d2dpWUF0ZmpheVVPLXVub0FtRldjY1B6VEtMcFhHaTQ0a1RLT1ZzejY2SWxCb0N0NXMtRUZGR2ViUUc4SFJjWE81Y2NGQ2I0TmN5enQ1bjF5YlBTWXZMLU5Yd0dERA?oc=5",
@@ -78,8 +148,8 @@
         {
           "id": "90f49a879e3a",
           "title": "欧洲一人公司：旧制度遇上新商业",
-          "summary": "该条信息来自权威媒体“news.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "news.cn",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
           "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42WVZOdzN0UDNTa3FEZUxDS1FJdzJlS3ZBaUVvV2VrRDFfZDNTSjd0SENrVTRTWjZCY0x2Ukt0VEtfVVZ5REJEaC11cEE3a0hYVGtkaGFvVlBvVFN1SXpWbFpnM0NEaWxFd3JhSFZoaUo2T2J4RXE0QzBxYXBwdw?oc=5",
@@ -88,8 +158,8 @@
         {
           "id": "1b5289097a85",
           "title": "AI时代的美国“一人公司”",
-          "summary": "该条信息来自权威媒体“news.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "news.cn",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
           "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tMVV2dmZDb0h2NEJLUzl4Q0JnWk4zeEhpQTNnSmx6Q3Zad204b0lFTmxOS2xZcExpZURQSmlfLUxpamVjUzV2TXB3cWxCSEV0RE1BUlF3Zm1tcFBQdlpOWVZ6Qm5ZdUFBSVBEY0FmdlkzZGxpbzhSNzQtU2RoUQ?oc=5",
@@ -98,8 +168,8 @@
         {
           "id": "e724efad4abc",
           "title": "中国：OPC潮起，AI重构创业生态",
-          "summary": "该条信息来自权威媒体“news.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "news.cn",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
           "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZcUlIaHQ3cXVYRmRfVVU5Y3JEbnVGXzhHNElrdnk1ZmxRXzVvVkJnekxMSUhlMV82N2dNTU51WWltZnJsNWdTekpTUXB0ZjZNeVVqVXBjTVlwb1lxVFIwMy1sOXA1MVRqNU5RS283Tl9QU0pQdmdHWDV3b0tBZw?oc=5",
@@ -108,8 +178,8 @@
         {
           "id": "3666e89cb93d",
           "title": "破解全球OPC治理之困",
-          "summary": "该条信息来自权威媒体“news.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "news.cn",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
           "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UdDU0NUFaNVp0N2ZzZE0xd2JkQVJGTWFHalhDaEM3T2dBR2J1SmMtMHA3cUhUYks5Y3VWTjdfSXN1dC1tdzFZU3VfZE54TjRTY013VEdNYUdNZUNUelBQQUdsbF9LRGNQVTNyOTRnX2s5TXQ5NkVCUGF2RDA1dw?oc=5",
@@ -128,8 +198,8 @@
         {
           "id": "0f472b1d5c94",
           "title": "人工智能应用服务商培育专项行动启动",
-          "summary": "该条信息来自权威媒体“news.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "news.cn",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
           "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVp3ZktqMmpaSUVuMFA4M0l6elM1R05qaElGVWdhaVUyWVpTRVppMHItNnFqNENuZWZEVnVnQU1FbzZMNHVnZXMyRmpjS0w0SndpZ3owSnp2TnkwalQ5OENJcXNGV1pKQjlrV1JJdDU4bWlEVndOdnA4MzBuc3BRZUNR?oc=5",
@@ -138,62 +208,12 @@
         {
           "id": "b6c8e175a7b4",
           "title": "AI有用｜当“老师傅”遇上“新军师”",
-          "summary": "该条信息来自权威媒体“人民网-上海频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网-上海频道",
+          "summary": "该条信息来自权威媒体“sh.people.com.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "sh.people.com.cn",
           "sourceUrl": "https://sh.people.com.cn",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSmVuZDRyNFlLSFBHXzZpblNESG5YVFBxQzZacnlzUWhUV0Z4NmpHUUtKbVRiQk1USE95Mm05ZkxKQkdCNXhERGVQazE3N29scEoxS1dITEVPRTV4ajBqcXRUZU5xR3BaMnc?oc=5",
           "publishedAt": "Mon, 31 Aug 2026 10:04:00 GMT"
-        },
-        {
-          "id": "4c2b7e5cd3af",
-          "title": "“AI领航员”智能迎新 新生从踏入校园第一刻感受人工智能带来的便捷",
-          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "央视网",
-          "sourceUrl": "https://news.cctv.com",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OSWRaWGxMaS1kenl3Z0xfMU9zU1o4RUNJMmlsUGRNZzU5VlJuUldWclFvSHBUdk5VUkN5LTdfUTdYUUtvanR1b1BJSnNLRGpWeWc2VGJHS1lnUVhsT3NyTWtDRjVNSWYxZUVlM0J0MVVjZk52MzVPVQ?oc=5",
-          "publishedAt": "Mon, 31 Aug 2026 09:50:36 GMT"
-        },
-        {
-          "id": "b9f750cdf458",
-          "title": "数据要素筑基，人工智能加速落地应用",
-          "summary": "该条信息来自权威媒体“news.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "news.cn",
-          "sourceUrl": "https://www.news.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0dwZ3BTT0FJQUsxdFp5cVEtVXlWdGtCeWx6NGFNRkZxSjFrd0dBU2NVMGhPQW1DWkFBTVFjMkpEZHhRQlc5X2kyWUNteHBzU0Q2M015Z2tocHZRcms1eG9BSHZ5OUc5NGsxQnVRYXFRZ1dHN2pNVEdxanpSUWZvSWRB?oc=5",
-          "publishedAt": "Mon, 31 Aug 2026 09:48:09 GMT"
-        },
-        {
-          "id": "9aafd611e0df",
-          "title": "遇“健”未来：浙工大健行学院2026级新生用AI锚定成长坐标",
-          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华网浙江",
-          "sourceUrl": "https://zj.news.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zcG1YNFZqRHNwVXM1S2tscGhqT28xbXZuck9BQ1hPWFZYZFlsMll1UTYzcHNGN21keXh4cVVwcHYwVkkzSThoSEJ2MkhVWFNEMlhzMU5yLW9OQW91YUxPUF9Hc1lZaWZPRkFyTTh6Y2RKZG9F?oc=5",
-          "publishedAt": "Mon, 31 Aug 2026 09:36:31 GMT"
-        },
-        {
-          "id": "b60250149a44",
-          "title": "工行杭州分行助农向新：从中东沙漠种到北美冰原——杭州“AI植物工厂”勾画未来农业模样",
-          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华网浙江",
-          "sourceUrl": "https://zj.news.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hYldweHR4MFFCM2RjM0ZTU3pOazNJbjl1Qjl2Vy1NaXhUQ28wVTAwb3ZTMDNwUkhiN1hIYnJyM2h1N2tScUZSLWJDUndOTi14QXFPUzV4QVhPV080Qmw5ajk2RG5WZmxkVi1WTmVHc2FzODBM?oc=5",
-          "publishedAt": "Mon, 31 Aug 2026 09:36:29 GMT"
-        },
-        {
-          "id": "0e49d9a14d66",
-          "title": "联通元景核心参编，人工智能词元（Token）运营管理能力规范发布",
-          "summary": "该条信息来自权威媒体“news.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "news.cn",
-          "sourceUrl": "https://www.news.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nZDJjRmloT1JuOXZZRXZGUVZIOWdnY3V4T2xwYnA0NWdmR2pyYTdhWWJydnYyLWF5UFg0bTdsb19JNnBtMkFpZ25LOEN0alFyUWxEb2ktdEdTRThyeHVTSXFZNnFmQS1VQUlWbnM5N0x3Y2lSVzl0bjYzTXI?oc=5",
-          "publishedAt": "Mon, 31 Aug 2026 09:26:09 GMT"
         }
       ]
     }

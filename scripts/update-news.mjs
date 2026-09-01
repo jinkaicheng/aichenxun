@@ -6,7 +6,20 @@ import { createHash } from "node:crypto";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const outDir = path.join(root, "public", "data");
 const timeZone = "Asia/Shanghai";
-const sourcePolicyVersion = "2026-09-trusted-cn-v2";
+const sourcePolicyVersion = "2026-09-trusted-cn-v3";
+const maxArticles = 18;
+const maxHeadlineArticles = 10;
+
+const headlineTopics = [
+  ["OpenAI / Codex", /OpenAI|ChatGPT|Codex|Sora|GPT[-\s]?\d/i],
+  ["DeepSeek", /DeepSeek|深度求索/i],
+  ["Anthropic / Claude", /Anthropic|Claude/i],
+  ["Google / Gemini", /Google\s*AI|Gemini|DeepMind/i],
+  ["Meta / Llama", /Meta\s*AI|Llama/i],
+  ["Microsoft / Copilot", /Microsoft|微软|Copilot/i],
+  ["NVIDIA", /NVIDIA|英伟达/i],
+  ["国产头部模型", /通义千问|Qwen|文心|ERNIE|豆包|Doubao|Kimi|月之暗面|智谱|GLM|MiniMax/i],
+];
 
 const sourceRules = [
   {
@@ -24,8 +37,8 @@ const sourceRules = [
   {
     tier: "企业官方",
     rank: 3,
-    domains: ["openai.com", "anthropic.com", "deepmind.google", "blog.google", "microsoft.com", "nvidia.com", "about.fb.com", "alibabacloud.com", "aliyun.com", "baidu.com", "tencent.com", "huawei.com", "deepseek.com", "zhipuai.cn", "moonshot.cn", "minimax.io", "bytedance.com"],
-    names: [/OpenAI|Anthropic|Google|DeepMind|Microsoft|NVIDIA|Meta|阿里云|百度|腾讯|华为|DeepSeek|智谱|月之暗面|MiniMax|字节跳动/],
+    domains: ["openai.com", "anthropic.com", "deepmind.google", "blog.google", "microsoft.com", "nvidia.com", "about.fb.com", "qwen.ai", "alibabacloud.com", "aliyun.com", "baidu.com", "tencent.com", "huawei.com", "deepseek.com", "zhipuai.cn", "moonshot.cn", "minimax.io", "bytedance.com"],
+    names: [/OpenAI|Anthropic|Google|DeepMind|Microsoft|NVIDIA|Meta|Qwen|通义千问|阿里云|百度|腾讯|华为|DeepSeek|深度求索|智谱|月之暗面|MiniMax|字节跳动/],
   },
   {
     tier: "国内主流媒体",
@@ -43,6 +56,8 @@ const sourceRules = [
 
 const highRiskTitle = /(?:传闻|网传|爆料|内幕|震惊|惊天|泄密|造假|诈骗|犯罪|丑闻|封杀|崩盘|末日|灭绝|杀疯了|彻底怒了|危险阶段|美国病|得了.{0,8}病|牛股|涨停|股票|荐股|概念股|投资建议)/i;
 const sensitiveSubject = /(?:军事|外交|战争|领导人|国家安全|社会事件|事故|灾害|疫情|选举|制裁)/i;
+const nonNewsTitle = /(?:官方下载|应用商店|完整解析|全梳理|详解|使用注意事项|插件清单|安装教程|使用教程|选型定价|帮助中心|开发文档)/i;
+const headlineEvent = /(?:发布|推出|宣布|上线|更新|升级|开放|开源|首发|问世|亮相|获批|加入|合作|收购|融资|营收|估值|用户|月报|正式|预览|测试|选购|新(?:模型|产品|功能|版本)|IPO|release|launch|introduc|announce|unveil|update|upgrade|open.source|partnership|acqui|funding|report|preview|beta)/i;
 
 function dateInChina(offsetDays = 0) {
   const now = new Date();
@@ -81,12 +96,17 @@ function sourceMetadata(block, fallbackName) {
 
 function groupFor(title) {
   const rules = [
-    ["OpenAI", /OpenAI|ChatGPT|Sora/i], ["Anthropic", /Anthropic|Claude/i],
+    ["OpenAI", /OpenAI|ChatGPT|Codex|Sora|GPT[-\s]?\d/i], ["Anthropic", /Anthropic|Claude/i],
     ["Google", /Google|Gemini|DeepMind/i], ["Meta", /Meta|Llama/i],
     ["Microsoft", /Microsoft|微软|Copilot/i], ["Nvidia", /Nvidia|英伟达|芯片|GPU/i],
-    ["国内 AI", /阿里|百度|腾讯|字节|DeepSeek|智谱|月之暗面|MiniMax|华为/i],
+    ["国内 AI", /阿里|通义千问|Qwen|百度|文心|腾讯|字节|豆包|DeepSeek|深度求索|智谱|GLM|月之暗面|Kimi|MiniMax|华为/i],
   ];
   return rules.find(([, pattern]) => pattern.test(title))?.[0] || "行业动态";
+}
+
+function headlineTopicFor(title) {
+  if (!headlineEvent.test(title)) return "";
+  return headlineTopics.find(([, pattern]) => pattern.test(title))?.[0] || "";
 }
 
 function parseItems(xml) {
@@ -99,6 +119,7 @@ function parseItems(xml) {
     const { source, sourceUrl, sourceTier, sourceRank } = metadata;
     const title = rawTitle.replace(new RegExp(`\\s+-\\s+${source.replace(/[.*+?^${}()|[\\]\\]/g, "\\$&")}$`), "");
     if (highRiskTitle.test(title)) return null;
+    if (nonNewsTitle.test(title)) return null;
     if (sensitiveSubject.test(title) && !["政务官方", "权威媒体", "国内主流媒体"].includes(sourceTier)) return null;
     return {
       id: createHash("sha1").update(`${title}|${tag(block, "link")}`).digest("hex").slice(0, 12),
@@ -108,6 +129,7 @@ function parseItems(xml) {
       sourceUrl,
       sourceTier,
       sourceRank,
+      headlineTopic: headlineTopicFor(title),
       url: tag(block, "link"),
       publishedAt: tag(block, "pubDate"),
       group: groupFor(title),
@@ -119,11 +141,23 @@ const query = encodeURIComponent("人工智能 OR AI OR OpenAI OR Anthropic OR G
 const trustedQuery = encodeURIComponent("(site:news.cn OR site:people.com.cn OR site:cctv.com OR site:cnr.cn OR site:chinanews.com.cn OR site:gov.cn OR site:miit.gov.cn OR site:cac.gov.cn OR site:stdaily.com OR site:stcn.com) (人工智能 OR AI) when:2d");
 const mainstreamQuery = encodeURIComponent("(site:bjnews.com.cn OR site:jfdaily.com OR site:21jingji.com OR site:nbd.com.cn OR site:cnstock.com OR site:cs.com.cn OR site:36kr.com OR site:ithome.com OR site:geekpark.net OR site:tmtpost.com) (人工智能 OR AI) when:2d");
 const officialQuery = encodeURIComponent("(site:openai.com OR site:anthropic.com OR site:deepmind.google OR site:microsoft.com OR site:nvidia.com OR site:alibabacloud.com OR site:baidu.com OR site:tencent.com OR site:huawei.com OR site:deepseek.com) AI when:2d");
+const frontierQuery = encodeURIComponent("(Codex OR OpenAI OR ChatGPT OR DeepSeek OR Claude OR Anthropic OR Gemini OR DeepMind OR Llama OR Qwen OR 通义千问 OR Kimi OR 智谱) when:2d");
+const openaiQuery = encodeURIComponent("site:openai.com (OpenAI OR Codex OR ChatGPT OR Sora OR GPT) when:2d");
+const deepseekQuery = encodeURIComponent("site:deepseek.com DeepSeek when:2d");
+const anthropicQuery = encodeURIComponent("site:anthropic.com (Anthropic OR Claude) when:2d");
+const googleAiQuery = encodeURIComponent("(site:blog.google OR site:deepmind.google) (Gemini OR DeepMind) when:2d");
+const chinaModelQuery = encodeURIComponent("(site:qwen.ai OR site:aliyun.com OR site:baidu.com OR site:zhipuai.cn OR site:moonshot.cn OR site:minimax.io) (Qwen OR 通义千问 OR 文心 OR 智谱 OR GLM OR Kimi OR MiniMax) when:2d");
 const feeds = [
   `https://news.google.com/rss/search?q=${query}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
   `https://news.google.com/rss/search?q=${trustedQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
   `https://news.google.com/rss/search?q=${mainstreamQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
   `https://news.google.com/rss/search?q=${officialQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
+  `https://news.google.com/rss/search?q=${frontierQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
+  `https://news.google.com/rss/search?q=${openaiQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
+  `https://news.google.com/rss/search?q=${deepseekQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
+  `https://news.google.com/rss/search?q=${anthropicQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
+  `https://news.google.com/rss/search?q=${googleAiQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
+  `https://news.google.com/rss/search?q=${chinaModelQuery}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`,
 ];
 
 const fixturePaths = (process.env.AI_NEWS_RSS_FILES || process.env.AI_NEWS_RSS_FILE || "").split(path.delimiter).filter(Boolean);
@@ -144,23 +178,39 @@ const publicationDate = (value) => {
   const get = (type) => parts.find((part) => part.type === type)?.value;
   return `${get("year")}-${get("month")}-${get("day")}`;
 };
-const articles = results.flatMap((result) => result.status === "fulfilled" ? result.value : [])
+const candidates = results.flatMap((result) => result.status === "fulfilled" ? result.value : [])
   .filter(Boolean)
   .filter((item) => item.title && item.url && publicationDate(item.publishedAt) === targetDate && !seen.has(item.title) && seen.add(item.title))
-  .sort((a, b) => a.sourceRank - b.sourceRank || new Date(b.publishedAt) - new Date(a.publishedAt))
-  .slice(0, 18);
+  .sort((a, b) => a.sourceRank - b.sourceRank || new Date(b.publishedAt) - new Date(a.publishedAt));
+
+const headlineCounts = new Map();
+const headlineArticles = candidates
+  .filter((item) => item.headlineTopic)
+  .sort((a, b) => (a.sourceTier === "企业官方" ? -1 : 0) - (b.sourceTier === "企业官方" ? -1 : 0)
+    || a.sourceRank - b.sourceRank
+    || new Date(b.publishedAt) - new Date(a.publishedAt))
+  .filter((item) => {
+    const count = headlineCounts.get(item.headlineTopic) || 0;
+    if (count >= 2) return false;
+    headlineCounts.set(item.headlineTopic, count + 1);
+    return true;
+  })
+  .slice(0, maxHeadlineArticles);
+const headlineIds = new Set(headlineArticles.map((item) => item.id));
+const articles = [...headlineArticles, ...candidates.filter((item) => !headlineIds.has(item.id))].slice(0, maxArticles);
 
 if (!articles.length) throw new Error("没有获取到新闻，保留上一版数据。");
 
 const order = ["OpenAI", "Anthropic", "Google", "Meta", "Microsoft", "Nvidia", "国内 AI", "行业动态"];
-const groups = order.map((name) => ({ name, articles: articles.filter((item) => item.group === name).map(({ group, sourceRank, ...item }) => item) })).filter((group) => group.articles.length);
+const groups = order.map((name) => ({ name, articles: articles.filter((item) => item.group === name).map(({ group, sourceRank, headlineTopic, ...item }) => item) })).filter((group) => group.articles.length);
 const date = targetDate;
 const names = groups.slice(0, 4).map((group) => group.name).join("、");
 const payload = {
   date,
   generatedAt: new Date().toISOString(),
-  sourcePolicy: { version: sourcePolicyVersion, mode: "政府官网、网信办稿源名单媒体及企业官方发布白名单" },
-  summary: `昨日从可信白名单中收录 ${articles.length} 条 AI 相关信息，主要涉及 ${names || "人工智能行业"} 等方向。所有条目均保留来源和原文入口。`,
+  sourcePolicy: { version: sourcePolicyVersion, mode: "可信来源白名单 + 头部公司与模型优先队列" },
+  watchlist: headlineTopics.map(([name]) => name),
+  summary: `昨日从可信白名单中收录 ${articles.length} 条 AI 相关信息，其中 ${headlineArticles.length} 条来自头部公司与模型重点队列，主要涉及 ${names || "人工智能行业"} 等方向。所有条目均保留来源和原文入口。`,
   groups,
 };
 
