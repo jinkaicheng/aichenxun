@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-09-01T05:40:16.132Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v1",
+    "mode": "政府官网、网信办稿源名单媒体及企业官方发布白名单"
+  },
+  "summary": "昨日从可信白名单中收录 1 条 AI 相关信息，主要涉及 行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "0c784498c70e",
+          "title": "国务院国资委举办中央企业“AI for Science”人才特训班",
+          "summary": "该条信息来自政务官方“sasac.gov.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "sasac.gov.cn",
+          "sourceUrl": "https://www.sasac.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBralhJU1h6UWQwQWFUblU5OGwtejBZLXBWQU51WHJwOWtCOXhXVnpZMDl4SWRVWnpzMnBtMkNWSjF1LV85bkZ0bW9kMk5Qa3pHWExDWGNLYk8xcDJOSXkwWF9nNjhJa0RLZTlsdHRlTzhKQQ?oc=5",
+          "publishedAt": "Mon, 31 Aug 2026 12:14:24 GMT"
+        }
+      ]
+    }
+  ]
+}
