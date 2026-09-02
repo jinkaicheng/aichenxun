@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-09-02T02:23:14.160Z",
+  "generatedAt": "2026-09-02T02:26:50.929Z",
   "sourcePolicy": {
     "version": "2026-09-trusted-cn-v3",
     "mode": "可信来源白名单 + 头部公司与模型优先队列"
@@ -15,7 +15,7 @@
     "NVIDIA",
     "国产头部模型"
   ],
-  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 5 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、Nvidia、国内 AI 等方向。所有条目均保留来源和原文入口。",
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 6 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、Nvidia、国内 AI 等方向。所有条目均保留来源和原文入口。",
   "groups": [
     {
       "name": "OpenAI",
@@ -23,12 +23,22 @@
         {
           "id": "c5cd9f0ba1e1",
           "title": "ChatGPT广告业务上线不足200天 年化经常性收入达10亿美元",
-          "summary": "该条信息来自权威媒体“companies.caixin.com”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "companies.caixin.com",
+          "summary": "该条信息来自权威媒体“Caixin Global”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "Caixin Global",
           "sourceUrl": "https://companies.caixin.com",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKRVIyQVJTSnJhRm1EaWo5VmJ4d1lJZG1rbFpNUm5ZMHVLbTZ6VGZlN3lNV3pXWjNpemVIOUV4SWhVVUpvRHJUbHR5bDJscDdtc2Nud0MyUUZ2NFpSOHJrQkNaY0g?oc=5",
           "publishedAt": "Tue, 01 Sep 2026 08:31:00 GMT"
+        },
+        {
+          "id": "a1d34172910f",
+          "title": "苹果升级对OpenAI指控：销毁证据，跳槽工程师下载机密电路图",
+          "summary": "该条信息来自国内主流媒体“eeo.com.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "eeo.com.cn",
+          "sourceUrl": "https://www.eeo.com.cn",
+          "sourceTier": "国内主流媒体",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1OTFVRmMxRGc0MXpFSndjN2ZJUHRKTVppcVFtd2VxU3phTnN5aV9sNFJoRVNVRjlGMUI0M0NJWS1LbGpmZXhsNFM1Vm11OC1BdXQzUTg1Wkw?oc=5",
+          "publishedAt": "Tue, 01 Sep 2026 00:31:37 GMT"
         }
       ]
     },
@@ -68,8 +78,8 @@
         {
           "id": "836a1fb4087c",
           "title": "DeepSeek Harness首发深度实测：开源Agent框架完整上手实战教程",
-          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "阿里云开发者社区",
+          "summary": "该条信息来自企业官方“developer.aliyun.com”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "developer.aliyun.com",
           "sourceUrl": "https://developer.aliyun.com",
           "sourceTier": "企业官方",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CUGU5SXoyLTF5T2dYeWFYdl9HLVVXTkFyUGoyWmxudmhvVExVaTAyajZ3RlNybXVnLTRxTXRWMlVoLVRnbk1ra2JnQ3JrTW5HNWhPeWJYWQ?oc=5",
@@ -203,22 +213,12 @@
         {
           "id": "d871020a76dd",
           "title": "第三届“兴智杯”全国人工智能创新应用大赛在深启幕",
-          "summary": "该条信息来自权威媒体“央广网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "央广网",
+          "summary": "该条信息来自权威媒体“cnr.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "cnr.cn",
           "sourceUrl": "https://www.cnr.cn",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZaG1nUUdIMjJTODU1dDN3RzJNcmZvYzdGWUgxN2dlUGR2VGZuQzEydXJJenF4bFB2ZV8yd3ZHeVhXS3YtOWVXdzZaa1JJTFpVTFVlNURKM0lfMUhXVTJza0NONmxUYW14Q2lOYnR3?oc=5",
           "publishedAt": "Tue, 01 Sep 2026 12:37:21 GMT"
-        },
-        {
-          "id": "bd19fa875458",
-          "title": "澎湃漫评｜被AI忽悠被AI嘲笑，该醒醒了",
-          "summary": "该条信息来自权威媒体“thepaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "thepaper.cn",
-          "sourceUrl": "https://www.thepaper.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NblQweG5xYkZDNWJEdW1ER2FQSHFzRUREbmR0Z3ZPN0diQkpBRkNGaS10RXVZSERDdmp5bFM4MWRvYl90ckdHdkphWV91ZVNqbUl4QXZjc1dOV1NlcWk1SA?oc=5",
-          "publishedAt": "Tue, 01 Sep 2026 10:56:00 GMT"
         }
       ]
     }
