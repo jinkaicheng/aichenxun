@@ -9,11 +9,17 @@ permissions:
   contents: write
   deployments: write
 
+concurrency:
+  group: daily-ai-news
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Sync latest main
+        run: git pull --ff-only origin main
       - uses: actions/setup-node@v4
         with:
           node-version: 22
