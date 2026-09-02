@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-09-02T02:17:33.571Z",
+  "generatedAt": "2026-09-02T02:23:14.160Z",
   "sourcePolicy": {
     "version": "2026-09-trusted-cn-v3",
     "mode": "可信来源白名单 + 头部公司与模型优先队列"
@@ -23,22 +23,12 @@
         {
           "id": "c5cd9f0ba1e1",
           "title": "ChatGPT广告业务上线不足200天 年化经常性收入达10亿美元",
-          "summary": "该条信息来自权威媒体“Caixin Global”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "Caixin Global",
+          "summary": "该条信息来自权威媒体“companies.caixin.com”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "companies.caixin.com",
           "sourceUrl": "https://companies.caixin.com",
           "sourceTier": "权威媒体",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKRVIyQVJTSnJhRm1EaWo5VmJ4d1lJZG1rbFpNUm5ZMHVLbTZ6VGZlN3lNV3pXWjNpemVIOUV4SWhVVUpvRHJUbHR5bDJscDdtc2Nud0MyUUZ2NFpSOHJrQkNaY0g?oc=5",
           "publishedAt": "Tue, 01 Sep 2026 08:31:00 GMT"
-        },
-        {
-          "id": "a1d34172910f",
-          "title": "苹果升级对OpenAI指控：销毁证据，跳槽工程师下载机密电路图",
-          "summary": "该条信息来自国内主流媒体“eeo.com.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "eeo.com.cn",
-          "sourceUrl": "https://www.eeo.com.cn",
-          "sourceTier": "国内主流媒体",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1OTFVRmMxRGc0MXpFSndjN2ZJUHRKTVppcVFtd2VxU3phTnN5aV9sNFJoRVNVRjlGMUI0M0NJWS1LbGpmZXhsNFM1Vm11OC1BdXQzUTg1Wkw?oc=5",
-          "publishedAt": "Tue, 01 Sep 2026 00:31:37 GMT"
         }
       ]
     },
@@ -78,12 +68,22 @@
         {
           "id": "836a1fb4087c",
           "title": "DeepSeek Harness首发深度实测：开源Agent框架完整上手实战教程",
-          "summary": "该条信息来自企业官方“developer.aliyun.com”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "developer.aliyun.com",
+          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "阿里云开发者社区",
           "sourceUrl": "https://developer.aliyun.com",
           "sourceTier": "企业官方",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CUGU5SXoyLTF5T2dYeWFYdl9HLVVXTkFyUGoyWmxudmhvVExVaTAyajZ3RlNybXVnLTRxTXRWMlVoLVRnbk1ra2JnQ3JrTW5HNWhPeWJYWQ?oc=5",
           "publishedAt": "Tue, 01 Sep 2026 15:23:19 GMT"
+        },
+        {
+          "id": "8ab0b897bc9a",
+          "title": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍",
+          "summary": "该条信息来自专业科技媒体“雷峰网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "雷峰网",
+          "sourceUrl": "https://www.leiphone.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waXk3SFdWU3lmbEZtYy1ndHJSeVV3aGJUXzRrTG9EV1cwdldXazBJcjdEMlpUZmNjSS1EblRWcDVDZjIwQnNHbjBjQ3BycURBNzZKM1pUWFdjVWF6MENUbDZ1LUlZOUJwUnc?oc=5",
+          "publishedAt": "Tue, 01 Sep 2026 10:38:00 GMT"
         }
       ]
     },
