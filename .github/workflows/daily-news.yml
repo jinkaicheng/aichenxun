@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  deployments: write
 
 jobs:
   update:
@@ -19,6 +20,7 @@ jobs:
       - run: npm ci
       - run: npm run update:news
       - run: npm run validate:news
+      - run: npm run build
       - name: Commit daily digest
         run: |
           git config user.name "github-actions[bot]"
@@ -26,3 +28,10 @@ jobs:
           git add public/data
           git diff --cached --quiet || git commit -m "chore: update daily AI news"
           git push
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist/client --project-name=aichenxun --branch=main
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
