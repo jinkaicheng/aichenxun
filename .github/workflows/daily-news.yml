@@ -2,7 +2,8 @@ name: Daily AI News
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # 07:33 Asia/Shanghai (UTC+8), then retry inside this run when needed.
+    - cron: "33 23 * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,10 +25,39 @@ jobs:
         with:
           node-version: 22
       - run: npm ci
-      - run: npm run update:news
-      - run: npm run validate:news
-      - run: npm run build
+      - name: Update yesterday's news with retries
+        id: update_news
+        shell: bash
+        run: |
+          target_date="$(TZ=Asia/Shanghai date -d yesterday +%F)"
+          for attempt in {1..12}; do
+            current_date="$(node -p "require('./public/data/latest.json').date")"
+            if [ "$current_date" = "$target_date" ]; then
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              echo "${target_date} is already published; stopping retries."
+              exit 0
+            fi
+
+            echo "Attempt ${attempt}/12 for ${target_date}"
+            if npm run update:news && npm run validate:news; then
+              updated_date="$(node -p "require('./public/data/latest.json').date")"
+              if [ "$updated_date" = "$target_date" ]; then
+                echo "changed=true" >> "$GITHUB_OUTPUT"
+                exit 0
+              fi
+            fi
+
+            if [ "$attempt" -lt 12 ]; then
+              sleep 300
+            fi
+          done
+
+          echo "Unable to publish ${target_date} after 12 attempts." >&2
+          exit 1
+      - if: steps.update_news.outputs.changed == 'true'
+        run: npm run build
       - name: Commit daily digest
+        if: steps.update_news.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -35,6 +65,7 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update daily AI news"
           git push
       - name: Deploy to Cloudflare Pages
+        if: steps.update_news.outputs.changed == 'true'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
