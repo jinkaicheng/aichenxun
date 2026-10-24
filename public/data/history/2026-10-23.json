@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-24T01:54:53.602Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 7 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "d1ae2dc869b7",
+          "title": "OpenAI 红队测试网络",
+          "summary": "该条信息来自企业官方“OpenAI”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50QzF1aTExWjA1d3ZROVdSNXNvelU3RnFMbm9rRVlPVHZTZFNEVGtXOTEzUzFEVXZKUFktcXREcWRGby14M2tPY3NvQXlEZVZpNk1IalZpakpSbC1xbV8tQjNpeGlFdzg?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 06:14:50 GMT"
+        },
+        {
+          "id": "8bfd3ac962b7",
+          "title": "ChatGPT 用户年满 18 岁后会发生哪些变化？",
+          "summary": "该条信息来自企业官方“OpenAI Help Center”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI Help Center",
+          "sourceUrl": "https://help.openai.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0t6V0wyMnVyNTZpSVlYNkJHcGRpTWtvMlBzOEJsdnNITlJsUGI3bXRob2dYOUFiR2VtZjNqSXYydGZ6TXhsUzE0b1dVd3I0TnZ6M3V4dEhvRHF2eXJXSjc5WHZob0x4Q0Jld3VZZmVYd0pTZWNwX2JSemxtV3FydWdaaDFqRkdhTHVRZ1I1aG5FMFdCejd6M0RR?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 04:05:54 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "a4ed315fb26d",
+          "title": "GPT周报｜DeepSeek开源DeepInfer推理框架；MiniMax港股破发；Anthropic推出个人AI助手Claude Duet",
+          "summary": "该条信息来自权威媒体“财新”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财新",
+          "sourceUrl": "https://companies.caixin.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZMWN1ZmFEeHVqc0dMLTQyUTE0ZVlnUDJXQWdlWGdhWnV4a09SeHNKdVV6QnNhd3RnX2tOWXF5VmFUdXhsS2NwY2lOdy03bVVqeUhKNVpSOFFJOEg3OGVfOG9Wd2s?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 09:29:00 GMT"
+        },
+        {
+          "id": "49788fa476ad",
+          "title": "Anthropic最快周五提交上市申请，“史上最大IPO”再加速",
+          "summary": "该条信息来自专业科技媒体“Jiemian.com”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "Jiemian.com",
+          "sourceUrl": "https://m.jiemian.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Smw5WlEzSFI3V0wyemhqVkd3SHQzQ2VYWnpDNnpmZXo4U1FIWXVUNWxna01tM2I4Szc2a3NVQUZqTmVwRHNzZzg0cDJ1MlI0N014TTJR?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 07:12:08 GMT"
+        },
+        {
+          "id": "851d8f5fb145",
+          "title": "Anthropic 捐赠 Agent Skills 开放标准",
+          "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "DoNews",
+          "sourceUrl": "https://www.donews.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZENaLXJMcEdPcFhuNWE4WnpJYlkxWng4c0xLSWF2OUl1SjMwQUlXQVdaLXM5VG1kS3BBR1EyQTNha1hhZDV1RHV2UFhpU3hRUk1VenlFOFhpdUNWbkE?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 04:09:23 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "a68314096bc0",
+          "title": "Qwen3.8抢先体验！大家要心理准备了，不出意外，最新版即将发布并开源了？",
+          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "阿里云开发者社区",
+          "sourceUrl": "https://developer.aliyun.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94TDZ2SWpPNFJXd2RpaTExMjdqcE5TOHg2MW04NFhmaXlkbEYwcFc4OGZuNjRXcG1mNDNJMFNuQ1Z2cW9lSDFaSVQ5RGc3ek5mTEJVM2o5QQ?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 02:29:13 GMT"
+        },
+        {
+          "id": "4e6b4b842a50",
+          "title": "周鸿祎谈DeepSeek开源：AI时代需要“主权AI”",
+          "summary": "该条信息来自权威媒体“中国新闻网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中国新闻网",
+          "sourceUrl": "https://www.chinanews.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCV2R4REkwOWRhNzlfemRuLUZNelBycWlOdjJyal9VcFVuU2hDY1lQTlNnSHl1Z2JTNGcwbnR6dTA2VktCWV9kMW5vZVYxc19TUWEzems2emlrM2hZS0s0bXItbUJjNklk?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 09:39:16 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "3cad698e757f",
+          "title": "关于公开征集人工智能领域颠覆性技术方向储备课题的通知",
+          "summary": "该条信息来自政务官方“北京市科学技术委员会”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市科学技术委员会",
+          "sourceUrl": "https://kw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TOEUtVHhjdWs2WTAxVFlmbkdKblhZRVRwWnJZS2NzS1FHYzB3R2hKaVpQbk5QUjdyTl9aUEVUeGR6b2JXWHBkTGRac3dUWFhIcEpLNEplQ0c5Z1psbUpyR05pVE1Sblp5WGVCSHJtSnpySGc?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 11:01:00 GMT"
+        },
+        {
+          "id": "1bad6b3dd2cf",
+          "title": "十大科技创新应用场景发布 四大生态合作项目集中落地 2026北京亦庄·未来游戏电竞科技大会举办",
+          "summary": "该条信息来自政务官方“北京经济技术开发区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京经济技术开发区",
+          "sourceUrl": "https://kfqgw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRelZjemdIZ0czLVdUSUpwMFVsOGtBNm5hdUw0UFlpUWZkUVZ0NHF3d2VTNkdOQzYzMWxNZ0hBTS1oVk01enloUzlwQzFwTldnNFdlMG1RTUdQVGJTaS1GLTBEMzByNkpxODVEclg2Ql9vdUFwNC1R?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 06:36:00 GMT"
+        },
+        {
+          "id": "11ae391e5eb2",
+          "title": "北京经济技术开发区信息技术产业局2026年“AI人才八条”专家评审项目中选结果公告_通知公告",
+          "summary": "该条信息来自政务官方“北京经济技术开发区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京经济技术开发区",
+          "sourceUrl": "https://kfqgw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Qay10TFAxRVc2a0c3MFVPSHE3Vm5WQmpBcHlFRkJwLW5XdDhrb216MGVHYW5wSHRVV0Y3a2U0aC1tV2pqUExCVy02dmpxN19ZNGZDdGNBbFJiTW9jZUJwOVZZRDBFZlMzdV9HVW05OUZIT1R4Tkh3NW9kTQ?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 01:00:00 GMT"
+        },
+        {
+          "id": "35f8202e0351",
+          "title": "点燃科创热情 澳门学生在大湾区感受人工智能发展",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXpwcl9IZngxOXBzTEF6VW5QQ2hLWkdoUXY5NWY4M0Ntbm5UNENCT1hYZDU3NXJUN29rTWxpTjJ4SFREcHAwa3ZzamR6VjVDdXhobVVZQ0Npdlo1SlNtaU9OVjQ2ZUx3eEVxNldwNm41bkEwdmR2XzVxWGdadzdSVw?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 14:08:03 GMT"
+        },
+        {
+          "id": "0799fa330e91",
+          "title": "基于大模型AI重现历史影像 揭秘《长征颂歌》创作细节",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://news.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tbXRHZkhYLWhmY2FkZ1ZXb3A4R3ZjZjFxVjE3TFRheDdhdkN0UG5PbnhrZkdvN2o5ZnEtS2FqN29KRlNubkM4dVJDNURkXzN0ZFhWRXJnYVV4ZVpHTVV2VHdZb21oVzdyNXRDNjl6ZnUtNGRtZno1Yw?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 14:01:06 GMT"
+        },
+        {
+          "id": "78ad0b53916c",
+          "title": "国际随笔丨欧洲AI雄心难过“能源关”",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBINjNGM3FpZWJvUk1TR0U1SGwxWEJjSTJRODA3b1d3QjVvVXlTS25lTDlxZFV0alFOend3Z3ZxNkQtZzhzYXhuOHVZcy0tbzF1aVVLV05SY0NwNTd3TlFYblVCS2IxbTRwOGZ3Y2xVTWlCd2VIdTI2c0NoNEJvUDA?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 13:31:48 GMT"
+        },
+        {
+          "id": "a87e85c5ae16",
+          "title": "王毅会见美国亚洲协会董事会共同主席桑顿、《纽约时报》专栏作家弗里德曼",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFM4WVh5TWQwQ1Y1YWpqZHpUWmNFMVIydzNJMW5XSnp2OGh4UkNpOFloM0pvMUkweDlBaXVwWVRvdjJHMF9RNkxTNkNhdEktRVdjMWVoTDduUUduYmxmQU9fZ3BjdGtFTzVUenJfT092bEpQYUJPWkJNUm9ZZUY1QnpjMzJOYkptZjRNcTl3?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 13:14:31 GMT"
+        },
+        {
+          "id": "4988f641eed8",
+          "title": "中外记者看深圳丨微众银行：加速迈向AI原生银行",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://sz.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Nc1hxaXQ1ZTQzLXREenhJam5fSzJySnNIRFp4R1ZobUljcEcyNHVQS1h6S1J0NHdYR1lXX0hPVTR6ekVTejFLMWhtc1NSRS1QNDdqWFItMGd2Sk12MTV1MFJ5Y3ZvcVhzdFE?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 12:56:00 GMT"
+        },
+        {
+          "id": "8fcc0eebeac4",
+          "title": "共建安全可信产业生态 “具身认知与AI进化交流会暨成果发布会”在京举行",
+          "summary": "该条信息来自权威媒体“人民网财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网财经",
+          "sourceUrl": "https://finance.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KVm45MVV5OVRiOE5HaVI3RWR5andUSDBBLTlLcWFTTG9UUEZHWVNLNFZLZzdGa3Y0WDFnNTBPT3hPcFpWdjJtMUZualNfVGd3SWxrUnh3SVNxV0gyZlY4d1JZQWV1aXhpNzFqdHBB?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 12:52:00 GMT"
+        },
+        {
+          "id": "559a75d16252",
+          "title": "香港交易所推出人工智能及半导体指数",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3k0STdCSE13RFB6TUhNY0R2bXIyNmh5NVAyby1Ucngwci1VMEFOcF94VWJONFBjOXEyTHExZ05SenZTdkg1a3pyZ1pMbDBXV1dJTGo2SER5SmJTY19MLUYzSWREb2xyMEFteGQxRWFjNWR0UEo1ZnF5UE4zT1NyMA?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 12:34:49 GMT"
+        },
+        {
+          "id": "ddd05fc64cd2",
+          "title": "[共同关注]关注“AI魔改”乱象 持续整治“AI魔改” 上月处置账号30余个",
+          "summary": "该条信息来自权威媒体“CCTV”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "CCTV",
+          "sourceUrl": "https://tv.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQ0kyaVowMjNtTUh5Rmo0UlBOS185Q0Q1NVlGd2x0cFdIMXZjRUY1cThUbzhUNVFaUGk5WURTR2VNWUlDejFraW5IOEN3QUhYY0RUZ2lobkhzVmpKQktfWDIwV1VzSGNqdHF6OEE4clRZTU1sUVE?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 10:59:00 GMT"
+        }
+      ]
+    }
+  ]
+}
