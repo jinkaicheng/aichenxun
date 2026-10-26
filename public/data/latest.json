@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-25T01:31:40.641Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-26T01:35:41.829Z",
   "sourcePolicy": {
     "version": "2026-09-trusted-cn-v3",
     "mode": "可信来源白名单 + 头部公司与模型优先队列"
@@ -21,24 +21,14 @@
       "name": "OpenAI",
       "articles": [
         {
-          "id": "49afd68f39cf",
-          "title": "OpenAI ChatGPT是什么？2026最新功能与新手使用全解析",
-          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "百度",
-          "sourceUrl": "https://kuku.baidu.com",
+          "id": "d1ae2dc869b7",
+          "title": "OpenAI 红队测试网络",
+          "summary": "该条信息来自企业官方“OpenAI”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com",
           "sourceTier": "企业官方",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kaGJEWVdWMEtHakZBRnhhQmszeGZJdmxWSEZTOE9NOVJDTUc3Z1hOM2RQSFJFVnhlaFZqTFQwX20wM0ZIRFVRTk1PZUZURThycDc4Wl9vWmUxTHo0TWViWWdoSVFXbjIzVTZNNXNNY3FHTEI4UjUyU1I1M2Q?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 09:47:05 GMT"
-        },
-        {
-          "id": "8bfd3ac962b7",
-          "title": "ChatGPT 用户年满 18 岁后会发生哪些变化？",
-          "summary": "该条信息来自企业官方“OpenAI Help Center”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "OpenAI Help Center",
-          "sourceUrl": "https://help.openai.com",
-          "sourceTier": "企业官方",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0t6V0wyMnVyNTZpSVlYNkJHcGRpTWtvMlBzOEJsdnNITlJsUGI3bXRob2dYOUFiR2VtZjNqSXYydGZ6TXhsUzE0b1dVd3I0TnZ6M3V4dEhvRHF2eXJXSjc5WHZob0x4Q0Jld3VZZmVYd0pTZWNwX2JSemxtV3FydWdaaDFqRkdhTHVRZ1I1aG5FMFdCejd6M0RR?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 07:11:48 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50QzF1aTExWjA1d3ZROVdSNXNvelU3RnFMbm9rRVlPVHZTZFNEVGtXOTEzUzFEVXZKUFktcXREcWRGby14M2tPY3NvQXlEZVZpNk1IalZpakpSbC1xbV8tQjNpeGlFdzg?oc=5",
+          "publishedAt": "Sat, 24 Oct 2026 20:48:53 GMT"
         }
       ]
     },
@@ -46,14 +36,24 @@
       "name": "Anthropic",
       "articles": [
         {
-          "id": "faac1ab699db",
-          "title": "Kimi发布K3.1 Pro：后训练升级、API降价三分之一，挑战Claude Opus 5.5",
+          "id": "636f5514783a",
+          "title": "Claude桌面应用推出全新界面，设计周期不足3周",
+          "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "DoNews",
+          "sourceUrl": "https://www.donews.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BN2JkZURXdFVQbjZMZm1abzIxMEVJSDAtTFJtX2NaSFktSE85bVJBQVBDaVRUcHZCNkZ3RnVQSm92M2VveS1fcWRHeFAwV2p5ZFVEMS1lRzU1LTZlSXc?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 14:45:03 GMT"
+        },
+        {
+          "id": "75a16027b4c7",
+          "title": "Anthropic IPO估值预期从约2万亿美元下调至约1.5万亿美元",
           "summary": "该条信息来自专业科技媒体“虎嗅网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
           "source": "虎嗅网",
           "sourceUrl": "https://www.huxiu.com",
           "sourceTier": "专业科技媒体",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JSUJBcF91c1d1LXlLbGhBV1NWNmlNVU5vVFN4WjdwVS1IbEhJd3Zjc1U4RDVHVHJPOUpzeGxUdFNHT0s0bEhOeWRtZi1YaWQ2cWNxQQ?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 12:31:26 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XbWV1TXo4WGhnVHhfa3Y5VGdzWm1sN1pYaWFBTmU4MVBMTHI4Z09lTTNSaUhxbGVrOGgtb3JCUUZMNmh1UnBLRGFnWmZWbEVXWExzZg?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 13:50:53 GMT"
         }
       ]
     },
@@ -61,54 +61,34 @@
       "name": "国内 AI",
       "articles": [
         {
-          "id": "cdd3fb7f3729",
-          "title": "GLM模型是什么？2026年最新版本与核心能力全面解析",
-          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "百度",
-          "sourceUrl": "https://kuku.baidu.com",
+          "id": "d0845477b34f",
+          "title": "Kimi K3.1 Pro 上线：Highspeed 输出快 2–3 倍，API 价格也翻倍，值得换吗？",
+          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "阿里云开发者社区",
+          "sourceUrl": "https://developer.aliyun.com",
           "sourceTier": "企业官方",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fdjdCaWZlaTZENHZudXFxejdhR0F3NE1hOUItNkUtTWxGVkQtUmZUSjB4ZnNPZlVBOW92VElSX0c2WjUwaDhIR0dob0Mwc3kzT2Z0N1pmOGRPS3RLZ0lIZi1uQnJJYnh5d1IybXk0ajZIWm5FNTh5dmRNeVA?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 10:34:37 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MR09tRFhBUjRyLV9HM3FNeC1QQnJWN3ZzY0VfaHpyVmZYVDB3Wk9peWpOQzBEdHRxZ25WejJYTWlxS29IYmdIT2RFTmZ6Y0hsQ3g1akVvRQ?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 10:53:20 GMT"
         },
         {
-          "id": "7c2900875ccd",
-          "title": "文心智能体是什么？2026最新功能、使用入口与同类平台对比全解析",
-          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "百度",
-          "sourceUrl": "https://kuku.baidu.com",
-          "sourceTier": "企业官方",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5heXJydE9KeWp2R2ZraUZTZEY4WWotUWlFa0p0MWNEYW9QVGtGWFFpaTdidE1VNVpmNU9DTHZNY3RxWW54dEVueDhURFlnOHdyS0JTSzJvZU9UNWpxbG5NRFRDUXl0dHNZTGVSVWlhVE1pN0E4ejJmZUNienE?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 09:38:49 GMT"
+          "id": "0fe66bd973bd",
+          "title": "Kimi K3.1 Pro深夜“炸场”：2.8万亿参数蝉联全球规模最大开源模型，月之暗面上市前夜提速场景交付",
+          "summary": "该条信息来自国内主流媒体“每日经济新闻”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "每日经济新闻",
+          "sourceUrl": "https://www.nbd.com.cn",
+          "sourceTier": "国内主流媒体",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aRXRxQ0M5TEtzTEdoZlU2bUhGMUxkeFRJOVVfb0ltenRMNHAyUmx2a2N2R3JjeW55bmFmem4yUGozblptLUluZGNBZ1BJVVJtMmF0TGJBdDg3VW85TzVSN2g4R24xZw?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 13:32:00 GMT"
         },
         {
-          "id": "cc47848fb0b2",
-          "title": "周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”",
-          "summary": "该条信息来自权威媒体“人民网财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网财经",
-          "sourceUrl": "https://finance.people.com.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92aEZUS2tFX3hsWTFSV0lLWkR3d1ItcEhoXzQxVF9aSEhjTjg4aHo1bERSM2MtMzdTMHMxbFAtaUVXV3dwb2RqaDBlU3d0SUcxRzlDc25La3Nsc25FQmVkUXJBa2lHWWhPdWdOX2dB?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 01:02:00 GMT"
-        },
-        {
-          "id": "2cd53b7e4c0b",
-          "title": "Kimi迭代3万亿参数大模型 首次推出Pro版本模型",
-          "summary": "该条信息来自权威媒体“财新”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "财新",
-          "sourceUrl": "https://companies.caixin.com",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvand6SGdDTElUNkd0Zkp3emFrX2NwYWpnOHRVUm5YNlEwd2xhWEZfTFB1V295M2hMb216eGZ6RUlCU3VxQ0NIRzd1VFJVdkNMaU9lSEU5MFdmOFItQlpQNVd4clk?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 06:28:00 GMT"
-        },
-        {
-          "id": "490c6456883d",
-          "title": "全球参数规模最大的开源模型再突破！月之暗面发布Kimi K3.1 Pro",
-          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "ThePaper.cn",
-          "sourceUrl": "https://www.thepaper.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JaTNoUVBGUzRmNS1WZENlUnBWcXEtSWMtTExaSmsyZTFXblFkemt6NHg5X0ZpYy1uZDlqdmNFNS1uNmRsWVBiOHJ3ZzdFbkJuMzJJM3BJLTlzeGxoVGpxVA?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 04:25:00 GMT"
+          "id": "4cfba16d479a",
+          "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wd0JWNXNkT3NmUy1UV09ldm1iSXY3dTllQ1o1ZFg5MFZPS1BRY3RCTUJLc05UYWJTb1R6VHhoT0NXM3hJQU5xLQ?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 10:32:03 GMT"
         }
       ]
     },
@@ -116,104 +96,124 @@
       "name": "行业动态",
       "articles": [
         {
-          "id": "379fdfff9b2d",
-          "title": "细说 AI 时代机器人的发展",
-          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "北京市人民政府门户网站",
-          "sourceUrl": "https://www.beijing.gov.cn",
-          "sourceTier": "政务官方",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0QtaGFOOWxSTzlmWmpqU1djTEN5MEdqbjBmckp0cDk3eG03TmpuSE8tdWFaQXd0UkdJdmRqeEoxeGZXSm9jTTJnVjZKZHN5UFpvX25rUjRzVnU3Ql8zenV3dHlJNlpSZjFlenQzUFBLUDFXY3BXOW92dElIYWo0NjhMNFVkaS1EZFZCNXBqblIzZGdReE9oOWtEOWVrRFlYWEdwb0l4cUhnVjNS?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 13:32:54 GMT"
+          "id": "383275699616",
+          "title": "“人工智能赋能课程思政”暨课程思政建设研讨会在四川大学举办",
+          "summary": "该条信息来自权威媒体“人民网-四川频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网-四川频道",
+          "sourceUrl": "https://sc.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MYWdZWFI2Z2xZQ19Vd09janVzemdEcVFvVkI3bXlSeV9IZHlwa2p6SVZjSVpoaHNoaDh1WnF3eTVUVFE4cThFQU80cllZNlc0YVBGaE44d3dMXzF3TWgyc3kzQmRBZ1ZDZFE?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 13:14:00 GMT"
         },
         {
-          "id": "57efee5e72e4",
-          "title": "推动人工智能技术走出实验室，中国移动发布时空智能系列模型能力及标杆场景",
-          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "第一财经",
-          "sourceUrl": "https://www.yicai.com",
+          "id": "1ee8f560b2aa",
+          "title": "粤港澳推进大湾区人才高质量发展",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VbTNiUWRhdURsbDUxWjh5cTZJNWhwTVc4Wm9fZnJHZVcxTHhYdFY5VWlRX09jVlNYbE1Nal9UcjJTc25hYllDNXlzNVBkWjR6aFRj?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 12:44:55 GMT"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRkMzdHVpQjc5NnBYMVYtSW9sbG1lZTl5UDJCSVhTSERhbHgwWmx3RE5xbnpFODMtZC1US2pYeEJXaTk5Tm9fRjM0RzNVUFdrakZOc2tGYjc0bWxUcFJMdEtMaHFzaEJ3dVRHc1QwWDlPa2I0M3dMWDY3OEdVdURxXw?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 12:12:15 GMT"
         },
         {
-          "id": "261d22c758a1",
-          "title": "拥抱AI时代，企业如何探索AI转型之道？",
-          "summary": "该条信息来自权威媒体“中国新闻网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "中国新闻网",
-          "sourceUrl": "https://www.chinanews.com.cn",
+          "id": "3d9128a1015c",
+          "title": "第八届中国研究生人工智能创新大赛全国总决赛在济南闭幕",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://sd.people.com.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VVRmVUJsM2EtcGlfRlBYMnA2QkRsTWxWMVJuNUZ1RlFFbzVrU2JPejVUX1dfWWFTamtVWGpNRVpUbE4zMDB6TGhoQVB4Z0NKbThId0NCLWZLd3JYc0M0RF9uWXkzN3du?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 12:32:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hVTBJT2ZMQlBSdDJELWlZMjJEcVQ0LS1xaUk2R1FaeFV4UHMyREtXT0lYeFN2X0FxTDY4djNoN2VuVUxzMF9vUHpsQmNoQ1BKcFl0aVczdUxTX1hPb015eXdMMHowWWhOSWc?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 09:18:00 GMT"
         },
         {
-          "id": "9bfa62c17c05",
-          "title": "AI等科技赛道火热 海外资金如何看中国资产？",
-          "summary": "该条信息来自权威媒体“财新”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "财新",
-          "sourceUrl": "https://finance.caixin.com",
+          "id": "c52615ead244",
+          "title": "AI新突破：通过面部照片预测癌症患者生存情况",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kSW51d3FRTTFISzVIUkZEQU1qSTduNEZSQ2NRRHBidExiVnQ1N1hpOHYwUjVadEFTMEhqTG9NNlhZdjFLRjl0bzdWaXYwMzAxWE1FeG95TS1CUThBaUpvZjV3?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 12:26:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xYk5yRVJ1QTFILW5aNVFyUUMtV2IyWHlFU3doWGZtSEdfWWlhZkw5bTFZLUpsT1gtRFJ5M0FwWlNmMjF0RlRsdFFYQXYteU5LenhOaDJJRVY2SGZrVi1KcDc2eExzYWJielBoV3dibDQ1LXBTX25oNHBqQ0ltdw?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 09:07:18 GMT"
         },
         {
-          "id": "ab1744287c11",
-          "title": "以赛促用 数智赋能 ——全国医保影像AI识图大赛决赛南宁举行",
-          "summary": "该条信息来自权威媒体“新华社广西分社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华社广西分社",
-          "sourceUrl": "https://gx.news.cn",
+          "id": "35138f26f791",
+          "title": "新华视评丨别让“AI小海”把真心做成一门生意",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iMXkwcnR2bVRBLUYzX3FPaS1Xc1RScl80bERmcHF2MzRWdXRiY3YyYS1RMDFkOXVOUjJ5Z2MtWnRCdEJjbkZJUUlNS1hZcFRFdFNuR1Z3eTNURHhrR0JlUkN6X2FKa0d3b2JFM0sxQ3NHY3NW?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 12:02:30 GMT"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfUG5Nc3pIYW1iTThYb2RZS3l3NHppVllfTzNEOFMzZEZuV05JSDI1R1pVUGhRcmg5Q3BpeWxnaHoxbDhSTHhpLURCUFkwNGtNRjhfNTUxbWRzdl91S2xmTEx2dTZqbm1vbDlUN1RCMFptODJHZXY4?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 08:16:56 GMT"
         },
         {
-          "id": "c02840a61203",
-          "title": "从“比算法”到“建生态”——业内专家谈全国医保影像AI识图大赛",
-          "summary": "该条信息来自权威媒体“新华社广西分社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华社广西分社",
-          "sourceUrl": "https://gx.news.cn",
+          "id": "c8c8aef3ac22",
+          "title": "[正点财经]关注AI专属保险 AI模型出错谁担责？人工智能应用费用损失险给出新解法",
+          "summary": "该条信息来自权威媒体“CCTV”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "CCTV",
+          "sourceUrl": "https://tv.cctv.com",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzQ2h3SmM0RmRTcWNab0JFeWl6X1BxT0hUT3ctTGh0Ym5rUnJYR25ZVVJoWGhQMV92Vkc2UDMzQnJDZ0hLRzA3dHR4SFJxUUxpc1JKazhhTFd3WDM1RnNHMXlDUWRxNHBybXlaWlpYYlRmMUE4?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 11:56:37 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93MzUzQlFmYVRzMkNTT2lrU3htSExJcE8yMXFhS0JmOVpMcjJuQ3RUZUFCSlZFU0o0QWRmZnV5bzI2OWw4emxRWVNwZmg3a1BCSVdHd2F2WXpGXzBvRjUwbEFjcDc4cHFJdUdMQ0lXX3Y1bFpXQlE?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 06:23:00 GMT"
         },
         {
-          "id": "ffd1389fe856",
-          "title": "AI影像识图助力诊疗提质增效",
-          "summary": "该条信息来自权威媒体“新华社广西分社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华社广西分社",
-          "sourceUrl": "https://gx.news.cn",
+          "id": "876f7655f6db",
+          "title": "2026读者·领读者大会在兰州举行",
+          "summary": "该条信息来自权威媒体“新华网-甘肃”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网-甘肃",
+          "sourceUrl": "https://gs.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16RzJ4VjhXbmtKUU80dTBacVBVY3JrS0ZOZ3VQRkFCdmlBWXVJRDZrVVRaS2ZHZnFfem94dnBoanVxb0ZBVDFLLUh3Rl96Z2VfX29IRTZzRDFJb2ppclBua1BESDY5Vk03N19XRDRtVTZuYUt1?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 11:54:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vRjR4X1E1cFdvMWdPWTRwVE0wUkZ0R3B0b0FkZUdXMEZoc3YtVkdHck5zanlMMWZXZkdkYl9sUDNBVTVDLXhMRmJIZUNzUzhoOTdrRXhjcEIwZ0l5SW85QXY2NlhmT3gxU3NlN09oRGNpWmVl?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 06:07:11 GMT"
         },
         {
-          "id": "346d63d67adc",
-          "title": "从产线到景区 中国联通以数字技术激活实体经济新动能",
-          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华网浙江",
-          "sourceUrl": "https://zj.news.cn",
+          "id": "cb9dae1955b0",
+          "title": "全国首个美团AI俄语接待员落地绥芬河",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://hlj.people.com.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tbWp5cjBiYVBoTF92Q3YxQmE3Z0JwMlhwNVltLVJ6d2tfZEl2WVRnN2FBV1lWYTdmRFlqU0t3allkS2FXWXdneUtaV2E1QWFVblJ0eFRvZUZiTHlmMHktWndkZjFrZFQtODJHZk9hcDFtRWVI?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 09:52:16 GMT"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQmVGOWJFQUJPZmZKME1vZTZ3aDJBRmJGZDMyQktORHNRM04yMnNyckl6MWxxMVA2TWZuc2xoNTdVUlJOczVmNnBoei1WN1VtNTN2c1pJUlc0UHA4cjM1LTlqRy1kbjNkTlNn?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 05:54:00 GMT"
         },
         {
-          "id": "3683630ae157",
-          "title": "大数云智亮相2026世界物理AI大会 荣获宇树生态双项荣誉",
-          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华网浙江",
-          "sourceUrl": "https://zj.news.cn",
+          "id": "89efd9261de0",
+          "title": "英国宣布设立AI生物安全实验室--国际",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://world.people.com.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tQTZ4V2gwS21LRmNEZkJMNTNGNzlnRjRlVVZLSVVtZnNjeUVFNUNfbXNUcnV4RHhhbmNqc25GOU5GQTI2VjRNTklFcXZTWFV0YlhBSk5TX0ltRTlqMnU1TF91YWlfM0doWkhXemZBRC1zMmRq?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 09:02:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jUXZubzBKakhZZGZOVmZSQmViN2padEpfemw5MDFzcDdoSVppSGo5OC0yTmZvYS03RVp2ME1HTjduZ3ZXc29fdno1TTQzV2JtY1dDazVUSDZUMzljSFJ5RldMdnUyeTRfSXZZ?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 05:24:00 GMT"
         },
         {
-          "id": "379ab9dfdff2",
-          "title": "正听丨安全借口难掩美打压中国AI企业的真实意图",
-          "summary": "该条信息来自权威媒体“中国科技网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "中国科技网",
-          "sourceUrl": "https://www.stdaily.com",
+          "id": "dc32e3105049",
+          "title": "无线电知识讲座走进上海普陀基层社区",
+          "summary": "该条信息来自权威媒体“人民网-上海频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网-上海频道",
+          "sourceUrl": "https://sh.people.com.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44bmpFWnlMNXQ1V1RBX3RmTDhjaU52WVdnVTNlN3lIWV9lTUFXeDgyVnUtT2tVeVZmRnlwdnRpbi1feVc2ejl6bzZRc0tXVWNfUUZQVld5dWRvVWVxR3RTdTV1RFRpSzJCY3VWalpINTQ?oc=5",
-          "publishedAt": "Sat, 24 Oct 2026 02:54:11 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uQ2RDeGhGaUlBREhRd08zcjcxTDIyU3RrME1ScXQ2OHBNd2pUVXNUT0lib3JEZG1XZVI5dko2X3ZjYVdLekRkakFyVUNwak5QYXNNemp4cHhiWHNXd01kN3VTMm9EbW5oUkE?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 04:59:00 GMT"
+        },
+        {
+          "id": "327a455bdeab",
+          "title": "2026广西人才活动周系列活动将在南宁举办 五大看点精彩呈现",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://gx.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqMF9LbW01bE5sdlNwWmJfMkJtaG1iX01XM0RycW5pV1pUNEFtZTI2dV95bGJDVHdZRm44RFlsQl9PLWRFeWxNNTJZSmV2Q2tFd19KQVc5NzBwYTEwUmtfVHFFUEdTTHNrOUE?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 04:00:00 GMT"
+        },
+        {
+          "id": "08a9a36ba4eb",
+          "title": "香港故事丨树仁大学逾半世纪的初心与薪火--大湾区频道",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://hm.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRld0ZGZOY2pJMlZQRDVXY2xjc1VMVnhwLXdPdkVWZ3FVa2p6RlgzOVdQRFphWnk1eWdtUWEtVURzZ09YTUlqS2U0MGNsWTA5WlJtTUk2YVVaNGx2ZFoxdTNNcnowUVBz?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 03:20:00 GMT"
         }
       ]
     }
