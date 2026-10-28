@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-28T02:33:07.999Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 5 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "c279c6c98b66",
+          "title": "推出 GPT-6.1 Terra",
+          "summary": "该条信息来自企业官方“OpenAI”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93YmVHaWJqanR4N0hqVmMtQ2NGMlRiSG1IOWRHRkg5UnIxWDNONk15ektvNk1RdEx3MmgycjFuUGVsQnZ0bnJwdmRCTkpvTWRRWHhDeDJUQTJlUzlTWkdaQ0pRRWhNclZlSnAyelBkUQ?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 02:23:07 GMT"
+        },
+        {
+          "id": "b4ca5169c5ee",
+          "title": "OpenAI宣布在挂谷猜想、杨—米尔斯理论等问题上取得重要进展",
+          "summary": "该条信息来自权威媒体“中国科技网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中国科技网",
+          "sourceUrl": "https://www.stdaily.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TVJ2YllUN01abUE5eWNCbzlLdTNkUEFuN1VOdGg0NFhUWW5vRVJwTVhOM1I0TE50a2RabWtJUGdkZEg1bXZDalo3VVJWWS05SUpkc2N6YVEybXlId2Q4S042amJFenhiZHFsZ0RIODQ?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 06:08:19 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "30fd4c91140a",
+          "title": "博通为Anthropic敲定630亿美元融资交易，AI基建融资愈发依赖债务市场",
+          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "ThePaper.cn",
+          "sourceUrl": "https://www.thepaper.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFUnA5NXJFajZFelk4OGdodHZvS2Q2REdrNjVuWWF0QThvMWMzemhyMkFJcUNxYWFvdHRBM01nRkdvcU4wUXg2cXFBQWgzME91eFN0aUhTdFNmZE5KMnl6MQ?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 09:12:00 GMT"
+        },
+        {
+          "id": "3a004516eb83",
+          "title": "财经早知道｜Anthropic申请上市，或成“史上最大IPO”",
+          "summary": "该条信息来自权威媒体“财新”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财新",
+          "sourceUrl": "https://finance.caixin.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vWVJqNzctbTl6TWNoNEc5WlNBTXkwY0FBbXF6Y0RvcWJTY1pkRURsblhGd0xhTWI5N24zeUNrVDRJd1h2dEFLU1RsQmdjMWo1bldpc2doMjNCUEdXVmtMc3JB?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 22:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "2a46c6890153",
+          "title": "Kimi是什么？2026年最新功能与手机端使用全解析",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xR3JLT0RRNEFhME5Wc1pCMVF2dndjUl9oM2RoZTJWU2dibWNZMlVoaXg5YXdyREFWaG0zQWVCaERJNlhtN3E3bUQxc1o4amk5ZGFBT0FwRk04NHRCdi1FNC1WZmUwNDRIUjlUZlN6SnRqa2JrdVpiVDFnb0g?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 12:22:19 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "7ccd0c6d2225",
+          "title": "OPCπ一月一站·昌平OPC共创派举办",
+          "summary": "该条信息来自政务官方“北京市科学技术委员会”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市科学技术委员会",
+          "sourceUrl": "https://kw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQktubHVHMk5Gem1EYkxQc2FrRTg0b3JXRUEwbl83QU4zZUtPdzctcTAxMlpoc0w2WUpaYmw3NVZaYWwydnV2WFhCdmQwNVloQmFIcHBKa09Oa3hyeXJpMHJhdWRZeE5FLU9SWUVMS292QXpqWXEtZ1BrRVBoZ2txaE5n?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 05:21:48 GMT"
+        },
+        {
+          "id": "91641ac04379",
+          "title": "上海：以法治引领人工智能产业创新发展",
+          "summary": "该条信息来自政务官方“中华人民共和国最高人民法院”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中华人民共和国最高人民法院",
+          "sourceUrl": "https://www.court.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kSlZZXzU3YWRGcU1aRzZKT0dSVHlLbk5aNWR2NlJBLXJVbk9GNHJjZVJJOHB2RDFDS1FZUUtnOTYzclk3dEtzS3h2RkhzbTZNVWgzQm5qaUUycldYYnE5b1Zn?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 00:37:52 GMT"
+        },
+        {
+          "id": "9b20cb581fa0",
+          "title": "中国（南京）智谷已集聚人工智能企业超400家 引育领军人才超百名",
+          "summary": "该条信息来自权威媒体“人民网－江苏频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网－江苏频道",
+          "sourceUrl": "https://js.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Jd20xNDZJcmdYNTMwN1VXYXMyVUpjQmlMTjlRMmI0NXZTTnA3NHZmZTFOd3F6cS1jZHdycHQtbHlMRk9pd2VmdzUteWVPcDhQeDdmTTZOTF9oMWhmVzNKaE0xZ3pIdjRQX3c?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 13:10:00 GMT"
+        },
+        {
+          "id": "3f7a05db9f48",
+          "title": "从单一买卖到多元体验 AI赋能浙江绍兴千亿级专业市场",
+          "summary": "该条信息来自权威媒体“中国新闻网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中国新闻网",
+          "sourceUrl": "https://www.chinanews.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JZ3VKMkVwbG9kRF9ZTkFHUFhtQmlhYkRjMHZIUktwSlllS3lMYzE4OEdIVFFjdFhpVkM3TjNYd0I4LXVoRl81d3hlc0tiZDM5QjlZZEp3anM4LVhvU2ptWW5uY1FQaXlZ?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 12:08:21 GMT"
+        },
+        {
+          "id": "c7906ccea898",
+          "title": "AI预警+空地联动 武汉青山公安筑牢防溺水安全防线",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://hb.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMTFPYVhIcXVPVnlLWFBfbzdZYUJnMm1uU0Q0Q1ZqNzN6X3kxZ0NtZGZFTVFEMXNSNDRWYW1nME1EaEh3Sjg5Y2treDZ1N0h1TTRjcWNoc1FaOUN1R1VqSzN2ejlWTTVxRkpwMFVOZWJ1Q3pB?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 12:04:06 GMT"
+        },
+        {
+          "id": "5b8bcd35c7a1",
+          "title": "爱康在渝启用AI移动磁共振体检车",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://cq.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JbF9yVVNabzdNNnBIRTM2QzdXb09TaURtdy1mbEFyLWZxY2hyODRJejJMT2Z2Zkk0eDdPV2tPazAyQ1FPdW1tX1N4WURkeTdlRXhHbVhDTTN3VUtYdm5xSi1sT2FDVjZmN3c?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 10:20:00 GMT"
+        },
+        {
+          "id": "9895421ea2cd",
+          "title": "第十九届“振兴杯”全国青年职业技能大赛全国决赛在杭州举行--独家稿件",
+          "summary": "该条信息来自权威媒体“中国共产党新闻网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中国共产党新闻网",
+          "sourceUrl": "https://cpc.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LMm9MeEVBdGJBZUZHc3hJbUdEeDFJZ0pqWTFxbWZoS1VYQlk2LUdDdHZxdUpMd0ItaWVMemZ3dEhQeU84b3Axd3V2SEQxbnMyTjV1MHBZYjBld09kSkRCT19uTDhVNG5PRXR5aw?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 09:39:00 GMT"
+        },
+        {
+          "id": "fe496fe6b59e",
+          "title": "国家人工智能应用中试基地（家居家电方向）在青岛启动",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QbWVVVllJVkpPMHpqTElWcHRYUFJBd0R6aGpCZzh6VXBBTnU4MF9OejBrSEVlRC01RC1tTi1RM2RYekpHcWF3Y09UV1ZCcXVMR2J2d3lvREpDTF9CN3QyVW9zSkNWZFlnWExwd185NEFvdGpOS0J5UFdFcFY?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 09:38:57 GMT"
+        },
+        {
+          "id": "eb1936353ece",
+          "title": "AI制药进入下半场 英矽智能任峰谈落地与兑现",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.xinhuanet.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEhIa2d0TWE4STF3YVNZNmlieC1fVlBNOS1mUDJLMU9OQUdHeWh4V1hCWGFPcG80b3k2dHJuRldJdDdDeGN1VmlONFAzYi1SeGg4LUM4Rmp6dnVtSC1GdEpCNFJ6WXY3NFc1Yno3bVNSaUlwR1c1Z3RtcEV2QmZpYlVhN2REQTQ?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 09:33:05 GMT"
+        },
+        {
+          "id": "6eaf86a5f6d1",
+          "title": "金融价值观丨AI加速深度嵌入保险全链条各环节 金融街论坛保险大会信号正在落地",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40RmZlR25rdV9BZElicmtBTzk5Q1ROUTVqcUVZd2RGX3J1TjBqNXY1N01DOW9SVkFfeGVqbWpPXy1yWkFfS2xWRGdHamRaQkVJVzNBRG83Q0ZpalVkajhWOF9SR2dzM3ZCSFRnLV9Oa3NycGtlWUF6MXpJYUoyWU0?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 09:32:44 GMT"
+        },
+        {
+          "id": "d9abaf56ad15",
+          "title": "方舟健客以AI技术激活产业效能，入选2026医药流通高质量发展优秀实践案例",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZDM0bW9QY3NVRmFKUEtaTkJtWWppQ19jbkJYblFkd1hnYjBZZURkS05td0R5eE1Yak8wZ0J3M3RrcEZNaTRnbjVUUjJ1RVNqUTdqN1NmclJTamN5VDBFVG9rd3VzbEx5V0Q2eDRsbGZCeTRHRlVSaEQySmRYV2c?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 09:26:10 GMT"
+        },
+        {
+          "id": "0a794d4e94fd",
+          "title": "安全立基 四网通链——陈清泉院士纵论汽车质量安全“四网四流”",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmFMMzhnY0tJRUJ1QjdueDQxM19RYjdneDN4QkhRTzRMTWJENDVHT1hPaWxkRVYwVm1Mb1dVbDgwYUIyQmhzQzNmVWFZLXo3RFlYRUx6WWN2MWs5VjB5WmFKYkVGcllRQ3FDT3dsY3A5ellrM3JqaUVRR3hmdl80aUIwV1RGdw?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 09:21:58 GMT"
+        },
+        {
+          "id": "c948b9011319",
+          "title": "2027年AI值得关注的五大趋势",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2N1SDVYRDF5NUJndnByR2lUY1FjcTUzSFllcklDNENPT1Ewd0laOWRiem0zcXY4OTBXeVBCOXlrdnJHbENIX1ZFRktUM3pscEdxdjdHZHJxWE9ocmxHbVFseTZuSW1ZelpkQlRoUlRUb1UzczJnSXA2MnE3eHNBdERB?oc=5",
+          "publishedAt": "Tue, 27 Oct 2026 08:44:28 GMT"
+        }
+      ]
+    }
+  ]
+}
