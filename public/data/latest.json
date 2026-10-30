@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-29T02:46:00.615Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-30T02:52:30.457Z",
   "sourcePolicy": {
     "version": "2026-09-trusted-cn-v3",
     "mode": "可信来源白名单 + 头部公司与模型优先队列"
@@ -15,55 +15,40 @@
     "NVIDIA",
     "国产头部模型"
   ],
-  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 6 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 5 条来自头部公司与模型重点队列，主要涉及 Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
   "groups": [
-    {
-      "name": "OpenAI",
-      "articles": [
-        {
-          "id": "fd25515349d7",
-          "title": "OpenAI 经济研究合作伙伴",
-          "summary": "该条信息来自企业官方“OpenAI”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "OpenAI",
-          "sourceUrl": "https://openai.com",
-          "sourceTier": "企业官方",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4UktkWUtNQXJEbTBLOHMtUndaNEFFM1lQdEhXdFpidF9OY1gtY3BTR0NfUDFKNE5wejR0YVc4LUlMcUFxMEUxVDZQOU5taUtTUHhMaV9aSS1pNHhWM1ljVGJBMTZkVFh0LXQ5WDNnYw?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 13:58:35 GMT"
-        },
-        {
-          "id": "a539384f3b61",
-          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
-          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "财联社",
-          "sourceUrl": "https://www.cls.cn",
-          "sourceTier": "专业科技媒体",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMkRfT0dMOEl4NG5jbGItZG9ZenFXbVpiQU5RUlRUeS1wU0o0eWp5Sy1fMkV2SjJUZ2JZaHcyOXJwZjNQdWdDZg?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 14:13:06 GMT"
-        }
-      ]
-    },
     {
       "name": "Anthropic",
       "articles": [
         {
-          "id": "32c9c38145d1",
-          "title": "鲸算π丨半年营收增长13倍，Anthropic怎么做到的？",
-          "summary": "该条信息来自国内主流媒体“新京报”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新京报",
-          "sourceUrl": "https://www.bjnews.com.cn",
-          "sourceTier": "国内主流媒体",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84eTEwN3dLc016UUdfX0pKbjRVRE9yUUtfU2Nwc3JUU3dscm1HVEJlc2hONk01YWZwZVVmVDk1ZU1MbTNZdlk3dG1GeS1OOXBTZDlsX0M2SlZDVTZOZDhDQmQwSzY?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 05:36:00 GMT"
+          "id": "0f19d0e64fdf",
+          "title": "让 Claude 帮你点浏览器：10 分钟从零生成一套可运行的 E2E 测试",
+          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "阿里云开发者社区",
+          "sourceUrl": "https://developer.aliyun.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56RnpteTd6Nk9vUzgyN2VrcTh1U044eTZUVFN1VHNJcDIwdlJiS0RacDBvaWtNSFNBaUcyTi1NdG9VdXppbW9XdFQ0N3g0YTFVcno0NnBCcw?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 02:46:01 GMT"
         },
         {
-          "id": "016d39057657",
-          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
-          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "财联社",
-          "sourceUrl": "https://www.cls.cn",
-          "sourceTier": "专业科技媒体",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQmI4dFp2Wl9qQmo2R25VaVpIbjdaQWFfd1d6d080LUVaNjc3clAtQnZ4ZTFWV3BrMEpQMDFvdDZxdm5oTDlVSQ?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 13:22:37 GMT"
+          "id": "319065689eb7",
+          "title": "一年之内，Anthropic把人均营收做到了原来的五倍",
+          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "ThePaper.cn",
+          "sourceUrl": "https://www.thepaper.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NQ1VfY2RQTDlZS3VpUmd1dm1wbTF6QkI4NmE1Sm1qX2JMMWdRRXdBSnZhUHhSR2dMS3JqeGxibFJlRy1qbVpFS1l4RzUxM0JpaTJUc2FvWjdVWk9SWXR2ZUgyekVYU0VBNWlYS0g0T29adw?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 04:11:00 GMT"
+        },
+        {
+          "id": "1ebcf92b5241",
+          "title": "万亿美元独角兽上市，Anthropic的理想还剩多少？",
+          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "ThePaper.cn",
+          "sourceUrl": "https://www.thepaper.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jZDA5QTdGaWF3bVRMOGg0WExmaHUxRl9OcU1KSGxwd2d6WmJfRGNJVGxyVFFRQ1hrNWF6aEpZMTQ3Q3hLUGJHWk5oV3dEc3pLOUc5ajMyM3h5VGlRb3N0bA?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 07:38:00 GMT"
         }
       ]
     },
@@ -71,24 +56,34 @@
       "name": "国内 AI",
       "articles": [
         {
-          "id": "0da0a9e800c5",
-          "title": "MiniMax开源全模态模型是什么？M3/H3/M3.1 Flash三款一次讲清",
-          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "百度",
-          "sourceUrl": "https://kuku.baidu.com",
+          "id": "58f872f3ea24",
+          "title": "Qwen3.8抢先体验！大家要心理准备了，最新版即将发布并开源了？",
+          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "阿里云开发者社区",
+          "sourceUrl": "https://developer.aliyun.com",
           "sourceTier": "企业官方",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JZTJwYmJvOF9BRzY4Slp0Y0ZRVVVlRXpVeWhORTM1c2dSV0NGSmU1dTg5eXM0NE5tYWVtVDY0NHVkTEhIUW1DTkpncHNwVEJSRGVYSV9weDRIVk9oMFY4TGh3TnI2RDRqakZHQnJPRlV3V2tVd1d0MHVnZ2Y?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 06:43:10 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14TGQyR2tPSTZxWkN3UmZvbjRjM20td0RsMlFVSWVuUW5fUHZzYUxXTXhwODBfallONzZJZkt5RlhNMjJiZW1aUDRBM2toOEpVYThxVW1Xcw?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 07:29:49 GMT"
         },
         {
-          "id": "b2f8938c7172",
-          "title": "MiniMax H3开源了吗？2026年开源范围、协议与下载渠道全解析",
-          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "百度",
-          "sourceUrl": "https://kuku.baidu.com",
-          "sourceTier": "企业官方",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JbXZLaWI3XzQ5ZldOTjdhaTU1dnFDREdDa2kyQlFzWFBVdGxTSzljblpoSGh6VXpmcDhVQ19wdDhuUlVJbE42NUJndkg4ZUI2ZjYxTWZJUzFXd3UwSWFkY0VMdGVBZ1duRG1aM2YxaHQxd3NpWl93cUxEd3I?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 04:33:23 GMT"
+          "id": "fcdfa646d52e",
+          "title": "DeepSeek 又一开源重器！深挖 DeepInfer 究竟藏着多少技术狠活？",
+          "summary": "该条信息来自专业科技媒体“雷峰网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "雷峰网",
+          "sourceUrl": "https://www.leiphone.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByQ1Y3ckJPWDJnQTVhU3hkSzVXcE1NckpxU2NnWFBKVkJ2OUJJY3REYmRBZld4QkE1QXZILVhGcF81OHpJelNaSWJRa0pfSnFnTGM5dUhNSWtZZUFLSkZkUnRDYUFnb3RBbHc?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 14:14:00 GMT"
+        },
+        {
+          "id": "beb389ead5ac",
+          "title": "蚂蚁版Muse背后模型开源！Agent测评赶超Deepseek-V4-Pro",
+          "summary": "该条信息来自专业科技媒体“智东西”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "智东西",
+          "sourceUrl": "https://m.zhidx.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0ta1FVa2xmMkZ0QzA5emJ5NnMyTjdUOTlQaE1XSjdZNUNKZjRtTkk2RmpLNWR5MVk1RFF6NUZHd25IVXducEh4NA?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 09:44:14 GMT"
         }
       ]
     },
@@ -96,124 +91,124 @@
       "name": "行业动态",
       "articles": [
         {
-          "id": "74fccf687e29",
-          "title": "OPCπ一月一站·昌平OPC共创派成功举办_工作动态",
-          "summary": "该条信息来自政务官方“北京市经济和信息化局”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "北京市经济和信息化局",
-          "sourceUrl": "https://jxj.beijing.gov.cn",
+          "id": "69ec92da2354",
+          "title": "汽车行业首个AI基座在北京亦庄发布 向全行业一体化输出“算力—数据—模型”三大能力",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
           "sourceTier": "政务官方",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81RVNEdUNGVXFKZG1tbko5ZGR5R0I4a2E4VUZNQUJhZUN0TU91UHU4bmZveGR0MkU5TldxUkRTVUhUM2JEa2NlcFJKM0NydDhzVlpOdXlydnVyQTVic2g1T0NFUEpYYzJTcVhSZHFhc2FOWURo?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 06:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vLXh0eEl4Zll4Rl9vUVV0S24tSXRMWmh0RXdIWEFrbmhHeTBmTU5hUHY4QWpVekFuMktJdHp0eUowT2FNdXZmTzB6M3IzVC1uM1FTTWdhejkzWlpwbGdYbHhhckItLUVYTGh3S0Q1RHZJNXpm?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 09:41:00 GMT"
         },
         {
-          "id": "9e59dea51707",
-          "title": "长三角城市竞逐人工智能产业生态位 Token运营中心密集落地",
-          "summary": "该条信息来自权威媒体“人民网－上海频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网－上海频道",
-          "sourceUrl": "https://sh.people.com.cn",
+          "id": "84db5d66757d",
+          "title": "经开区“AI+电竞”联合研究取得阶段性成果 助力电竞行业向科学化、智能化升级",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1akZRT1JFcHA3c1ZiZWpBbFpzejh2NGprWm1WNUhEMkwxWXdqcjVvMjNHN3I1RDJmY2dPcm5JbDhSLVluTENsTU5tVmYyQmxvXzdzNzRHWHB3NmJzNXBDVXVDWEk3SEJ6QXBRb21GRXZfdUFB?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 09:36:00 GMT"
+        },
+        {
+          "id": "c3d1c32c7805",
+          "title": "北京新增6款已完成备案的生成式人工智能服务",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RY2FTZ0s1cG1lX0JGazN0YjA0aGlZZ21JLW5XUTVsRmh2UXhRUl9fR2EzRXFCZUpmallCa3pUY0p2X1ZlQ0tva19ERGc1a1pqYTZQaElYWHZ4dmhqV0lEU3ZDQTBtSElUVURjU1VqSGg0Y0dCWEUtX1ZVaw?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 02:18:00 GMT"
+        },
+        {
+          "id": "848697e28165",
+          "title": "人工智能，加速融入你我生活（深阅读·关注人工智能+）",
+          "summary": "该条信息来自权威媒体“人民日报”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民日报",
+          "sourceUrl": "https://paper.people.com.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CUldtZFZrZXplX2tWZG1pVEllZXpEN0tPNW5DU0U4TDBhUy1uYUJBRXdMeDd6VE11bWQ3LVBRTFlBOTc5ZmhWbkZzMmxNcUtxWG9aZGpfNVZKVlJCdXZPU2EweXcyNFRxS1E?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 10:37:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DVm50bzh6R1JOUUlIdk1MVm03R2dLVVF5MVJPZkoxMWUxRVFOakVFWlc4RGJsaTRsMl96SXhnc2xLempVWlNKb2E5OXI1OTFxMk9iUEhKLXlnbmlabThNZ1AxMDRETmlHdjN0aXFSRWtSRVZfdnZORkF0MjRXcjA?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 14:16:24 GMT"
         },
         {
-          "id": "2c4598c4c3ac",
-          "title": "AI与无线技术融合 家庭网络设备加速融入全屋智能生态",
-          "summary": "该条信息来自权威媒体“人民网财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网财经",
-          "sourceUrl": "https://finance.people.com.cn",
+          "id": "40fb412d8fa9",
+          "title": "AI“助手”全方位“上岗” “智慧进博”服务八方来客",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://news.cctv.com",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTR0NseEJVTngwcE9FY1ZPMGJuZGJPRnZKUDBsZm9MQy15Q3MzMWxNMG5LZUdnNHVIaHM0UFNGNUFzcDB5bHJINER0TFBZbW9NeThEcm1sN0JQX3BrblhxTGN6dDYtUzkzSFRpSU93?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 10:26:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sLXUzOGJ6OHpQa01sUTBMRmw3VlZ3Y1pVMGVMNnkxYy0xekx5ekgwSGE2eXpMT1hhYlYzTHpQZmlzM0VsMHBsNS1YWEdubldnMWV6OGhUOURSdFVFRUZ4eEdIb1JsMVRxUFFfQVpzSE5TQ3daYk42aQ?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 13:16:16 GMT"
         },
         {
-          "id": "4c42a1fd5468",
-          "title": "远景张雷获评路透社2026全球可持续发展大奖“可持续发展先锋”",
+          "id": "42e4a11e690e",
+          "title": "新华社消息丨首批风云气象卫星极端天气AI模型发布",
           "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
           "source": "新华网",
           "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXBRcHh2djBJeElHR3VyRWhtc1p3WDIzT2NldjRucm9SSnQ5cUk0SE5nekplR09nLV9Wa0owT29rek03ZFZjLWhIMmZQNG5rLWNGNTQwemw0dlVpVUFTZUh0czhjR2F6RldZSVhZNVNQRnVSM015Z3JreFJlc0dEMA?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 09:28:32 GMT"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzWnYwdHk1T3VuY3RTZWFBUTZNblBlemRLcTg4SnBya0U1RzU1SlF3UjBVd1lSQjRiSnZuTmVpbXR4ZUxCWFg3RzE0Ni02T3E3aGxpb2l3bXMzcnpJM3hibVNIY1g3TVhaeWVBSG16SXppQkN6d0xn?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 11:31:03 GMT"
         },
         {
-          "id": "2d0e3b21aaa6",
-          "title": "从产品创新到业务实践， 九号公司探索AI赋能之路",
+          "id": "ab9b13a9b3d6",
+          "title": "首批风云气象卫星极端天气AI模型发布",
           "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
           "source": "新华网",
           "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SVjZrZGdQdTN4VmtBWkV2UDdRNmJQSTNrbjFpa3RFTVVjYjQ1bWRJeTZLYkZ4eTJ4aXJyN3d2cVhCX3RqYnp0N2w5bG54ZkNRX0J3WnFBRWlaRzRPQkVnczNvVmVkYVB5elI3ZWR3NGx2S3NrdFA2UHVXNi0?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 09:05:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54bUlsUUJBVGpWN3U3bGFfeExPX2N5YkN4ZW9xMFpLMkQ1a0JXS1dFdWtjX01ocnBEY1l5eE54NXRzbV9PVjlTRE9ITlhNWFJsb2ZEUjVzTk1DQWVJbGlCYW5SaW96VVhCSFloWTBnV1l5ejFDYmo0?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 10:27:36 GMT"
         },
         {
-          "id": "05858e5848e8",
-          "title": "青海首部大型AI短剧《我在河湟当文书，校尉大人请留步》上线",
-          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华网",
-          "sourceUrl": "https://qh.news.cn",
+          "id": "cf61861ee9d3",
+          "title": "苏州相城区发布环秀湖物理AI产业三年行动计划",
+          "summary": "该条信息来自权威媒体“人民网－江苏频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网－江苏频道",
+          "sourceUrl": "https://js.people.com.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCaGxhSUdhRTRiaUtJb252emg3ZFFIWW9TaTEwczRnSXBIT0l2QW5WS3RVbEtQT3VOcUZmM21TUk9kOGJOekZSWFBIQlRPSjhMNWk2aWxycEJXa2VaX1g4VFNhMjV4YW5sNTVIQWRzUlBJa0dk?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 09:02:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03cUQxWE1mb1o3R3JlV2JiOHJ1d2NubGh3ZEstelhsdXNYdmVxS2V0Q1JaSGp6YzFoZG1sS3Y2Z3loZ3dVenFha2xiQkdIQ2lmU1VHWWVacjdJQ0dBU1ZRSEpETjI3SlM5Vnc?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 09:39:00 GMT"
         },
         {
-          "id": "b759cf7a08d8",
-          "title": "乡村医生的一天，从一条AI预警开始",
-          "summary": "该条信息来自权威媒体“人民网－四川频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网－四川频道",
-          "sourceUrl": "https://sc.people.com.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93RFVYenI5cU8xdlVaam1BVWJSb3M1bmQ5MnRNMEdqZ0VhcENYX3FvcTd6d1dzc2dPRF95T1R6UmFDVFBSVmwxQW95RGJid0dzVHVEaWZXeDFrUjkzNWhLdWhDcFZuS29jNVE?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 08:56:00 GMT"
-        },
-        {
-          "id": "bdf8cdd969d2",
-          "title": "高质量发展故事汇｜AI跨越山海，气象预警惠全球",
-          "summary": "该条信息来自权威媒体“人民网财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网财经",
-          "sourceUrl": "https://finance.people.com.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1Qm5xZ3F4enZ1X1g3UC1ZaDNPSzhuUHE1SGtfQWJNNzNxMHpOcmtVQ3h0elNVMzFtLVNHRGVyN1RaZVBiSWo0VTJiaFg2cEY1RGtyQ2xoRDRpaHhDV19QVmlvZ3N1Um4zM0JDYVRR?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 08:44:00 GMT"
-        },
-        {
-          "id": "90f0662a292a",
-          "title": "从后台支撑到经营变量：平安AI的价值实践",
+          "id": "ca3aeaca172e",
+          "title": "工博会观察｜从“自动化”到“自主化”——专访台达高璐华：以AI重构智造底座",
           "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
           "source": "新华网",
           "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOG1FbzFXSmhpRzlCWmFQRGxVcTdHeXhuZHVYVjFnTWQwTnJPOUNOeVd5UzVha1hHd214WmlURFI4dWh5b0Jhc3FpZUxjM0FqSHBHeWN6dFdHbHg3UW1WcTlmdG90ZFVSQWdKUktlOXAySzVkRFBEZTVjQ0p5ZkI2ag?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 08:39:27 GMT"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVZuNmEwS0ZmbjJpMzdFWVgwSERaS2dCaWNXazdmUExydGtDdGx1aVRGdTNiMWJNWjZhVkF6N0tVTDdwWWhrNnVxaXZQWkFEMXFpdUFYQjdReWJnX0dNYnVJU19GWGJqb0IyeDNnaUtWZXRlUmdkbmtDbGkxMFYxRA?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 09:29:47 GMT"
         },
         {
-          "id": "08543affbbf7",
-          "title": "高质量发展故事汇｜AI进厂赋能，释放产线新活力",
-          "summary": "该条信息来自权威媒体“人民网财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网财经",
-          "sourceUrl": "https://finance.people.com.cn",
+          "id": "72e940d6502c",
+          "title": "联通医疗健康大模型多场景AI方案亮相CMEF 助推优质医疗资源普惠下沉",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRMGJhM2lfMExvakRoUy0zNDVpdDFrZE9hc0EwWHF1OXlhXzg2Sm5Cd0FzMDZHUVpnQm90YU9XLVc1STgwbkZYMW9HdnU2bV9yOE9yTVFtOU14dU5jOFNnTUV6ZFZwYnliSWEyWEl3?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 08:27:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93NE93VHdORy05WkJUbFdzMm9iUjlkTUdKQXJSNDA1V05nTGFfSlRZeXdVRUgzMWpnbmV0ZzlpR1F0VDItRlRoZi1wMnRWVXBtM2xKc2t6MG9EaWZ0OWFCU09NaVVBQ1BZRFEwdnhJN1o1NjhWUFh2eW1WeUN1X2M?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 08:13:07 GMT"
         },
         {
-          "id": "5ff215541259",
-          "title": "去深圳龙岗，看机器人“上岗就业”",
-          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网",
-          "sourceUrl": "https://sz.people.com.cn",
+          "id": "c014b18c208e",
+          "title": "AI赋能居家生活 创维发布多领域全场景家电新品",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GRlJXcEJVWG1zdFpkUFNjWm1sMmM4MjRKVTdDZWJxNDBsOEpvVktMbEk3Q0cwR05YRDlKaW85Wk1mRzA3UnZqQ1JXaXdlRkQ5bzFuRXRiMmx5N1BPekxsM1BnbVpZRVJOMlE?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 08:20:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYU0MtZjc2Mm9UeUR0RG9DUEctOXg5dnJRUXpaRmJBeENEVDRadHpIQUdkLWhPcVhyd09Ec2hvMzduaGhZdHFVOC1GaXJCX292SnN3YjQzZG5EaVZyNWphcVFycEVLcjItSVdsb2xtY1d2Rm1YVW56Tk1qUkQ?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 07:44:50 GMT"
         },
         {
-          "id": "300e2341dc54",
-          "title": "浙江加速推进人工智能OPC创新发展",
-          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网",
-          "sourceUrl": "https://zj.people.com.cn",
+          "id": "ec3f27991673",
+          "title": "卡萨帝思享荟成都站：AI全场景生活方案升级用户体验",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ccml1OURMOGVZeURkQmVoRTVhRTl1SUhvbG9wbHIwNzl6X1kyUzNJTXA2MXZlelIxem1qeEE2UUNMOC1rVmttV293N2NCUWhzdG5wU2RnWFZsNVVOOUJxQzl0MHdMRTRRTFE?oc=5",
-          "publishedAt": "Wed, 28 Oct 2026 08:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyRkozQk9vcUJ4T0hrUFpsT0pSeXNrMGtRN19pbVh6clk1cWRseHcxLUpPMmYtbHBTNndYNnVPZC0zcUdHWUJvYXJfQlNpNFdhOXpvU1l1UDkxSHdkdW1YM0RGQXZWSTRCZWpKaTRXZ0k1bjV4clVTYWFYcVM?oc=5",
+          "publishedAt": "Thu, 29 Oct 2026 07:44:32 GMT"
         }
       ]
     }
