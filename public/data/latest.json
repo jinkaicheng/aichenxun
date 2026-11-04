@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-03T03:59:44.375Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-04T03:10:15.292Z",
   "sourcePolicy": {
     "version": "2026-09-trusted-cn-v3",
     "mode": "可信来源白名单 + 头部公司与模型优先队列"
@@ -15,35 +15,50 @@
     "NVIDIA",
     "国产头部模型"
   ],
-  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 3 条来自头部公司与模型重点队列，主要涉及 OpenAI、Google、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 5 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、Nvidia、国内 AI 等方向。所有条目均保留来源和原文入口。",
   "groups": [
     {
       "name": "OpenAI",
       "articles": [
         {
-          "id": "036a2590c852",
-          "title": "OpenAI新模型GPT-6.2 Astra曝光",
+          "id": "71b2e8185f8f",
+          "title": "OpenAI 发布 LifeVal 基准：评估 AI 的日常任务能力",
           "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
           "source": "DoNews",
           "sourceUrl": "https://www.donews.com",
           "sourceTier": "专业科技媒体",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84d1A4ZzNobTBKV3F0bzduS1BycmYzSTZob1Z5MWhGMndoMWotMmVTVmlIeGpNQ3Z3WXZJMWgyT0tpT1RCWUpSSWtoa0N3ZTRvS0VIdXRqTVNJMUJXUVE?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 01:38:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3YnY0WWlzeEMtQ2FnaFFFWjF1UWh0RW5QQlNWSmtKQlJGT0V6eEhaYnhlUXBMZlNSWUdJT05MbTI5UFBfUW1ONDlmNTVXTW42X0hFRkZKaWxKTkllVEE?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 04:33:04 GMT"
         }
       ]
     },
     {
-      "name": "Google",
+      "name": "Anthropic",
       "articles": [
         {
-          "id": "a8caebb8ff09",
-          "title": "DeepMind 十四位学者合著新书发布：提出贝叶斯框架，试图科学评估 AI 意识",
-          "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "DoNews",
-          "sourceUrl": "https://www.donews.com",
+          "id": "016d39057657",
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
           "sourceTier": "专业科技媒体",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xOEVKazRCYjVQNG13Qkd2TU9jX0l3XzNMU2ZOVEdRVDBxcjBDSjdZNkRUOUpxRWVzaFdGVFJoT2hodjdZSFEwOHNSNWpveS1MVzRoT3lxbnA1ZXozWkE?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 04:36:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQmI4dFp2Wl9qQmo2R25VaVpIbjdaQWFfd1d6d080LUVaNjc3clAtQnZ4ZTFWV3BrMEpQMDFvdDZxdm5oTDlVSQ?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 11:18:26 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Nvidia",
+      "articles": [
+        {
+          "id": "627c93b5ef6b",
+          "title": "DeepSeek发布创作者模式，下一代大模型计划基于华为昇腾芯片预训练",
+          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "ThePaper.cn",
+          "sourceUrl": "https://www.thepaper.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ETjY4WW42dU96Z2dYQUdVTVFKSnZuSGRoby1mREJHZ3ZJQXFqX1dwSF83TTBrbzBCQXpkT1VUUmlmR3h0Z3FQSUZIb1JwTlktbVhhZEUyVll1QjBqdjRIQw?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 12:34:19 GMT"
         }
       ]
     },
@@ -51,14 +66,44 @@
       "name": "国内 AI",
       "articles": [
         {
-          "id": "569ebed38043",
-          "title": "Kimi 大模型开放平台_秒懂百科",
-          "summary": "该条信息来自企业官方“百度百科”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "百度百科",
-          "sourceUrl": "https://baike.baidu.com",
+          "id": "b7f3811740b1",
+          "title": "通义千问大模型最新升级——Qwen3.8全系能力深度解析，涵盖API接入实操、费用说明与模型选型完整指南",
+          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "阿里云开发者社区",
+          "sourceUrl": "https://developer.aliyun.com",
           "sourceTier": "企业官方",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU5mLWtQUE9ycWpfZU1JOXVoalZKTjhVeVlvU2xhQ0k3SGxFSDhWcnFFY28xRzdTWjhuUEhRdDkwUERiRWUtYzRUOVJGNTVEVHVqVVNfdVVLVU9uQ2M5ZnVGMU12Z0VIT2dTdWFzQ0VJWEs3QXpENjU1Q2dmSzhpczM0dDlXUGxCNnBRUEJURDdLaktSMGREenY3aXFibXc?oc=5",
-          "publishedAt": "Sun, 01 Nov 2026 17:52:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Da3c0RGxxVlJuWW94Rk02UUo0VkpuMmxfSDYyMzZPaFVJM3k0cS0xQUM0V0JkaHVsR0lfSkY4TjJpM1JYUHZCcXlTRm5OT0N3YVc0Z1lWdw?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 00:17:44 GMT"
+        },
+        {
+          "id": "4422f00748ac",
+          "title": "月之暗面 Kimi 发布游戏开发与创意工作解决方案",
+          "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "DoNews",
+          "sourceUrl": "https://www.donews.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPa1VuOGRseGE2eDNOVmlCTldTOG15LTctVHNCY25TSEZlZk1aTU82VzlBSllkWnRvbmdabl84YzVkYWI4aWE4bGJsd3FCWlNSNWxkZkdYUGpPNU5IOWc?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 07:24:56 GMT"
+        },
+        {
+          "id": "d68053e123e2",
+          "title": "DeepSeek又崩了？最新状态页：已实施修复，正在监控结果",
+          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "ThePaper.cn",
+          "sourceUrl": "https://www.thepaper.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBM0c1RGlWUjJBblNzV0VIdWZWdEdwMmFsTU9PLW9oeHFYN2I5aXFaNThkUjg4Wmh5dXlYTDBlSE1iWDhwNVM3OVMzTG9zN3ZHXy1pQVFhNmRxRm1uQk9zSA?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 09:56:36 GMT"
+        },
+        {
+          "id": "2818d4acd172",
+          "title": "阿里巴巴蔡崇信：AI只有开源开放，才能普惠普及",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNQnc1T1gyRkItanBMU0Y1MjlMd1J3bmVDTjY4VkllNGhNMHFiMlp0ZUc2QlV1Nk1JSjlEVTZ6bXlJMm0tNnUyVms4cW9Qcmh2Z09oVGl4MVpfdzNPSnJlcThCb1VxRHJFaV9aS2x3YmNQcGZjRU9uYkgxWjY?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 09:48:02 GMT"
         }
       ]
     },
@@ -66,154 +111,114 @@
       "name": "行业动态",
       "articles": [
         {
-          "id": "de61e6d1cb6a",
-          "title": "谱写数智未来美好新篇章——我国积极推动全球互联网发展治理迈向更高水平",
-          "summary": "该条信息来自权威媒体“人民网财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网财经",
-          "sourceUrl": "https://finance.people.com.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Od2E0Q1ZDWnJKeXVtT2FLZGpvaE92SXBzczUzX2ZEa0VsY1kzemNBbDYtb1dlQUFnZDkyZEVYTGpnN1J0TlJrNzV6TlRfQnc5NlNYZ2ZKSXZIUW5pdU13UUl4ZGhlc2RQVk0yaC1n?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 12:26:00 GMT"
+          "id": "ef232412752e",
+          "title": "关于对《怀柔区关于支持人工智能OPC创新发展的若干措施（征求意见稿）》公开征求意见的公告",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnBONWxBODB5bThibHZzV0FzNTdXQ1dxUzRyLTBEWFJUNW8wNXZadW95eWhvc2VhQXJGZC1oWmpsY1RFazNLM29SNnFhak1wU1ZCVmcyNG1UZjlPQm10MC1NQmZlMnFVQUZCZ2RLMXlmcGhvZ2pKTF9Wdk1nT3Bnc0NRV2o?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 09:04:34 GMT"
         },
         {
-          "id": "a804cbacf30d",
-          "title": "中韩具身智能Physical AI创新与合作论坛在广州南沙举行",
-          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "央视网",
-          "sourceUrl": "https://local.cctv.com",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vTVRFbnY1eXpiQkU5c0Y1dmNnOGx2NUx0aUF3ZTBoTEFKNW1FTzBHNDJKUlNtalBTNVQ5VVdjaHZUbVQ2LXFDb2Utcy1vYkVobms4V0JwNGIwczRGZ2s3SUduNktlalFQQUdtRTNPSGFfZUE1b04wM2R3?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 12:02:48 GMT"
+          "id": "839d169bb871",
+          "title": "关于对《怀柔区支持人工智能OPC创新发展行动方案（2026-2028年）（征求意见稿）》公开征求意见的公告",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkZrVk1KQ0hMazRxaU9vUUgtQUxPMmd3TTdpclVuQ05iVUpSQlhXLWhvazFpdEx2b0xta0JZNEtnLXVIaTFQeFhTYlBoQmRRXzF5anJvNjJCNTNqUVVXaXUyQ1REYWFmcHR3c1FCbUdFV1RMVTBTaG9HSi02SFhVYnpPVm0?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 09:04:34 GMT"
         },
         {
-          "id": "185835a74a41",
-          "title": "淮安清江浦区推进“人工智能+制造”落地生产线",
-          "summary": "该条信息来自权威媒体“人民网－江苏频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网－江苏频道",
-          "sourceUrl": "https://js.people.com.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fSUVGODlsLVA2X3RVMXZrd0ZyaWRmZXRYRnlUWktiQzBnZTJIMnN4LVEwNnYtdHoxSUxyaFhzSHNLVFRmcFFPOFpDakRKWXd5d0xOSVZTOVNNRHhhaFlQcC1fc21qWDdzbkE?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 12:02:00 GMT"
+          "id": "e71b864be787",
+          "title": "昌发展集团参与中科睿鉴A+轮融资推动AI内容伪造检测技术研发与产业化落地_投促活动",
+          "summary": "该条信息来自政务官方“北京市投资促进服务中心”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市投资促进服务中心",
+          "sourceUrl": "https://invest.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wb3NITGx5Ti03SUt4Uko4WHpucWUtWElTTThCV29QQW54Mk5ac19WOW90WTR4RzNfc0VTbUZmRXpnM3JlanFFRE9KUUtMM01TY3N6NHZQWVlITGxMdENSQmtfRjk5b0xQMEUtNDVyWEpiSDRlUkFzLQ?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 04:24:00 GMT"
         },
         {
-          "id": "98cb70d06ae9",
-          "title": "AI赋能共享中药房建设 盐城东台市举办中药服务能力提升专题培训班",
-          "summary": "该条信息来自权威媒体“新华网江苏频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华网江苏频道",
-          "sourceUrl": "https://js.news.cn",
+          "id": "d3396bc8e523",
+          "title": "看展深一度｜在乌镇，“试读”人工智能开源开放",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://zj.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0YllNVVdVdmxDU2VzWGhYSElVc2J2S3F5WXZWdUg5V0RtLTUyV3RQNWZGSmNkSzZZYkwtczFaU095UnBpdFVnSGROak9JQ19QVTh0Ym5RYWtGbHV1dzY1THZvYjRmMjdMZm1xQnVSaDdVd21I?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 11:01:57 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEc1F6WVNEQUtzSUdZNTJJUnhlaW45dHhKWDdJc3pLbUdiVjRFQnd4Sjc2bVdSa3o3T3haOG12VGRaWnQxSjRhM3FCaTlZQ0xBTlBTTVM5ZGFqWkY5anF4amJxNGlkZ1k3QWFjZTJDaVpydXN6?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 15:04:18 GMT"
         },
         {
-          "id": "744caf1215eb",
-          "title": "最新封面报道之二｜最赚钱“AI实验室”IPO揭幕",
-          "summary": "该条信息来自权威媒体“财新周刊”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "财新周刊",
-          "sourceUrl": "https://weekly.caixin.com",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oR004U2l6aVpUZmdfUHpKVHRJbVVPaERBRmZHMHh1OVJKR3czSnlJUl9LdzdJNXRsQklkUEdyZk5jWFNVYmFtSVVGTnJKSlprZHFsNUp1czk4c0U3NUx6cw?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 10:45:30 GMT"
-        },
-        {
-          "id": "99ee5bcc6cd1",
-          "title": "[共同关注]真相来了：AI模特“攻占”电商平台 “生成式卖家秀”能代替实拍吗？",
-          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "央视网",
-          "sourceUrl": "https://tv.cctv.com",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2X1dsNDVjbUJjWVhJcS0ySkoyOVYwWGVhNGJaWWp0V2pwVjBpVzM3allCMTNMQV9UWWRlOVlUUWlDNFhQMEVlQVFkeW9uQjhDaURGaVNlRXowT3o0YkdtQnVUX2hHVW0wS3EyTFlqYTJFdE1XVXc?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 10:43:00 GMT"
-        },
-        {
-          "id": "20380e10ea1a",
-          "title": "2026年乌镇峰会·观察 | 未来已来，“AI搭子”点亮生活！",
+          "id": "ad7af9e232a8",
+          "title": "乌镇峰会，如何“智”见未来？",
           "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
           "source": "央视网",
           "sourceUrl": "https://news.cctv.com",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HUXhCSUg0dktlM1Raa0lfVXZDV1pUVElWc0phNWRvZERfWmhRUzJKSDNpdHB1OHNDTkxHNXh1d01fbkVxYXRRVXpsemM5Z010X014WkxScGxYRFB6QlV1ZmVyYk04S29PUmdUTWhGMUxaZ3ktVXFkeg?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 09:44:16 GMT"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ia2U4X3VGNjdGb1ZPWkJRcXdaclJnSUV3cWYwS0hKYXB3UUpISDkwNUppYzNmVlNiVmtMa2FOMEFEVmstMGlJZmdqV2hjenpXWnlHeEJVMXBFUlNhYmVMSjBJY2RUWWIxcXZ1Rkk2Q2R4NldJc01Wcg?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 12:51:20 GMT"
         },
         {
-          "id": "49c88fcfde36",
-          "title": "“浙里来消费 AI尚新生活” 2026金秋消费季在温州启动",
-          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "央视网",
-          "sourceUrl": "https://local.cctv.com",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11TkJHUmdEc2dBY0w2ZVVLV0F4Y3FUdmhZTE1lR0pIT0VFZlNJWU5NNmxjVmVwVTZoTGxjTkVxUHJoVkhjOVR6U1lnOHJPR0JfdWRLNFVOdVFORF8xdE1HRndzWWlPYUdYeXN3X05UTGFzNnl0Z1piNTNn?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 09:28:51 GMT"
-        },
-        {
-          "id": "415dadec522c",
-          "title": "2026年随园知识产权论坛在南京师范大学举行",
+          "id": "da3e0b0ad6a7",
+          "title": "中外学者聚首苏州探讨AI时代劳动教育传承创新",
           "summary": "该条信息来自权威媒体“新华网江苏频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
           "source": "新华网江苏频道",
           "sourceUrl": "https://js.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WVWJNNDlKdWtRR1c0ZjdsUmhOSUJtNnljTzkyNEFHYnVRQjNRX2FsUzM2dlJvRUVXRnA5Z3NpblBRWUNobTlrbTdlTVpBUHc1T3dwd3JzY20xSDlwLUNiMzlQZllaakp0TkVEZmxMMXhJZWcy?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 09:03:55 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xbHIwRjUzbE4zSVBBdVVscmljSWhMcW1UbEotVlhBcm85MzVjeDJaM0dfYjBWSkJ0b3ZDWUQxUVFSdWNoMG54bmtFdVNXaXpfY1UwelpjRjlSRW1ab1lxVDVZVTF6SUg1Vm5JNloyQ2xSZVIt?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 11:34:18 GMT"
         },
         {
-          "id": "ef314daabf11",
-          "title": "AI视频丨“胖大福”打卡2026全球熊猫伙伴大会",
-          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "新华网",
-          "sourceUrl": "https://sc.news.cn",
+          "id": "c825d0763d0c",
+          "title": "深化拓展“人工智能+”行动 推动海洋经济高质量发展——国家发展改革委新闻发布会聚焦培育壮大新动能",
+          "summary": "该条信息来自权威媒体“人民网财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网财经",
+          "sourceUrl": "https://finance.people.com.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13ekc1Sjlta1VJN1pwTk91QUJESXpweTFfdDJHNkRoVGRfX0Y2ZllrT3p2VWhMd0FYTlFDYVBZdFRkc2Zxajg4WGVkQWtyMUV4RVRQWGx0dGxWcUJvU0hHSmZCVkNPZE9iRHZWc1VZNm9mVHNnSXc?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 08:53:36 GMT"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZDk4T0lDT2U3cWZFcExMYW93ZXdaekNaOXNlV0JSbHh4dHB6SXRkMGt1Ym43M3FWRVFXaFI2LU0tRG9NZ1lEbjVsZk9nTkozLVlsWEFSRmhYcnBIUnJna0JCM05FSHVkMkZQR1lB?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 11:16:00 GMT"
         },
         {
-          "id": "3f791b222939",
-          "title": "AI歌手惊艳登场 多彩贵州城解锁“山野潮音”",
-          "summary": "该条信息来自权威媒体“人民网贵州”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网贵州",
-          "sourceUrl": "https://gz.people.com.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZazBWYkFfMm41cFR2TU9FUG9HQTJBYjh0WWFyYXJRYXdqYktuQzdqVFYtN1dYYUNzSzB6YXVZZ0RZS2Zuem9sdHAtSy1LeFVkQkhwekREUDdET3F4WjdRVlVialcza0lBbHc?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 08:37:00 GMT"
-        },
-        {
-          "id": "e141ca27b753",
-          "title": "中国移动亮相2026世界互联网大会“互联网之光”博览会",
-          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网",
-          "sourceUrl": "https://zj.people.com.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ccm9mY0NQWFZfZnM2Vi1fMEU0bDVBSXoxa1Q5SjdLWFI3VTJqWEJTOWwycWZKa2pmSGMyYmF2ckhNQW1hMTFHVlZna1NRaDBwVGNTQVJncm9PNzhJYVREeXEzXzhuRXl6R1E?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 08:30:00 GMT"
-        },
-        {
-          "id": "ddf525af5eca",
-          "title": "乐山公安AI短剧《暗流·峨眉》上线了！",
-          "summary": "该条信息来自权威媒体“人民网－四川频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "人民网－四川频道",
-          "sourceUrl": "https://sc.people.com.cn",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HdHZQeHhkY1VFdWtta0lfNnloTjZGNEI1T05JOWtaTFVXQnVfRzd3cFNVVTBlZUFvTlhJRTdUNHdYR256X2pXSFZsdnNVS1R2alFyY1FxTjlSWHRIel9fby1xUkJqOU1qUmc?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 08:19:00 GMT"
-        },
-        {
-          "id": "3f338895128f",
-          "title": "乐享AI音乐 体验非遗魅力 贵州大学生AI音乐周在多彩贵州城启幕",
-          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
-          "source": "央视网",
-          "sourceUrl": "https://local.cctv.com",
-          "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxSXZlRm1VWXYwLXBZVGtxbjRKdXdUT3ZScjh2S3V0NlU0d0ZYLWNnVXJnaUotTDI2blMzakI2bVFVbmU1Ykl5ZjI5S3BTS05IYzF3T2llWElrdENJVUxCN3NySnVmUF95WEEtbmN2R2d6YTV3Zk45dkh3?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 07:47:42 GMT"
-        },
-        {
-          "id": "81b0804fbebd",
-          "title": "探访AI领航科创中心 感受数字化智能化转型",
+          "id": "11fb517b7e0d",
+          "title": "深化拓展“人工智能+”行动推动海洋经济高质量发展——国家发展改革委新闻发布会聚焦培育壮大新动能",
           "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
           "source": "新华网",
           "sourceUrl": "https://www.news.cn",
           "sourceTier": "权威媒体",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GR0tKZS1xdXpGc3d1cmppRUFmTWNyeVNIYlhUMmR3SHozVV9aemRtME1XcXBDWDVCS0hDTDZXNWFuMHlHcEtRREZ2T2NFckNTbTZQR3FBdGxoOVhvS3dXdnM1Szl2dWJJRnJVNmZHSzlTV25Bby0xNlBLa2FjNVU?oc=5",
-          "publishedAt": "Mon, 02 Nov 2026 07:23:22 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PTE9YV0VCRGl4SHhBNGFhRk5lTl9SM0gxOXVVWE1oalJnRDM1Unh2LUotZzljcjUxeExZRGJ6bEZDZGlQeWFxWDBmX09Fbm5BYVdiSDc5WFNLQVNUNUEwRjZoV0Y1a2lQeFJ2MnNpNXpHd09yc2JRU2dIS096QQ?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 11:08:43 GMT"
+        },
+        {
+          "id": "1eb6d3c8f621",
+          "title": "WPS与阿曼签署合作备忘录，共筑中东AI办公新底座",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YaWlJdDUyUzlvRHRzQklRSVYtampBUmNCMEZkWXRrTzRKNTF5SVVFZmRoNGtveVdDalJWcVlieWlDQlFFVHRud2ZRY0VkWHU1TzJYMmFmUHJTWTFfQ3lrSnBMQmhVWENxVjh6UVFzZHFjTzRGNmItZjdyNmk?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 09:47:42 GMT"
+        },
+        {
+          "id": "8da025d71654",
+          "title": "爷叔阿姨学AI潮课 500余门优秀课程亮相老年学习课程展",
+          "summary": "该条信息来自权威媒体“人民网-上海频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网-上海频道",
+          "sourceUrl": "https://sh.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TVnU2a0dfbWVoVXg2NWtvSEI5LWhIS0ZmVDR5NWFBOGU5VzZINlh0Q3FKc1lqaFU0dzVFSWhkY1otX2hxMTYyRTFPMldOZzc3Mi1OUThvYWlFTmRCejR3dEpxZnl5T0E5M2c?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 09:23:00 GMT"
+        },
+        {
+          "id": "5812f3109ae5",
+          "title": "360叶健乌镇谈主权AI：未来企业竞争在于指挥AI、组织AI、沉淀AI",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tNjBBM0g0b29SblJzajQ1X2dfekhaR3lSWnZmWHlpQ2ZOdHR4ejllV1lhcGxnUXRjRldEYm9YMEZMYnpqZnZqdHJnYVc2dG5WejBhWFh3X3c0QTBvNE5IbFZzWkEyWWllOFU4MWdMWFdMaExNYl9KdDFGYjY?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 09:11:58 GMT"
         }
       ]
     }
