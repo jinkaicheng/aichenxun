@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-05T03:40:40.070Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 4 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "235b9a8ffa84",
+          "title": "OpenAI将收购开发工具初创公司Pierre Computer，瞄准微软GitHub代码托管业务-36氪",
+          "summary": "该条信息来自专业科技媒体“36kr”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "36kr",
+          "sourceUrl": "https://36kr.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04bzhoT2NiRlhNRmFxdDNLNm1FekM3eWZYTGFKdEdJMjc5ZUduVk5XaDJuUWtHLUtJM1pCRVMydmNrY19Wc1lLSldqaVB3cy1XM0hqWWxuQjc?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 19:54:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "016d39057657",
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQmI4dFp2Wl9qQmo2R25VaVpIbjdaQWFfd1d6d080LUVaNjc3clAtQnZ4ZTFWV3BrMEpQMDFvdDZxdm5oTDlVSQ?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 07:36:06 GMT"
+        },
+        {
+          "id": "40c578050779",
+          "title": "谷歌发布 Gemini 4 Carbon；Anthropic 提交 IPO 申请；特斯拉进军越南",
+          "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "DoNews",
+          "sourceUrl": "https://www.donews.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qaXI5bEZXQi05N01wOEZ2bzItT2czYkhOdXlMdDhoREcyQ0lDU25td2JhcHZtb2lTd28zYU14S1M5VENmQ2tleUhhSnhSd0pIWUI5MDUzVGpKTUEwekI1Vk9WN3Y?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 06:40:34 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "c9bf0d36a4a3",
+          "title": "AI第一次自己给AI动手术：MIT让大模型改写Qwen权重，开源模型正在变成可编辑的资产",
+          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "阿里云开发者社区",
+          "sourceUrl": "https://developer.aliyun.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SQlh6ck5JU0hUd1NEenZJYzhCTEpfNTFfblRYOVVUTVM1eGpJOGlwYjlYd0JhdFF6U1JUYnlzcTcyS3dEYnVweWY4R0ZjbzZZcjY4eEVRaw?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 06:56:22 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "4c99ba4214eb",
+          "title": "以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识",
+          "summary": "该条信息来自政务官方“中华人民共和国最高人民法院”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中华人民共和国最高人民法院",
+          "sourceUrl": "https://www.court.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yREc4aFJsb3VkUjJ5b0NUd08wUG5oVEM0Q3BLVnBUNXZwek9oNGRNbzI3dHl3V0ZqSnZnWTRjak5XWDNtNFgybzJHdEkxTkd4M05TdkVHUW9CWFdyNXlRZDlB?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 13:41:10 GMT"
+        },
+        {
+          "id": "f169f3b56fb7",
+          "title": "中国中医科学院广安门医院承办“2026人工智能AI+医疗·赋能中医药高质量发展”学术会议在京召开",
+          "summary": "该条信息来自政务官方“北京市卫生健康委员会”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市卫生健康委员会",
+          "sourceUrl": "https://wjw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuQmtOa3FmNnJKZ0F0OWtWd095TjBpbFRubVo0RzQzMFBpblJNTS0yWVVuTGRKbFhTRWswUGN6SnFVWjBoYm1QVVdnWEpvejRYM3VkNllyRkpEOUNubHVVcmdBQ2FjaVRVeDZISTlCSm5NOVVEdDJ0UnYyajk?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 02:50:04 GMT"
+        },
+        {
+          "id": "8fbc113052c0",
+          "title": "[视频]“一人+AI智能体”全新创业形态走红",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://tv.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XVVJxM0hFR2x3ZzYxRVh2dTFaSS1sYjBGeXJNcUVHUkRtTDBDdmhfSVctdktyTDVFRjBvUHctSnd3RGdHZk9qeUQ2blVWeWFEM3lQS3ZvWXhMelpsN1U1S05SaVZiYXJQQnA5OWhIeGZtOERBSGc?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 14:25:00 GMT"
+        },
+        {
+          "id": "9bb27c675bfa",
+          "title": "以色列一安全公司说部分AI网络入侵系人为失误",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVNGtpWE03Z0FhMUYtc3ZuSWh1SV81ZWgxaF90WEFGVV9YUTdzMXpSLVFQSXk4N1FZYzJjX3BjdGtVMEMzLUItNjZvLXB0RTlZYmh2R0t0RkVMTDVsZEw2cnlObE9sM1hueWM5UzFyU3RTMDFVbUdGT1VxWlhaeVU?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 13:10:29 GMT"
+        },
+        {
+          "id": "d81b48b9cafa",
+          "title": "这些展板里，藏着AI发展“下一站”的答案",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tVU93UFZSbHZ6ZkxsSlMzdWEzN0V3cjVFYUItdGIzRWZuMHcyc3ktSFh6WW13VnhjdDNFNUNJQVF0NGItSkM5VG8tYWpmbkNvWGtsUlE2QlJTclZvSkZTV3c1aFhwaDY4elNGaTZSVFFkSjBpZWVMRVFpSnJKZw?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 12:55:29 GMT"
+        },
+        {
+          "id": "187c979790b7",
+          "title": "从这场乌镇对话，读懂构建AI开源生态关键词",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xaEQ4bmtwVXlBUF81R3pqbXFfSGF2NUdlWTRhQTdET19lLUdkRUZNR3V6WmpVaEEzT0pXWkhvOUVFWGZ1d3Z5MXgwa1FzTTNjM2Q2M29SWFNQbHY4R0Vpa3dyLUh4N3I5Mjh6UUlxeTBNQ0NKYkJIeDBhaVVGZw?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 12:49:54 GMT"
+        },
+        {
+          "id": "76305d3028d9",
+          "title": "南非独立传媒集团董事长瑟弗：媒体使用人工智能须建立自己的章程和准则",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OTERCcEJ3T244bmVZUWxkWWJoU0toM20yam5CNjBPc09PVDJOUjRvX1M3YUtqSllQOE93dGRDN0xNWUUxcnFqSlkyelk0d2h3Z1VPb0xqcUlnclp0Z2RTS2ZXeHQ3WjRqZ2NLTzg4bDFnUEdBVUFKQzRiVkVqZw?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 11:54:35 GMT"
+        },
+        {
+          "id": "60bb7f0887b1",
+          "title": "CNN执行副总裁纳尔森：媒体须谨慎负责地使用人工智能",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRbFpIblRlOEE2ZU5TTW1OdWdnYkEyVlZxUE5paUJzRnNvbDlCNktGWHFxcGdwdExhanI5c2IxSkRETGdNUURhdElCMTF2b3VZSzM4dFcwNkJJcW5QeU5rZ2lqdVhFbGhIanl1QWpPbHBFOGY3RDNkRXVnbmZGNk0?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 11:43:27 GMT"
+        },
+        {
+          "id": "345daaf79e65",
+          "title": "数智看护，温暖安家｜移动看家亮相CEIC2026，解锁AI看护新范式",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://zj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfT0RTV3pqMEhyMnA1SmZzYk5pSU1lLVdlUlg2c1lCY1diN2pzOV93UnRRTnZjVUZCX21QMjNiYkt1UlIxVlF5MEdJRlpNSFRLOWNjWUNHTlhEYzZ4LUNhQnJvZUl0TVREVGFMLUk1eUJMMzNs?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 11:25:49 GMT"
+        },
+        {
+          "id": "58e8cc301a13",
+          "title": "第九届进博会｜九载之约今又至 AI一镜回顾进博路",
+          "summary": "该条信息来自权威媒体“新华网上海”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网上海",
+          "sourceUrl": "https://sh.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pQ2dpeGExU3VINjFzdzdKUHplLVAwNy1QQXlvWXc1a3hMVTlHVzRULUx3M3ZYaFl2eDFkRVRfZVdNbUhMa2NVNnhMMmNEbGd4Um92NmFDYVFvRWxZRTFfdWl4M0taclBEYkx2bVE4cTU5Z0x4?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 11:23:49 GMT"
+        },
+        {
+          "id": "4bc08288d5dc",
+          "title": "从“骑手吹哨”到“AI站岗” 大兴安岭把食品安全治理落到具体场景",
+          "summary": "该条信息来自权威媒体“人民网黑龙江频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网黑龙江频道",
+          "sourceUrl": "https://hlj.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Um5BN0hnUGI1d2dzWHNIdU4wUUdOYVZ0VG1IeTZxSzRoTEZReGFPTUNHY3ZWc3NTOUJySDI0cGhDX2lrUGt0M2dRXzgxYlg5dF9XSnJOdkRfZGJlWUZsS3RDdkhHbUtCVXJB?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 11:02:00 GMT"
+        },
+        {
+          "id": "e7d723257c6f",
+          "title": "搭载全新AI智能座舱 2026年款梅赛德斯-奔驰长轴距E级车上市",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://auto.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSDJ5Z3BRa3o0MWNlNlBIdVYxMlJKWVBUS3BvZnBKbVl1WjNRVFFteWNoU2FYRDlvRXRJNmNmNHI2bkx6bFMxeTVBX1RHLS1mY25EalMxaXJfZE1FOEs5d0x2QjhrdERBWGMxN3BQakJDQVlUSzEzQQ?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 10:56:06 GMT"
+        },
+        {
+          "id": "daff08115a3d",
+          "title": "专访丨期待世界媒体峰会推动全球媒体合作应对AI时代新挑战——访南非独立传媒集团董事长瑟弗",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5heHVZZC1CR3dNaFBRNlBSS2pCa295YmM0eUo2WXZOS3hPdWxDNnFkWDFzQzNFYWMyTHFRQXRfUGFHM1oyODFnVTdsMGkwajFSVWZISjZ2THVtWGRHTDJldzA3X1hPR3pUQVZMNlpXREx2NlVocHJETzNZelpNU2M?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 10:46:31 GMT"
+        },
+        {
+          "id": "6d61afb1cb99",
+          "title": "AI生命科学与医药临床应用研讨会在浙江桐乡举行",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://zj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zaXlxd2NWZUw1bGJCVEkxX01sQXpZaUhjMUd6MUpTUkZBLTN1eUFoaGs3LVBfTHFkYm02a1A3RERkREpPWkx6Q3k4c29HZHV4elJqcXBEU2c3RHc4dHVmMzVndl9lWWR5WEtEbjBaV2FJR0Ns?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 10:14:42 GMT"
+        }
+      ]
+    }
+  ]
+}
