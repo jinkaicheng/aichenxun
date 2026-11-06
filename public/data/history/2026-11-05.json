@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-06T03:36:53.819Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 4 条来自头部公司与模型重点队列，主要涉及 OpenAI、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "0bba77cc9f89",
+          "title": "OpenAI 将收购 Pierre Computer Company, Inc.",
+          "summary": "该条信息来自企业官方“OpenAI”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XQ2dKbEI2U0VBaXRYWUxXUGJZRG5JMDZLbkExQXR0VFpvZXh4QjItSW8yNURTS2lQWXY0bjY5NGJNSFMwQXFXV3ZRNGxEbkJYc1FWU1ZUTk91NmpLX0V5VzZxRWliRGRJYmxXLUVn?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 20:54:55 GMT"
+        },
+        {
+          "id": "c2b52a8890af",
+          "title": "收购Pierre、挖角Anthropic，OpenAI切入微软编程腹地",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://www.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RS19fdUhsZENpbzZKLVZDU2pJNGtlZ0RoT3hfRlpMa0h0RTdqU1U2MFpWeDZyQVFkMFlLT2pXeFhlMGNUZHhwU2xxVGpoVElqcGFV?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 04:17:35 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "cdd3fb7f3729",
+          "title": "GLM模型是什么？2026年最新版本与核心能力全面解析",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fdjdCaWZlaTZENHZudXFxejdhR0F3NE1hOUItNkUtTWxGVkQtUmZUSjB4ZnNPZlVBOW92VElSX0c2WjUwaDhIR0dob0Mwc3kzT2Z0N1pmOGRPS3RLZ0lIZi1uQnJJYnh5d1IybXk0ajZIWm5FNTh5dmRNeVA?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 15:04:09 GMT"
+        },
+        {
+          "id": "312794da805b",
+          "title": "Kimi K3是什么？2026年最新2.8万亿参数开源大模型全面解析",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmeVFKWjJPRDVmaXp2dlZqNTY4a0F1cjNaQW55YzhJeXJaME96RkFlQWp6LVk2OWF4SFBvNFduVFU0UmJsQlg2MEhZWGhKRG1GdnVrQjRWTUVwT3BXejlac1l0dDRsWVN4Y004T2xnNWVwWnJJQ2NmY0N6UGE?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 11:49:36 GMT"
+        },
+        {
+          "id": "e7658d904640",
+          "title": "DeepSeek Harness 官宣日活达154万，日消耗92 万亿Token",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://www.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTUGdfX1NNVGFTT1hLRDNUd1QxcGtKenNSX3BGSEdQU3RmMXhKalVER1U5dTNzbm1wVTNpNzMtZFhKTlZhMjloeC1FQU5KUHZ0dEVmMw?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 15:00:39 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "32a52781112c",
+          "title": "2026年世界互联网大会乌镇峰会闭幕 达成多项成果共识",
+          "summary": "该条信息来自政务官方“中华人民共和国最高人民法院”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中华人民共和国最高人民法院",
+          "sourceUrl": "https://www.court.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xUDZGRUd2Wl81dE01aEVFeXNEY01sVFE3X29FV3lSbmJCSmV0eGpwdEdyU3c1RGxXQ29uTy05X3preGl6SVNsYU5GbnJUbTdPbGJ3UXdUc0QxM3Mzdl9EOFdn?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 11:45:56 GMT"
+        },
+        {
+          "id": "176e70a59f3c",
+          "title": "国家能源局综合司关于公示“人工智能+” 能源试点项目清单的通知",
+          "summary": "该条信息来自政务官方“国家能源局”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "国家能源局",
+          "sourceUrl": "https://www.nea.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54TlhsdkJod1R5UWVhSWNGUmEwZHZaR0FUUmRZbUV5WWhlR1FHLVVQbGVjanVHTUlHN2NRMFBLbVFUTnVTQ2xqN3Z2ajcwVjdyUnp4OUwyM2xyMUhheXdGU0gxQUQ3X05Qc2VDbDJwd3dZUWpjV29kYzVXbw?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 01:42:57 GMT"
+        },
+        {
+          "id": "8b8369c30f22",
+          "title": "焦点访谈｜拥抱开源开放 共筑美好数智未来",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://news.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lSC05ck1LLTNDV3ZHMUloalZJRHF4a3k2XzR2blQ2Nm5GMW1HUzlXRFEySlBhS1k2Y2lGR0RIX3BLdS1oOUVDUERFb3VkNTZSS29rdWxDZUJ0NzNlMXJQNC0xMkxiaTcxcUY2YmlfY2hXWEdRQnhBSw?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 14:03:30 GMT"
+        },
+        {
+          "id": "00f5b58701d8",
+          "title": "智媒向新 聚力同行——世界媒体峰会释放AI赋能传媒新信号",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4aUF2QkJ4QlIyd0NtSS1IbWJyeDIyTWtXNEYzQXNKLThsVFV2ZnJqLWswTkRxeFpVN190eDMyd2tnY2dEQ00tRWM5RkFQc1JqcG1uWmtjUE93MGZNeC1mOW1XY2lNMnBIM2RSMUlmTXdlZGF2YjhNWTBJNnVMQkE?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 14:02:30 GMT"
+        },
+        {
+          "id": "ea88c7f905f5",
+          "title": "广电总局重申：扶持真人微短剧 规范AI微短剧",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYmtmU0ROVW53bHpLMDd1MDZlQlhmSVlOZGdjbUJfOFgtX2Z3T2lNWjRYY3EwYVY0a2QzUVkxY05aOTZfXy1ncFpaMnJCeUVyU0w0UHlBUzVNRFFHN2pNSkthRDJIZUZZOUdVVHRqZjNuU2RZN1BkQjBjbXFwa0tkak5fQQ?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 13:43:13 GMT"
+        },
+        {
+          "id": "37a5e64e0d12",
+          "title": "乌镇Talk·开源青年说丨王哲：让成药性成为AI分子设计的第一步",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://zj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yR0hHQklZQnB0QVhmX0lKTDFsM3dkbEprT25JUjBaZU5UejdwZ2JXdndDNm5URUZhRjEyTFJZN3MwODV3c2dIUzJrd0piN0ZwNi1hQWg3UFZzY2RwUFptcTcxYkdhaGJfZG85ZGtuelI1NWo5?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 13:30:24 GMT"
+        },
+        {
+          "id": "3c6172e1330a",
+          "title": "湖北移动部署AI节能智能体 基站“智”理更低碳",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://hb.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83Tl9fZHphVzhrY2ZKTGNNRWFJaVktZmVHWmR0RUluY1N1ZjdRVHh4NzVySW42Rm5FVm5INXJ2YnJfQWtpcDVkNHRLMFhRSzdFSkgyUzVFbUhqNDJaaDJYVDVBVVRCcHM5U0p6YnZrRXVhc2hC?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 12:53:20 GMT"
+        },
+        {
+          "id": "cbae2ddc7f57",
+          "title": "中国加速推进人工智能全方位赋能千行百业",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWk84NE9Ed3B5Tmt0MFFUTWZSM3J5Mk9zaGVrUW0wTFJteGtCRzFraGExczNYNG1OMmNsbFVZNzhMa0hobHNGY0V3bE5lZGR6VW52UGFfSUNKaGFzOHhOcEphYzZmaW12TmJzejloanFpa1BWcVJaUUp1cXJDYU54amVn?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 12:52:29 GMT"
+        },
+        {
+          "id": "c2b046191cee",
+          "title": "全球首个仿生人形机器人新闻主播正式发布",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00VmRHa2pYamZNNmV4Vml3Uk5pOElsWERuamdsaXMyQUFHbFN0ZTQ3MXZWUkU5aGNFZkFaVTFfMnJKYklWWC1BLVhlaHhka0pibGM1QVpXUGNxLTJkSE1lX0F1eG5RZEZRdU5ER1B1dDZCNHRWeXc?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 12:29:01 GMT"
+        },
+        {
+          "id": "424058885650",
+          "title": "2026浙江大学科技创新论坛在港举行 聚焦工业AI等创新前沿",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uWXIzaXJSRHJwVm1JNDFNNnhvMXBMeEQ3QkRaOERIckQzRjdCNlBwaGJlb29EUzRHbFZTeVloNUNWb0NnakxOUUcyY19SMnlsTS1JeDRVTVlCSTFab283bFpVMUFjWVVkOVdoaG1nOHZqc1dfS29r?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 12:21:02 GMT"
+        },
+        {
+          "id": "31450e0b910b",
+          "title": "首设OPC特色赛 乌镇看见“一个人”的力量",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://zj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OZ0RvUjZVT25wSmRkdS02VDdNSjhmSDRrNzRoTm5jeFFJN2s2bFYtSjZIYTZoRzFQNmNrTnpHYjJTMWRBLUZqTHE2SFhsLWNUMTdzbjIzQ2haREJxUHVJNWxETmltNnczUTZOa2hJUEhqVExv?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 11:29:01 GMT"
+        },
+        {
+          "id": "524e5b5c3e99",
+          "title": "2026年世界互联网大会乌镇峰会热点聚焦",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://zj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlc3NvemVfYllDRHhvMVZvako0YTA0cXAxSDIzRWd1bXBjRmFKUm5PbXB6V1Q3aEpZcFhxSml4c2M4cFQwNWpkVWFnbU9ZSE9fMDlFcmFrYndScDdWRmZUTXV5czZPS2NOdFV4WmxEa1FXUjRI?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 11:29:00 GMT"
+        },
+        {
+          "id": "df86e8cf883a",
+          "title": "智涌乌镇，触摸未来",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://news.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uaHNIb3FQNzZ1a0dpTExmeWF4MDVmLUZ0NW9ieE9rZEpzdVpudlJCMEsxM3ZGWE5OOVZueTR5bGdRang5WjBWWjdqWUtaYndGN1BWT2RFdTd3R1REQzJOTEN3anQ5eDlOb3lJaTJIZm1ORTdFU3FCcA?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 11:12:47 GMT"
+        }
+      ]
+    }
+  ]
+}
