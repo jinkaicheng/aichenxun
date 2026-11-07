@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-07T03:08:48.826Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 5 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "6c924a640e12",
+          "title": "OpenAI完成110亿美元新融资，估值1.25万亿美元，软银、红杉资本等参投",
+          "summary": "该条信息来自专业科技媒体“36氪”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "36氪",
+          "sourceUrl": "https://36kr.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zcllNcW1LMXE1SGNtRkZkX3hkVGN4cUVpaElfLXQ5aFZGU3RlR19WU3FCZVpDWTFxWFFYOGZFQXdkdEtnWlpqR0pIYTJGcEVrUEcxODJZQnM?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 08:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "54336164d599",
+          "title": "2万亿→1.2万亿？AI股巨震引发Anthropic上市估值预期进一步打折",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zR01HYWRGblBnSjlEVGlGWmc5d3pLSUhKNHZWNGlCbFY2TGx0cU1rNzh3Q3VibkY5YlhNWjN0ekw4SnlBcWpPNA?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 14:41:51 GMT"
+        },
+        {
+          "id": "016d39057657",
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQmI4dFp2Wl9qQmo2R25VaVpIbjdaQWFfd1d6d080LUVaNjc3clAtQnZ4ZTFWV3BrMEpQMDFvdDZxdm5oTDlVSQ?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 14:32:53 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "a4b8c4d2378a",
+          "title": "解放开发效率！DeepSeek 开源 Super-agent，支持主动发起任务，不用 @唤醒",
+          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "阿里云开发者社区",
+          "sourceUrl": "https://developer.aliyun.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBienhtYWFxazJ2REJzQi1Lbm4tdGhCUGxzSGo1UHVuNkk5d0V1a0VVNEFwbzNVYXBhdTJtU0tuUllnLTlBQVpkRHhVZl9wR1NnSzFHVnpqWQ?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 08:12:16 GMT"
+        },
+        {
+          "id": "1f75e2e42676",
+          "title": "DeepSeek Harness首次披露：日活用户超150万，一个月时间增超百万",
+          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "ThePaper.cn",
+          "sourceUrl": "https://www.thepaper.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2ZEVHT1pNekpSbXc1d2phQ3NSYi1NSmdJMmlSSW5QbkozWXhoNVJHUnE4amtpb1h2SXBzNzFOSzhtUkxvbGNHTFlydE9BUVo5bzNPSHBGQ1hXcDFEUExTTA?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 02:05:43 GMT"
+        },
+        {
+          "id": "c436b1ab6ea3",
+          "title": "雅诗兰黛集团与阿里云智能集团在进博会签署战略合作备忘录，深化人工智能合作",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWpraXkyM1FDRlUyaDA5eXZJMjJPcWlfSWxNR1JabFdKdWpCS0stQWpybzlheXdiMTU0V1VsZUJReC1uMzhvdzJMaEd6Q2lpNFZSbWxKM282anBmbUNlcmhJdTczRzB3bFNOeUhfeDBwclhvNTFYS0NFN0F3LUFUbg?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 12:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "911f4218ff8b",
+          "title": "未来产业看怀柔丨2026怀客松推出AI for Science赛道，面向大科学装置真实科研需求发起创新挑战",
+          "summary": "该条信息来自政务官方“怀柔科学城”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "怀柔科学城",
+          "sourceUrl": "https://hsc.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aWFBmUW9aZkZFVTFqMkZ0RnhjU3dBOHZIdmU5NHNnMUpoNWIxRllzT05SYlJWbjVsaXVfR3lGT3JXVGdQNElYOFRqeDI5VG1nSmJZVV9ZclVsem1KaUE4SXhsb3N0bGhkMzQzYlN4cEttNVE?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 10:12:37 GMT"
+        },
+        {
+          "id": "3593c003f52b",
+          "title": "人工智能赋能中小学科创教育融合实践活动在京举行",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XckhuZHZ0WEJuN3QwbTJFXzJOQUI0RzlGUDZFWHk0NlE1RGJlVnJ3eGh0SGd0QlhxRnZmVWFrSDVZbUFMRUFubTh5cDB4Z2Nua3lWLU9kcWxxQy03MUtVV2NVeUY0R0cwSlJaYlkyMGt5RC1uUjhyYkNxcw?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 09:22:00 GMT"
+        },
+        {
+          "id": "021eef63fbe4",
+          "title": "关于征集北京经济技术开发区AI4Chip人工智能赋能集成电路项目的通知_通知公告",
+          "summary": "该条信息来自政务官方“北京经济技术开发区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京经济技术开发区",
+          "sourceUrl": "https://kfqgw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TVkFMX05SQnhDVnE4SElhU0J6bnpyT3F4MlhWem8zUDdtSGF2OVpiT3NnVHU0NzhUbXlfY2ZfVjU4VTVuei1BZWVGYmhQdmJiR2k3NWtjZ2xJbE91MnR2YnZzSjJDNm8wVEx5TVNlM3hyM2hZejRoXzJESQ?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 07:42:00 GMT"
+        },
+        {
+          "id": "a18730673022",
+          "title": "大中小学怎样用好AI？北京亮出“人工智能+教育”新方案",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UendQMjlGS1pkdGx1Y3VvQW1MTUtZSzNuaFNQZ1A0Y0QwbUREcVBzRVBzRkQwc043VzlFNWk4LTN6cmMyRTVkdlZ5eVZ5VTVLY2Z0RWhBNFZVRThXT18tRU5jZG05N2VaYlNIaVZGNkMzTHdUc0RXX3FQSFJPUTA?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 07:19:00 GMT"
+        },
+        {
+          "id": "dd881773faa2",
+          "title": "世界媒体峰会发布E立方协同发展倡议 构建绿色能源与媒体相互赋能的发展新格局",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XSl83dE1DbTBLWVZZN0NwcU5zWERaT19Ja25TWnk4WU8zVUt5MVdJeVl6WnNyNHotZGYtZ3V3RnZVQzRFeWQ2X0VwdFBfZUppZTJqSS1maUt1Q1FVVnZUTzdESlBVdzJVVFh3bDgxd2ZCMTRwNXJUa1dMSQ?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 01:45:00 GMT"
+        },
+        {
+          "id": "b14332613c17",
+          "title": "驭势科技携L4级全流程AI司机亮相CeMAT ASIA 2026",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HUU04QWRIcHByaXNlR1RsRVBPZ0RMMng1MXlTN1QySG5ybmRabnRtWjBKMjg1QVFyX1RQdWxzOFRWRWhwRlRULXJlc2x1Um9CdTVQUW04RGdGNlE5ZEZUWHR3b1lPYlVOdmQwaXpnVDdpbXJTeW5aS3BDUUk?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 14:12:49 GMT"
+        },
+        {
+          "id": "26fe509d9c59",
+          "title": "财经慧说丨AI焦虑的解药，藏在乌镇的讨论里",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHRFVVloaEVodlVlTUd4MXlJMDlPd1BzWHdCY3Vpems4WUlmNEpseG9ReWJrdWJOdkNGYU5POUNGWFBhUmlrbUZVcnpLSEJWNEJjajJzRmtvMTM1RTBpQk4wR3k0LS1IWDBoMGtqb2pZR2Q1bXBnNV95MmhXSmxmRTl6bw?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 14:11:20 GMT"
+        },
+        {
+          "id": "393d24c9b959",
+          "title": "荣耀李健：AI终端竞争已从流量之争转向信任之争",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04NExjaV9RLXhjZHUxS1VZSmZwZlJ6WWpheUxURmNUWnhZd3ZscGU5bTRPZWxOY2FQd2loTUlQcFNnMXZIcEFWV0o4VDFqR05ialo5UW80VkQ4NHpIS3pJQ1BjbmtQLXF5OFNqZkhEZEs1Z3R6MEIwV21YNnA?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 12:39:08 GMT"
+        },
+        {
+          "id": "494502d34aa1",
+          "title": "综述丨AI浪潮下，世界媒体共探技术赋能之路",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyWU5tQlJES215b016MjV3Mk40eW9hUUhYdG52QnpmdkhGWWNIVFZ2MnJCancyc01wX0o3dXB3SGVVaW9LVklwbzI2Z0hzVGI1Vm8wVGVSRzcxYnJfelpUcmhSV1RSWEFGeGVMdHdleG40bFB4VHpB?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 12:38:55 GMT"
+        },
+        {
+          "id": "0cd41ae2ff55",
+          "title": "第九届进博会丨6G终端原型机首秀 AI与下一代通信双向赋能",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wMXZtdTN0WWsxLVNnZ1o3UU5wR0c2VUk1WEpSYnFhZjlrcURnbUFmc0RFWXBJNnBCaDJtQVNiblFfRTlZcEdvTWxpRlZyRldUNjdINDc4R2V1cnBJQXF2TXhMTGFoQWxTZE05STM3ZHZwWWdBVmVldktfVm91QQ?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 12:32:01 GMT"
+        },
+        {
+          "id": "6ad7e71965ba",
+          "title": "MegaStream亮相2026国际生物计算创新峰会，共话AI制药新未来",
+          "summary": "该条信息来自权威媒体“人民网-上海频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网-上海频道",
+          "sourceUrl": "https://sh.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yN2hyb3pKUDBnMjRPRExZSWRmOFp0UGk5SDhUZFBDaDRfbl9jMmRlZFAzREU2ak9wMHJjajdUT0FnR2tJU3JWbkNMTS1INmNuSGY0NzhOdkVnWk1vMDBNZkhMSzhwek5BUkE?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 12:01:00 GMT"
+        },
+        {
+          "id": "1b1b936b850c",
+          "title": "全国人民代表大会常务委员会关于批准《关于成立世界人工智能合作组织的协定》的决定",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://politics.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92TUdOV3d5MDh2Wlh0bWxGbDFBR21IS1ZEcWN0Y3ZQdTRpdUdyZjhrWEd1cld6YTQwN244QW9NOWhFWWFCaXdVeERtNnZzZGl0eW44d2tpOU1iMGU4UjlPT1FRcjVTenRHMDU4MGZTSkU3QQ?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 11:26:00 GMT"
+        }
+      ]
+    }
+  ]
+}
