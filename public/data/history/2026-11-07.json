@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-08T02:40:00.443Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 3 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "9390d25fc329",
+          "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zdjBtcklOTHpLZG9RbDJ5UXdPN3c2cUExMVNoWlFGMlNQZUFMUktCX2RqTEMwaWllaFlUd2ktQnRVaHZ6RFN1bQ?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 02:21:03 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "016d39057657",
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQmI4dFp2Wl9qQmo2R25VaVpIbjdaQWFfd1d6d080LUVaNjc3clAtQnZ4ZTFWV3BrMEpQMDFvdDZxdm5oTDlVSQ?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 04:57:11 GMT"
+        },
+        {
+          "id": "3d88d0f088f8",
+          "title": "特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uaUVQVE9QWXdkeS1YM2d4cGY4bmlicWdsQWRrVzZaNWJNUXJybVZUM2U1cXh6eTdLUE1qRnpsOTZnalpiLXZ4Rg?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 23:03:45 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "c575514b8f02",
+          "title": "敦煌文博会|AI时代 如何讲述和传播千年丝路故事",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://local.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92SHZ5UGZnV1k2MXlxTjU2dXg5WUg2SWxJMGlGNUpKQTBqMHBUWkxGYXFneXVDX0h5MGVXQzJVdFRuelYxTllvc1JCa1JJaUpCQWtIOFlWS3dUN1BvRzRGZjRwRTctT3ozRzlac0Q1WUwzZEpEeC01Mldn?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 15:22:18 GMT"
+        },
+        {
+          "id": "1c3d73fb5da4",
+          "title": "越共中央宣教部副部长、越南通讯社社长武越庄：应对人工智能挑战，媒体需加强全球合作",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00OE5EeHVUVFlqMExDc2QtMGZkUVJHbmxWZDBYZ2RFWnFvUTdCY1RLenY4QUFKRUJWamtiSFJyV1RLX2JDRG1IdWtkSERuZWtFcmVENllGdEN4R2QzRFpQMFRYUGtYSlBuc3lud05ucm4xLUdvRTg4?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 15:15:49 GMT"
+        },
+        {
+          "id": "3c5960e5c7bd",
+          "title": "黎巴嫩新闻部部长莫尔科斯：人工智能应服务而非取代专业新闻判断",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QY3ZYVlRRdk5neU4xSmQ4ZkhubGxHV2lCWGt6NWdXUW1ueWhDYlVzc1RJYlZKNHZwaHVrQi1CRVdCbzkzdXBQdDVtb3ZpZEpJUlJGa1kwTUFzN3hnaU04LTRBcWxsb1oxbWxSMGY3cklxMWxmc3ZOMElKZnlGeWs?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 14:57:37 GMT"
+        },
+        {
+          "id": "d50ee982fa1e",
+          "title": "南京雨花台区举行AI产业人才会议 集中落地多项AI产才项目",
+          "summary": "该条信息来自权威媒体“人民网－江苏频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网－江苏频道",
+          "sourceUrl": "https://js.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPR3ZoN1hXN0ZWdWpGLVdlbjNrVHl6TUlELWRFTjhRYl84VWVkN0tRazl6bGJHUHNZRWtzYzNiTVkyY2xCOTUzVnRsc1Z2UEFDZzB5cHR2VjNWTUJrQThyQm5HRVlkRklUX2c?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 13:15:00 GMT"
+        },
+        {
+          "id": "cf05fa6511ef",
+          "title": "人工智能将如何改变新闻业？世界媒体峰会嘉宾这样说",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Idjd5ZW54SEFERXF2M29OaDROdGIwdWdaX1hPM1ZXbVladUdERHJhVGZ6T1BGXzY2a3dVMkhXUWsyTXUwRE5ERVI4aDVabDVoR2hrMDhNQVBiOEplQ253c2lLalJfTGpkYzhwSDRYZHRVVjR1N0swRHhrMmktQVE?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 13:00:25 GMT"
+        },
+        {
+          "id": "ac9c70522a9f",
+          "title": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NczkwVzF4dXp5RHE3Nm01dzY5MkxIZzlaS2x6NEQ4SEN1VmNIMnUzRk9wbmQzRk5ZQl9yeE5md2RMa2ZiZVlKeDdrMWpsNDVfblU2OGExc1d4dzNaMV9LS0RTSnh5TnRObUJqZy0yWXJRdm9Pc0dkc1Q0ZDdDbU0?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 12:21:07 GMT"
+        },
+        {
+          "id": "315933b2f060",
+          "title": "全球媒体人工智能应用标准共建计划正式启动",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kcnBGdVNjcXJiX3dVUkZ4VkhhOXF6M2NJWXkybXlKSVRtQ0hYVTRidGRjYlI2RGxoZExDeFZTT1hGSGI3NTd4cFB5VUpTRTdhY2RVVzY2RDZLbGlPMWFELS1hNmdmcmJObjMwOVRZVU5fczdjUXBwZjB4eXJkUQ?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 11:17:27 GMT"
+        },
+        {
+          "id": "12e172ed4a30",
+          "title": "专访丨期待在世界媒体峰会共话人工智能与媒体合作——访古巴思想多媒体平台主任兰迪·阿隆索",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zUU9wMDc5Ulg0SGJ0cEpJTUdDSjJ2V0tXY0liSmZIT0dBU2pDVDFtRHpkNmhsbXdicXNlOEljRm56XzVrVEJ6b0FzWWtIRF9GeGpwYjBHaWc0Nk9rY3RJQ2hCQUN5TEVlX2I4U3lONVRURHpCR3VVOThfX1Z1QQ?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 10:10:15 GMT"
+        },
+        {
+          "id": "6fbbd622874a",
+          "title": "法新社社长弗里：人工智能的未来与新闻业密切相关",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZVVVma0tWUG9ibExON3FFTHR5S2pVZUVaaW9qTTl4anlHZ1ZFc3p3WGJoUWw0akxGUWFxWnE0T09vOVM3eUJRVlhIRDY0dHREdlhWOF85NHlrWVBEdVl4NUlzSE95ZGo5U3J1U2dKbWRMRkgzY2pOTnItVDJIUQ?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 09:18:53 GMT"
+        },
+        {
+          "id": "a3dbb4e34ada",
+          "title": "南宁轨道科创投资有限公司“创享+”流动的AI学堂迎来年度收官",
+          "summary": "该条信息来自权威媒体“新华社广西分社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华社广西分社",
+          "sourceUrl": "https://www.gx.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jMDBQYlNmRmljNnM1dHNEeWRjXy1ISWVuakxDaVRVcnFzTXdxVFUzYTBZRkMwLXU5cm1vUjJFaFdjN1RFOWRlU0JWUlpFaWhxUkVaRDBKYWRud3BNdVlqTGN4Mm0wb1Z2d0oxem4wOTRWVUhobmw2YVFhaw?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 09:01:01 GMT"
+        },
+        {
+          "id": "f4475b900540",
+          "title": "国际媒体人：人工智能时代，媒体如何拥抱变革？",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15MnE5ZGp4M3JMekRwUFhRTjBRVjF0blkwMnZ5Z3RYNURfVmxWNmRsLXVZU1JjOTNVZklhbE9HbDBOSy0xLVk4YmVzaXNQdU90aFQ4dE9EY3YtakFxX1BkdV9zaUxuQlpNVGJBOGJZSE13clR3QUdTVjY3Rm5rNzQ?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 08:54:06 GMT"
+        },
+        {
+          "id": "3b16338ff96e",
+          "title": "第七届世界媒体峰会先导片《AI赋能，共赴新程》正式发布",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93d3VaVmdsSG9sZlNqOGV1QmtfNmhQbU8xZWhQaG82SDFWcGg3cWRxYUZwdlVxQW1PTjBieW9iZlZwY1N0b2trR2d5YmNucHpfODIzVGFSVjhHa0tzdGhFREd3ak9ObmRNaFpYVDF4cFpCMkJtaVU1bTZQZXcxdXM?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 07:37:02 GMT"
+        },
+        {
+          "id": "76ded6a40308",
+          "title": "进博会上，上海发布多项“人工智能+交通运输”重磅成果",
+          "summary": "该条信息来自权威媒体“人民网-上海频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网-上海频道",
+          "sourceUrl": "https://sh.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0SUpQdnp5T1dTZDg4Skgzd19qVWRNYjhKaHJoTGJZeGlCSjExd3pGbGl6SmpVX1ZlOXdHdi1sOFJuMGwxdWowZVdJNTFNdDRrNDhaQ08zOG1qWHplcEF4S0dRTjVhN21wUGc?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 07:12:00 GMT"
+        },
+        {
+          "id": "ea1bcbad24c6",
+          "title": "合肥新站高新区举办青年职工AI技能应用创新大赛",
+          "summary": "该条信息来自权威媒体“人民网－安徽频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网－安徽频道",
+          "sourceUrl": "https://ah.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SdGZHM24xOENUM1V4UTllRnZScGRwTHN3RjZUU1g1blZuVk1YNjdOSy1jMkdXWGpRZ1BkeXN1QllPNXV5aXhzVmR1Q3hXdmxVOW5fbUJuR210eWs4XzRKWUlDVHVJc1pyaEE?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 06:43:00 GMT"
+        },
+        {
+          "id": "b63d4047c988",
+          "title": "AI赋能，湖南生物医药“智”启新篇",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://hn.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rNjljLXJVbFNzamItdk9CNUdkYjNCQ2l5UWRZZG03V3dsQTEtRUFJODZUa3pydE1uWER2Qzd0QUk5Qmh1Q2ZPR2JEQVN5UUxpZ2NGR0NIS2pJa3R5U2owOTVpY2VUUDVYcWc?oc=5",
+          "publishedAt": "Sat, 07 Nov 2026 06:41:00 GMT"
+        }
+      ]
+    }
+  ]
+}
