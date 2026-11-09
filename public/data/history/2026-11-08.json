@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-09T02:55:43.484Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 5 条来自头部公司与模型重点队列，主要涉及 Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "650d952aa1f1",
+          "title": "人工智能将迎来背水一战！今年剩下的唯一要事就是Anthropic的IPO",
+          "summary": "该条信息来自专业科技媒体“财联社电报”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社电报",
+          "sourceUrl": "https://m.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1JNHkzMk0zNG9xRkJPTXNDWFlQcTRMRXNoeVBJMzNMMUVZY2FSNmUtTEN1S3owM3d2SHA4ZFlINlUzWmJSZ1E?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 10:21:00 GMT"
+        },
+        {
+          "id": "016d39057657",
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQmI4dFp2Wl9qQmo2R25VaVpIbjdaQWFfd1d6d080LUVaNjc3clAtQnZ4ZTFWV3BrMEpQMDFvdDZxdm5oTDlVSQ?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 02:20:27 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "b0331ea3cf1f",
+          "title": "一张卡每小时收入38美元！DeepSeek开源推理框架并披露账本",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://www.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CVTZmY1ZTUmlhN2dmRFZORHBiQi1fUE5rT2ZpcVdjNTlVa0hjZ29qZVNaeTBIel85YUVXYmJFZE1WYW0weWtIbUV3OFNpcHROTFJV?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 10:53:49 GMT"
+        },
+        {
+          "id": "9cc68910e640",
+          "title": "中国移动云公司与智谱华章签署AI战略合作协议",
+          "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "DoNews",
+          "sourceUrl": "https://www.donews.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvWFMxUW1jN3dTNHhTM0F1b254WXhqbjhNOEZRMEUzVHZrcmhxTzhDX0dpa1hfUVhYQXl6WDBzN1FHcXpCVzVLRDVKVWQ2ZHNZdGxqZ3Y3ZFlqWVk0alE?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 10:01:03 GMT"
+        },
+        {
+          "id": "ea6ff23679c0",
+          "title": "Kimi以61%份额居全球企业开源AI模型支出首位",
+          "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "DoNews",
+          "sourceUrl": "https://www.donews.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EeHpjWHdQS29kbHY5UGRDaWdLSWF6aEdqOU5TOVdfQmFja2ZBTlhBRFhTVklsRUFDSjdaREF2d2xkMUhPNzFqQXpBTHR4bDZCVEFKeGhWTkd4bk13S1E?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 05:31:03 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "58f895d8f3e4",
+          "title": "本届进博会上，AI成为千行百业聚焦的热点 国际巨头AI时代寻找新优势",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hY1JhajR3VlpLSE9kSlRsT29jU3FQWm80VlNacVF5cHhlSUM1QkY5bGhvY1JVaXhwd3dVYi1xczRubEZIbWxKeXR4akUyeWpRdnhELWFTR0lDc2gzRlBSZTZ0bXJDM3ZCMDdSNHFELS1QZGNVSC15dE9jOA?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 01:48:00 GMT"
+        },
+        {
+          "id": "36613bb87124",
+          "title": "2026能源转型大会在京举办 人工智能时代 科技企业正成为能源投资重要力量",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ydnRFUGg5Z0tyWG4wYXk5bDc4WF82b2wxaElwSDg0bDJVUXpSaTUwR2QwdVd0eGhuZHg2VG9PV2VTakxWR1FJT2dRbDJLQWNvUGNOSG1CRWlNaERFYU1OLS1TYVlGWmNwUXpfZnNoNnJIOElnZXo5Rmtiaw?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 01:42:00 GMT"
+        },
+        {
+          "id": "88c7ef03e100",
+          "title": "第十四届中欧论坛聚焦对话与人工智能合作",
+          "summary": "该条信息来自权威媒体“人民日报”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民日报",
+          "sourceUrl": "https://paper.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FR1BpdkZBRXFCcjhJQmQ3YXFLRnhGaFRIQUl2Q1ZrNTB0QXVzRUxoVGRqRlJxMThobXlONGFZQnI5bU52bnZVRHJycDVYMDlyNTZhYmRweDdFRHpFaGRkOHFwYktWdWt3enBXRTI4MmpnOUg2VE82ai1MNzZXUUE?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 15:42:28 GMT"
+        },
+        {
+          "id": "0529c0543249",
+          "title": "新跃升、新变革，“人工智能+媒体”这样发展",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oSGY2VEtQVlNzS3pqcGJlVk9rdkdpRWY5cEF0b0pDU2NvbHhtWW50QkhSOFlzYkVFNHdCWGszMXAyVFdLOXVkblhoZ2lEVmRveUdwUzA2RWYyTFNFQjJzUWRTT3c2YWNXZl9xLVEtYXI4aDk2S3VJ?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 14:43:26 GMT"
+        },
+        {
+          "id": "1fb5eab05f68",
+          "title": "拥抱AI浪潮 驶向变革深处——来自第七届世界媒体峰会的观察",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUHFHQ3JHeEhKbjFrSE1UT2NqTEZVQkI3VjQ0V0xKMVZqcXdKZ0RkWXNtaVp2dDhSbmdGaWk3U3RSd0plSnN5bElEbmVIY3ZQZlUxaHFoVlR1c0o1VEdDX01Ocmp6WW5LWDJmbnROUUd1emN2X2FUekJlOTBxc00?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 14:21:13 GMT"
+        },
+        {
+          "id": "a1cfd1ea7e76",
+          "title": "专访丨人工智能改变新闻生产方式，记者的专业能力同样不可或缺——访印度教徒报集团总裁拉姆",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQ1F6RTdKUHVYMlN6TTVORzVoVmFqalFVWENzRWI1RlJNandoOTdQMWJoRzVjV2dtOU5vNW1DR05hb0haZ0x4aGRid1U2bDVKRHRtTDlkYy1SOFBrc2NlZ2t4YUJIeFJsYy1Eb1Q0b2NoTEMxRUtv?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 14:12:13 GMT"
+        },
+        {
+          "id": "83ec2b8a644f",
+          "title": "进博直击：AI延伸至日常，飞利浦如何让科学刷牙指导“看得见、用得上”？",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRWxMYi1GekJJLTRLblg1TC1VR1NFNjkyeHpIWjQ0WGhNTHZ6RnJSTTdiQWlxMThSR01pbzdSNzBiX082dmlDT2s2WXowQTduUlJaWGJJUWo5QUhUNmVkN0paZjY2Q3pwNEJaVzNVcDhETzdUX05YejdvRVI0WWRIVjR6UXhMZw?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 13:21:43 GMT"
+        },
+        {
+          "id": "572d544b7b0e",
+          "title": "伊朗迈赫尔媒体集团首席执行官：应防止人工智能滥用",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtdGR0b2w4SkFnYVNNM1lvRzY5aXlyTldyQ056dDdteTA4MjNESmFkRS0zUk5Bd3NFSlUwZTc4Tm1fbDJ3NDRTUmpLcGlCa1JvU3ZCV09HMnpJOWYwY09qT0tLYWpCRF9CNDZpRU1MOE1yRlltQWlR?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 12:50:27 GMT"
+        },
+        {
+          "id": "37d94165dc38",
+          "title": "人工智能时代新闻业仍具有重要价值——访《俄罗斯报》社长帕维尔·涅戈伊察",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkS3NPay1VclJBalU3ZXctTzV4OHNkZ2lvUjZQVy01d0NkT3ZHZXQydlIzc0tmVFFob2paODRXMmV0dklFcTV1dXNBYXdmQ3d4MkhHQkU4cnExcTdVdUtkenpuVmFTOEhpTDR2REs0NFByZTFkUlVuUktDWEdyVlE?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 12:27:07 GMT"
+        },
+        {
+          "id": "73f458849287",
+          "title": "市场最前沿·第九届进博会丨在进博会上感受AI产业新脉动",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LZEZXeHJqN0RxRDVLd1JSbWtoZGJTRk1xMTNqLU91eEltcGFlS05obEdxNUFrYUtUWEpVd19fOWdPQS05Vy10OUUzTXJSbU1VV3RUVVpYOW5vRUdPRnIzVGlqMm4zcjB3YTFYa3UxVVR4eTlsSjBF?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 12:21:20 GMT"
+        },
+        {
+          "id": "271de94572cb",
+          "title": "交通银行广西区分行亮相2026全国医保影像AI识图大赛颁奖大会",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4ydTlLV0VaR1pqTlBLbXg2d3Y0eTJtMjIwN3psX0dMaHZvTk03U1Yzc2I3aUxkSmdSU3BlMXRLM2FDVXdPb3M2eFVnbzdUb2NST3ZlQXZ2NG9iem9NRHprZjNaU1NaTEYxUUt0MWItMUIyS2FUU2lNSVdEalg4ek0?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 11:30:30 GMT"
+        },
+        {
+          "id": "e2252ae00708",
+          "title": "成都：政务AI助理推动基层数字治理升级",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://sc.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93NnhRRE81X050NHVtU2QwXzZ6ZGhhVDduMUxxREIwTFE4a1lLTUNIcUtHMkZZOG5kUkpTeDFreXI4aFQzY0V5dFNQenMxQmo1d1ZlX21PTVB1MC1qX3FkVnZLbGppMldibGNIb3NYTkQ1c0hmYnc?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 10:49:57 GMT"
+        },
+        {
+          "id": "6045a8a83286",
+          "title": "专访丨人工智能是高效工具，但新闻决定权仍属于人——访法新社社长弗里",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rVUpaeGJzREdVV1RLRGZLT0dzbWJnSWRCcGxZX1NGTi15WWstRmdUQVV4aUhBRHpTNzBRRTZCVDkxZExGWHBqWVV2THNQdFNpeGN1QlFaU2tYNF9lNFppbTJydGV2VHEyZWJxay1ZdkZPZU80b0VoZTh6Y1lhc00?oc=5",
+          "publishedAt": "Sun, 08 Nov 2026 10:29:41 GMT"
+        }
+      ]
+    }
+  ]
+}
