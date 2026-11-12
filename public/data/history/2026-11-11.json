@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-12T04:06:09.299Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 7 条来自头部公司与模型重点队列，主要涉及 Anthropic、Google、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "fdbf7e0c7767",
+          "title": "不等2万亿了，Anthropic估值缩水冲刺IPO",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://www.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ob1NGQjlsS21BUlVfSVlXa2ZPcWRTVW9kblZJc2g0Qk51RkY3dEFwZ0VrT0Jja1dOU0kxZlN2VmktdU9QU2N0SlVPN3NIbW1Fa3Rv?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 07:41:09 GMT"
+        },
+        {
+          "id": "6a11a45b41c0",
+          "title": "飙涨的暗盘与史上最大IPO测算：Anthropic融资或超千亿",
+          "summary": "该条信息来自国内主流媒体“21财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "21财经",
+          "sourceUrl": "https://www.21jingji.com",
+          "sourceTier": "国内主流媒体",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1ZpOTJIRUJaTjhYMDJMTDd1NElwQ0FwbDRyYk9QYTA5QUM3TS1JYm9LV3hsYXBMMW43NFFFRUNxOFBQQVU5LWRIc0VkNWRJelpvRlN0QktqY3ZCOS1MRHZyb1JCSkhaZG1EaTdlSWxJMUFGVEQyam5LUVh0blphY3dXTDNQbGlrX2tZTE1lUQ?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 09:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Google",
+      "articles": [
+        {
+          "id": "19578e438435",
+          "title": "谷歌 DeepMind发布新一代VLA模型",
+          "summary": "该条信息来自国内主流媒体“21财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "21财经",
+          "sourceUrl": "https://www.21jingji.com",
+          "sourceTier": "国内主流媒体",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHlaWjJOeW1VYjZKUG9yXzN1aFVGX1ZTRk1kQlZBdGdYak8zNFNxNU9rVVlZV1ItZFZ6cjlYQTBJSHNwQzVjOHlwSE1vZ2JGbFA2Ylk1akNnSGwwLUVHbk4tNElKS0dmVjVaNkh6Um9odUtJWUVZOUk1Z2Z4cnNQSExjY2NEWTVfMGxLZWhacw?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 07:54:35 GMT"
+        },
+        {
+          "id": "36aeec44bbf9",
+          "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+          "summary": "该条信息来自专业科技媒体“爱范儿”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "爱范儿",
+          "sourceUrl": "https://www.ifanr.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1vYW9QNEtHS3RsTEdaemkxaGIzelNuZlJLWUhpRTFRTld2S19xVjQtS19CRUtOSnBHWWVEUk5XTGF3Mk0?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 00:26:39 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "e79520a53928",
+          "title": "百度文心一言是什么？2026最新功能与使用指南",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02bkNIMm1pZUFXZkh1al9YNUJFaExzRS1Zb1hzemxodmxHSVB1NG9vZDEzSmNERzJGWFl3eTlHa25UNjJjOW1CSW9iTXFSaDUydFhneElXSWpSR0c2NHhQbVFyWno1UDM2QndDWkdTRFZjdzRTcllBMWxpNmY?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 12:12:26 GMT"
+        },
+        {
+          "id": "9d635866647d",
+          "title": "百度AI文心助手是什么？2026最新功能与使用指南",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzNWpHLTdybEhmbEwwamFtWHVzMUV0bVZnQjRQaXBBb01kdHlvV1E4X2RUSXBEZlhGU2tscHI3YnY5ZnRYbEpXV0R2UVlzbkFZc2pCNGJ1NWlUYzI4ZDg5OVJabjV4Y0szM1JGQnZQZVFSMEp5SVF0N1g4T1M?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 09:23:20 GMT"
+        },
+        {
+          "id": "4cfba16d479a",
+          "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wd0JWNXNkT3NmUy1UV09ldm1iSXY3dTllQ1o1ZFg5MFZPS1BRY3RCTUJLc05UYWJTb1R6VHhoT0NXM3hJQU5xLQ?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 12:34:48 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "c56bce0844e3",
+          "title": "数据窃取叠加AI伪装： 针对海外同胞电诈套路升级",
+          "summary": "该条信息来自政务官方“驻荷兰大使馆”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "驻荷兰大使馆",
+          "sourceUrl": "https://nl.china-embassy.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13emxSLUJqLUhTU0oxU3JkWnNTdlhDcjFadU40cm5Bb1ZaREhSQk1qNE9fUU16eUtOYldPRHZWakhjQ3JxZklJMTZGSzJld3ZSZFA1QXh5Z0hNUzNRRVVENFBLYk1vQ0gxTExONi1xWnMwZw?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 13:48:57 GMT"
+        },
+        {
+          "id": "2c4b5fbf4959",
+          "title": "北京市知识产权局官网上线AI政务服务咨询",
+          "summary": "该条信息来自政务官方“北京市知识产权局”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市知识产权局",
+          "sourceUrl": "https://zscqj.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzUGJaemh0MHlXaEZRWUY2dDdMWlJVeHJ4NHllQ1dPeTVHRWszZC1vWHllZzBEem9uM0JvcV9iZ1EtU3dMZVNFQkZSY1BpTVZiYmVuN1A4RjlpNWlLWjc2Y3dBUEZEMGp3dzZXaDUwRm5raDg?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 09:49:21 GMT"
+        },
+        {
+          "id": "7fe6455d67b6",
+          "title": "2026 AI OPC生态创新大会暨超级个体挑战赛在石景山举办",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kc0RHQU5zVHFNcnJRMGhUZExwOVdDLXFaV2dabFZ6YnU0aEJUNDlzRnVhV2NlZUVzTjU2NXNWbHpfSVRrVkl3SnVnTm1vazNhQm9WaXJkYnpVVDBaY2dRT3g1ZmNveXpNWFItMmNKWm1HV1dr?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 09:49:00 GMT"
+        },
+        {
+          "id": "b7999701cddf",
+          "title": "经开区人工智能周末思享会在沪举行_工作动态",
+          "summary": "该条信息来自政务官方“北京经济技术开发区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京经济技术开发区",
+          "sourceUrl": "https://kfqgw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Nd19vbHhNWFFTZWJwVkNwaGw4OEh5bWFHWkZUbm5oN1M0dm16bzV1X1lJbjRpeTB6ZUViYTVKN092QTktalBYb0ZVYjhjU3J0aGk2MzN2UXV4MEpHNzB5VmllQ1JxeDAxdXRUUFhreWZpYm5Wa2I0?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 06:29:00 GMT"
+        },
+        {
+          "id": "627cbd4f3c14",
+          "title": "看不见的“词元”被精准计量、定向补贴、纳入授信依据、写入人才评价标尺 北京亦庄布局词元经济新赛道",
+          "summary": "该条信息来自政务官方“北京经济技术开发区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京经济技术开发区",
+          "sourceUrl": "https://kfqgw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkljQ2FiMDFBZ3hwWU9SMmQwaUZoU0NEWXdaanJmS2NPbS1YdFpwSF9NY2kwRmlaSzRSZUxnUlV6UklUdlBPOHcyN3lJeW9OUmZXc2VIRzNWWkx3Y3RZOEk5VTFmZlJLdFZEVUJsWjhHaS1uWUxSblR0V2w4TnVRcS1zSQ?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 06:14:00 GMT"
+        },
+        {
+          "id": "ac2a6de63ec8",
+          "title": "罗氏制药发布多项人工智能与数字化医疗价值实践成果",
+          "summary": "该条信息来自政务官方“国际科技创新中心”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "国际科技创新中心",
+          "sourceUrl": "https://www.ncsti.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wYkwyVWlpTWNwODJOQUNsSmRaTkhhQ1N2SlZpODdld09Zb1QySHhjcjFwSEpPdkhpSTVqa3hGa1VsWmg3QkZSbmdIbGVWT2lMb3g3RmJqUFZzZXgzX2R3ZjhZckF2eUQtNVktaHRkeU0?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 03:22:22 GMT"
+        },
+        {
+          "id": "183f4d4eeb9a",
+          "title": "你囤Token了吗？“双十一”AI消费套路避坑指南",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqcE1zUHc1S1pfQmplekNZWHNCZVg3dkZLWm9VNTV0eDM2Ul9za2FueXV1Zlh4QVROTlJVbW1qQ2V6dXcxYWhSaXdpRmNTR09rWVVqcnVZaGN5Zll5aGxDb0dtcnU4UVlwYnlPcHpXY3hGVlhQX0xwLWVmZmMyN00?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 02:10:00 GMT"
+        },
+        {
+          "id": "09278b26f71a",
+          "title": "过去五六个人忙活半年 如今两三个人两三周搞定 传统行业来了创新“轻骑兵”",
+          "summary": "该条信息来自政务官方“北京市人民政府门户网站”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市人民政府门户网站",
+          "sourceUrl": "https://www.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xLUdYaXNEVTYxQXVQVEk3OEUyaUdESTFRSi1mMG4zMnc5bVp3RUhKOGl4NFZQS0RsR3lNc0RRRXRzSThxSUt5MnZOWnl6Z2ZUNWsxZ29xak02R2hjWXpfaDcyemNhSUNaRjg5QlpUaHFFUllWYU0yZGF2SQ?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 02:01:00 GMT"
+        },
+        {
+          "id": "2fabb190f42b",
+          "title": "财经聚焦｜从“双11”购物车看消费新意",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOazdZOThJWDJaWFZOYmtaQjNmNmRzeW9xUTl0dkxITVRRYXBvd2ZuYnA1U0hfeTRVQ0JkVWVNb0UtM1c3OVBqRW4xdm9HRXRjMG1PVXJ2QzJzUzRmdGJkY2ttT1E2ckx6cS0tU0hleVZydFRncm5PZUxPY3owbE5kejlR?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 13:27:29 GMT"
+        },
+        {
+          "id": "209d350d69b1",
+          "title": "“十五五”时期我国将深化拓展“人工智能+”行动",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://news.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3NkQ1dm9nVTF3RGduMXc0b1dmRWphdi10ZDhPbzZrRzZwNDFCZU05U2Q4dmlQNl9aSG9NR2oyV1R1b0szWXhORGxKd0U3V1FoWjQtVXZTUm9qd295b2g0X3hiNzd6QlpuaUhmQW9PbTRHdmpzQk9LbA?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 12:17:36 GMT"
+        },
+        {
+          "id": "b676f7b9448e",
+          "title": "[视频]“十五五”时期我国将深化拓展“人工智能+”行动",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://tv.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EeHNsSTJiQWJESExkVXFhRU8zcjJrNkVlekdPR2tLZW5Fb1JaS0FENXk2Y0Y5dXFoWjk4dUxqT0lwd21uZ241MlI1VWphcXZQQ0RORzVFTEpPOHlvazhxTmJ2YTdSYk9KNDItMFRnRTJXNE05b0E?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 11:18:00 GMT"
+        }
+      ]
+    }
+  ]
+}
