@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-15T03:00:01.933Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 6 条来自头部公司与模型重点队列，主要涉及 OpenAI、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "72a81094ec0b",
+          "title": "Introducing ChatGPT Wallet",
+          "summary": "该条信息来自企业官方“OpenAI”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ra2NFM0hTM2pNRFlibzJfRzE3TElfbkhHNjYxMnFiTjYtVjVnMUpxUWw2eU44MXh4dlE0T0MxakZsVzlhSWtaT3RULXpZNHg5d0ZtaExOcHJpT2dSalg0VXZmV1N1Ykh3T2Eyb1F6Zms?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 22:10:44 GMT"
+        },
+        {
+          "id": "a872368cd142",
+          "title": "OpenAI推出ChatGPT钱包：联手三大支付网络，为AI代理付款铺路",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vaWpsaE1rcDh3RTgzWnBHb19QbFJQRndZNy04NnN4Y2ZqUUk0ZzJfa05xTVFZNlRZckUzdmV2T1NwcW13eHRxTA?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 16:29:37 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "4729687ff9ef",
+          "title": "千问Qwen最新模型全面体验：2026年Qwen3.8功能亮点与使用入口",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVVo3ZHMzNlpPTWtUODY5S2NPUzZTYVdGN2xESkFvWEkxd2JiVmFJc0RweTRLNnhadkdlQTdSUkVtS2J6d3YxNnhrWW1yLUFzc21maFFBdHZTNnVjaUFzU0ZxUXhrVE9sX1pINmVDT01mVGh6OHRrS0M5cm4?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 15:59:07 GMT"
+        },
+        {
+          "id": "cdd3fb7f3729",
+          "title": "GLM模型是什么？2026年最新版本与核心能力全面解析",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fdjdCaWZlaTZENHZudXFxejdhR0F3NE1hOUItNkUtTWxGVkQtUmZUSjB4ZnNPZlVBOW92VElSX0c2WjUwaDhIR0dob0Mwc3kzT2Z0N1pmOGRPS3RLZ0lIZi1uQnJJYnh5d1IybXk0ajZIWm5FNTh5dmRNeVA?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 10:00:16 GMT"
+        },
+        {
+          "id": "3b71f6d5eb9b",
+          "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RQUExMGlNX3ZIREduNV9DblAteS1KNFozZUpMQU1Cb3g0VFdUNHNyak52OTJ1dG10ajFVUmNfQ2ZHaGF0dm1LVA?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 02:26:44 GMT"
+        },
+        {
+          "id": "826c5c097020",
+          "title": "DeepSeek 发布全家桶应用 API",
+          "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "DoNews",
+          "sourceUrl": "https://www.donews.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSSEt4c0NnVHRwUkxVMjR1YmZ0U3otUjZpQlcwSDB5QjlONktwNDlpMTMweTFuc1JaY1BoMmJoSWc5c2xOQUwwRGtqdWNmcGdFcFdiZmhOQlUtT3lqVEE?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 16:26:35 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "25ccd8f49203",
+          "title": "ENJOY AI首届香港锦标赛在港举行 激发少儿创科热情",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XWWZiRFFPXzdCYXVMVDdxRzNTb3lnaDI4NFJSakZqdk45eUtXWE1XelMtUF9pN0dFa2NVRVhZbnNzZWwxRU9GSlBnenhnYnU2blg2UWI1X2FtNmtTYV9QNGlSekt6cHhoQ2oydHgtVFBaY3ltVW1N?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 14:03:15 GMT"
+        },
+        {
+          "id": "18c9bcca2397",
+          "title": "第十八届东部传媒艺术论坛圆满召开",
+          "summary": "该条信息来自权威媒体“新华网江苏频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网江苏频道",
+          "sourceUrl": "https://js.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LMGZfMHpvQ1BUNUFHTlJ4bW9yNmRYQTlKSE9TTWpxaWpDaFJtNG8xaDF1NEpvWmN3STlSb3Bydjl6YnYxaFgwR3l6Tm9lajFBMldqYWFQaGEwVkl0RXJaejlRVFR3YW5fSnoydXMyYmhFdVNB?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 13:50:33 GMT"
+        },
+        {
+          "id": "30c3afc13450",
+          "title": "首届江苏省城市轨道交通AI+工匠“中建杯”技能竞赛在南京开幕",
+          "summary": "该条信息来自权威媒体“新华网江苏频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网江苏频道",
+          "sourceUrl": "https://js.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKUERTajRrUVJXRS0zOUdlX1dDQjJZSnFHUlRzWnZtQy0tNlVqbFNRb1dLbGdYcHRMWGxGVzZwRWhuQU5EZkxlYnliYmZEQlppN2R4dElxcHFYbzgtRHBUOG9PYS1jOEFwY3pxd3RDMmZaS1p4?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 11:54:08 GMT"
+        },
+        {
+          "id": "916be5c459a2",
+          "title": "龚克：发展新质生产力需推动数智化、绿色化深度融合-思客",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXR6QXpBbE4xcTRUeDV2M3pfMlY2YXFBZW5rVnN3R3diWG1oNHBwQVNTTlVrT1NJeFFYek5peW9abjRWMkhCcWh5UjFrZFJqeGxNWUhhYkhrZ0lWX0ZWUFVPTjU5czRvVi01ZGNjTmZiNV83MVdFMzZfNFIwOV9hLQ?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 10:51:43 GMT"
+        },
+        {
+          "id": "69c9e69f969d",
+          "title": "AI介入后，中国动画如何“破界”又“守魂”？专家学者在蓉热议",
+          "summary": "该条信息来自权威媒体“人民网－四川频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网－四川频道",
+          "sourceUrl": "https://sc.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5TG5Bd0N6X2g5QzNFWFF0eWJibl8zd2R6YWxnay15U0t1ZUE2Y1dteURMUjRYaG50SXVBMFV5TnR0WGdTamRlRUc2anJ6TVRaQzh3dG9nNUt1Ym4xMGIyM2NTalRFc3NsZUE?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 09:08:00 GMT"
+        },
+        {
+          "id": "02238954c4b1",
+          "title": "业界：智能组织将成为AI时代生产力“新厂房”--经济·科技",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://finance.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56Wmxkek5NRHhMc0dhV2pwNy1CVlNIN183c2pyWDBUTnJ3RDVteVMzMHdMUDVkVFlldG0xU2RfREV4eFBEWnN1bGVaNnRtLU1JeDItcllNSVpBa2xVcWh6aU9HdnBYQzBFZXZRWU9n?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 08:46:00 GMT"
+        },
+        {
+          "id": "9ff5b7d6110c",
+          "title": "从“有硬件”到“会应用” AI赋能乡村教育发展--经济·科技",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://finance.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tMDRTX0JQNEVhbzdIQlo4Z3JPZUY4LTUyOXVhTmhQcm0zcFZhQkZMYm5nRnVXeW15bjNnLUhPbnkxZXpFRWtCYS1GWlVJR0FYb3h4RnNZTV9GMGJPMklzSG80dk5uNFN2amg2cjdR?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 08:46:00 GMT"
+        },
+        {
+          "id": "f88d9e3151b2",
+          "title": "在深圳和东莞，美媒记者亲身体验中国AI后感慨……",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BUXl1ZHc3aDkzc1IzNGhVb0t0VEJWYUpuRFdxc2ZSZ2k3V29SbWk1cm9QWGxVZEc4U0sxbXJHNDJYZThLSXdhYWlKYk5ScVl6dlFuaEJiNHpBaE51ZnhoT2o3T3JYc0FZYWdzUWxCRXhNRGJjVlQ1WHBESndPQQ?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 08:04:13 GMT"
+        },
+        {
+          "id": "c24111f1560f",
+          "title": "AI“唤醒”老照片 回望人民治理黄河80年",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01aGo3RVJnRFVOSnhONE9vTk1CVXJYOHZmc3FnRDhRcHhlekdua1MzZl9IYXZIR3hSdmQ2SHhLNDZmUUw3RGJYX0RHNmdPaUY5VHJRN3FXc1pwTVk3SGpwU0NsVUZNNHBvd05MeUdJNUI0SUxwZ0xJ?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 07:50:54 GMT"
+        },
+        {
+          "id": "84ac5835d13c",
+          "title": "“AI防蚊哨兵”护航APEC 科技赋能城市公共卫生精细化治理",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://local.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NT20tNzZSVUx6OG1Qc1ZDNWI5ZHRCZFZKRUEzamJ4MjhfNWhoV3U1cUx3MFVtTV94anplNTZ1aGxlMHRIMl9LWnBFbHRoeU9laG9GalYzRkx5YnY3OTlkbk1aS2pCWWFUd1FhbzQ1dFVuTl9idG81Mlhn?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 06:58:08 GMT"
+        },
+        {
+          "id": "3ccc7c328ba2",
+          "title": "杭州滨江：第三届京浙英才百人会举行",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://zj.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mNjRqSElRb1VZd1VTVllMeGJ3R28zTDZZbGtmbDBfWXFyanJVU1U4VEVjbkkyZGVMU2dqY3RxMFBEeFJBZWxFbG9jY29tQkFNLUxsZzhpLS02bTc1dUlTenlMSlg2enE2VUE?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 05:58:00 GMT"
+        },
+        {
+          "id": "03c7b7cc5618",
+          "title": "推进工程数据采集 弘韬集团以AI赋能建造",
+          "summary": "该条信息来自权威媒体“新华网上海”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网上海",
+          "sourceUrl": "https://sh.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1ZlNoU1BnUW9PTUhfWnRFdEpWYXRveElXNm5KVkNGWEZsNHl5bFJCWENuQkIyVHg4NkdRT21iekJfcTJkbm9scGQwUGVONk5PM2YxdUM3U2tGNmFpRmtsTG1pT0tkam5scTd2alFpNE5nS2w1?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 02:22:51 GMT"
+        }
+      ]
+    }
+  ]
+}
