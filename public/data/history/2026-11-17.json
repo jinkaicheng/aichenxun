@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-18T04:40:36.096Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 8 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "2f00dd69cee9",
+          "title": "国王信托基金会与 OpenAI 启动 100 万英镑合作项目",
+          "summary": "该条信息来自企业官方“OpenAI”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mSGRTR2ROSHFSbzJ3Vk9RQmNXdW9fSWVnUmJsaEd5SGtNTDNPRFFBVUVaYzRHTk5vM0xrOUdsOE5MU2tDcmZJNG55SHZrZjNkR0t1RHZBMnhPaXNIRjNfV0R3TFdLb0hVbFIxV3c3aHQ?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 10:47:57 GMT"
+        },
+        {
+          "id": "8bfd3ac962b7",
+          "title": "ChatGPT 用户年满 18 岁后会发生哪些变化？",
+          "summary": "该条信息来自企业官方“OpenAI Help Center”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "OpenAI Help Center",
+          "sourceUrl": "https://help.openai.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0t6V0wyMnVyNTZpSVlYNkJHcGRpTWtvMlBzOEJsdnNITlJsUGI3bXRob2dYOUFiR2VtZjNqSXYydGZ6TXhsUzE0b1dVd3I0TnZ6M3V4dEhvRHF2eXJXSjc5WHZob0x4Q0Jld3VZZmVYd0pTZWNwX2JSemxtV3FydWdaaDFqRkdhTHVRZ1I1aG5FMFdCejd6M0RR?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 06:25:09 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "0723aba14727",
+          "title": "Anthropic拟将IPO发行价指引至区间上限或更高水平",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://www.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lN3l6ZXAwRGFudHB2RWpBRDkzcThjNjNGQm5nTW50dUdqNEh1aUFjTnd6Mk93MHpzdE94ek9Zc2FJN3BKOE1oeUd2OG5yLUJUc0VKMQ?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 14:00:00 GMT"
+        },
+        {
+          "id": "a75cfd76d25c",
+          "title": "Anthropic在最新提交文件中维持IPO定价区间不变",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://www.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaEFQZ0t2Nl8zS3hRTDBrODZWVzd4SnVueHdkLUhaUTlaQXhMWndpSkF5NTNhMHcwT3JfQUM4X190MXA1SlFaMXlHc0pIeExJZUFsdw?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 11:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "a46ed8dcf9ac",
+          "title": "百度文心一言是什么？2025年最新功能与使用指南",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kTl95U2MycGNZNU02RTRnUDVnYnB5Q0Q4Y3lBbWlMZDlubGxMb0diTkw1c3YxbWZCZ1BmX0NGV2syVldwam5tSmJiSmZkTzZVMmVUNEF1QjdCT3dyMGxoaXY4LTFjYXU5TjBkejJ1ZXA3WlFBZVh3OHVTcmU?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 11:57:16 GMT"
+        },
+        {
+          "id": "3b742f66188c",
+          "title": "MiniMax开放平台是什么？一文看懂其大模型API能力与接入流程",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XXzVFeFZPaVRoOEVqaGwzMnFudnBRUGhjaU9EUmpRWVJxOFdlbWx1aUxkRXBkR3BMeWwzdVcyUmhDQ2x0QUdfazF4XzZZSGRibXhwcXdyaTRZS3R4b0N2TVFQeXJ4Tk9icS1fbFdreUxhS04xS0FZcDUxemU?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 11:21:46 GMT"
+        },
+        {
+          "id": "f410615660c6",
+          "title": "调用量冲上全球第一，DeepSeek开始对免费用户“限额”了",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://www.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GY2lBVFJqZ1FnSm1NMEtMeEU1NW5Rb2tTTEV1RnJQWl9MUFRCTUlQNTRLLXg2LWFqWVhvNmtETnlKX0lwR19XN091VFMzUDdTTVA0?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 10:07:40 GMT"
+        },
+        {
+          "id": "4cfba16d479a",
+          "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wd0JWNXNkT3NmUy1UV09ldm1iSXY3dTllQ1o1ZFg5MFZPS1BRY3RCTUJLc05UYWJTb1R6VHhoT0NXM3hJQU5xLQ?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 15:23:28 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "f267bfcc1b13",
+          "title": "AI贸易 企业出海 跨境支付 一场研讨会探讨人民币国际化新路径",
+          "summary": "该条信息来自政务官方“杨浦区人民政府”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "杨浦区人民政府",
+          "sourceUrl": "https://www.shyp.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDaTBZLUNqWU1HcnZiRGpYSVpPMXd3bmZGMFB2R3luY19neEpKWVZiaTNQVHRIVTdzMi0wM3pVbEd3eTBjeTJjd09hcVZtdWw0em1CaHFRMVBaUjV1YlRpR3JZeTNMUUJ6Y0J1TQ?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 07:44:17 GMT"
+        },
+        {
+          "id": "1d1b4297cadf",
+          "title": "一周园区要闻盘点丨2026科技外交官创新资源对接活动举办；Junction China2026国际极客嘉年华闭幕",
+          "summary": "该条信息来自政务官方“北京市科学技术委员会”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市科学技术委员会",
+          "sourceUrl": "https://kw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PUHRpd3FqRVN6ZHNSclRCQVVUVDJnanNUY1BDSTNoOGNCemVuRXZzaU45Z3lJakpHNUVEdGx5a1VQamRlOFQxV1E2czYzMHdGbVFkaTdGUTF0SE9jN2Zjdm1CTTdZY25pQUFseTVJS1h4N3c?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 06:18:18 GMT"
+        },
+        {
+          "id": "cfb39ce9d5b7",
+          "title": "长沙雨花：办理一起利用AI技术实施盗窃案",
+          "summary": "该条信息来自政务官方“湖南长安网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "湖南长安网",
+          "sourceUrl": "https://www.hnzf.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FZGhfM3dUdzFiVVBjYnVPb3o3dVM3R2JMTE1kaFd1SjFMMndHSVFiblZ5YXJuWUQ1eTRhMW0yV0pCbGhjX0RGVTdyeTlDaVVPVG5BT045YkI1d1pFN3BZR1BLS0RzUQ?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 03:37:32 GMT"
+        },
+        {
+          "id": "7401de8473cb",
+          "title": "定分止争更高效 维护公正更有力——人民法院以高质量司法保障经济社会发展",
+          "summary": "该条信息来自政务官方“中华人民共和国最高人民法院”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中华人民共和国最高人民法院",
+          "sourceUrl": "https://www.court.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hNldMRGkzN2lzYWpUaG8wOWVJb1VjUE5sZElPd29EbHY3X04tb0daNEJtc3BZekRZZGNiUGE3MjR0VzlyUkFMU19lYXNzMWVYWVBEMTZvUThXdkgyc2JHQXdR?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 00:46:42 GMT"
+        },
+        {
+          "id": "578d77ce6c76",
+          "title": "聚焦APEC｜供应链融通+AI赋能 亚太工商界看好区域合作机遇",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxejJKSHBwVXg3Z0RUVHlhcHhzMVpsTjJBQWpGZXBITF9nZjdkbFYzb0h2cXRLd3hvMGNZbFQ5ZTRCaHE0QmpFWV96bzVmZ0dNeGQzZ29tajVveVBhcmlPMnZfZWNHTFdOcW5fZlRwS1c0OEE3OTFn?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 15:03:17 GMT"
+        },
+        {
+          "id": "968045b40061",
+          "title": "关于AI，雷军、李彦宏、曾毓群都在担心啥？",
+          "summary": "该条信息来自权威媒体“中国科技网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中国科技网",
+          "sourceUrl": "https://www.stdaily.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QQzZZWmlfS2hQOC1kZHloV2ZibDhOek9lamZ0MzM5ZHVsQ1hNaHRtd3NsX0ZFSzA1b3lXLUpyanFraF9acVBEcTJWOVRRTFNIREowUWRjT0J0eDd3cm02Z05QNXlmZ25xTXhUd21ET0k?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 14:47:18 GMT"
+        },
+        {
+          "id": "110bceed02e7",
+          "title": "财经慧说丨APEC工商峰会上，他们聊AI之“最”",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZGFCcTBUOFpldUVpU0hyQzlZazc0TmtKVXVseHFlTUZfenhQTk5obF9NWnFhODF0SGxfYlpSWjFjSGsxZHlWR09BWmRqUzJjZ2d2WUtaY0I0ejJoT3llVTlkeWFvR2dXOGJkUW5HaVY2Z3BmZXNRNy1QejhMNWM?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 14:16:46 GMT"
+        },
+        {
+          "id": "0a837714a930",
+          "title": "AI与工程实践如何双向赋能？这场大会探讨答案",
+          "summary": "该条信息来自权威媒体“中国科技网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中国科技网",
+          "sourceUrl": "https://www.stdaily.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtaHFTQUdBY0kyZXpjSGpDVERiM3lyYTBJaG51MXI0ZVBsSldEZlFNbmFwcnRZazVoVWxLWU0xdjZyREVGSnJMNnc3S0J2V0xNLXEwelIwXzFBUmMwYzY2Z3JnNFBjM1ZiREhoOHI5YWs?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 14:02:24 GMT"
+        },
+        {
+          "id": "99bd8b962f98",
+          "title": "财经深一度丨AI短剧、数字人直播等新业态如何纳税",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOHdfUkF2Nm51YnhaRzZfaktoUFQ2R3ZiSnYzeHdBbzczYnEzUHFFclpjd3BodEdmVHIydEpqeU4xMnR4WFR1c0FlbzVTdURyU1FNd3hyQWNVMG11eGdJVE5LRU5FVHd5SHlfQXdEV3BpamVIYkd3QjlrLVV6LWlVWGNn?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 13:32:57 GMT"
+        },
+        {
+          "id": "daea618eb741",
+          "title": "【深圳APEC】华强北“AI八骏”火出圈 外国游客打卡“硬核好物”",
+          "summary": "该条信息来自权威媒体“中国新闻网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中国新闻网",
+          "sourceUrl": "https://www.chinanews.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53NDh0MzVBM0Z0Sng2M2xYUFZLZllTQ1RncTN5YjVhbGZOR3YwcElpYm9SVENkeFZWcXRBMnh5WWJQOTMzT3NFS096cjdHMURNMjVCZUZvMHZlRXVjQWdqZ3pTMWY0U1VvRU9UOE1Dcy1PNUxfSWhTbEprQmxNdw?oc=5",
+          "publishedAt": "Tue, 17 Nov 2026 13:18:00 GMT"
+        }
+      ]
+    }
+  ]
+}
