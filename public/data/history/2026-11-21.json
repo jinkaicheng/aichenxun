@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-22T03:26:04.417Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 5 条来自头部公司与模型重点队列，主要涉及 OpenAI、Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "df3e50ab4001",
+          "title": "AI进化速递丨甲骨文称已筹集履行与OpenAI合同所需全部资金",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://www.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MNDFsUl80QXFYRzljaFluVkxuZlJoQ3ZHbHdWVnRtYk5LWGFET0IzaUtsUXlBMlo2Skt4aWUxTExrY3RmUzlab1Q5RzAwVGFyMFpEZg?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 12:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "ed4f01f2b416",
+          "title": "Anthropic上市，刷新全球IPO纪录，华尔街到底在赌什么？",
+          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "ThePaper.cn",
+          "sourceUrl": "https://www.thepaper.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44UlFmeUhtMkhFNWY3X0hrMTVsa1FkaURyVWI1N3lRaHhYWlBaQUN1M01BMnBPSkJyNjZfWmJzUDY1YXRYaEIyMGV1U1libmQ3S0ZGZ0tlQmx4S0x3aGpvclNSQ0lGc3o4elFxQ2VlNmh5UQ?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 01:28:48 GMT"
+        },
+        {
+          "id": "106b23482b90",
+          "title": "Anthropic在美上市 融资规模创纪录",
+          "summary": "该条信息来自权威媒体“中国经济网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中国经济网",
+          "sourceUrl": "https://m.ce.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TMUM1aUxmUEo2ZmlvQ2c1X2sybmJneUwtUGZNOUxBU0NWNnppNDJUMEFGN3lOcGIzVU5kY25mUFdtYjJha3I3YmR5WUhIS1hHR1o3Q0FoTWUzVUFBZEJtdg?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 01:10:00 GMT"
+        },
+        {
+          "id": "991068ee0167",
+          "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
+          "summary": "该条信息来自专业科技媒体“钛媒体”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "钛媒体",
+          "sourceUrl": "https://www.tmtpost.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8weXdUYkk0R01pRTVJRGJ2aWFQOVVVeml5OWNUUHJBelBnckdJX1lkWjNhV2FsWktkRFZ5R1RGWUNaNzFLVWV2OGp5ZUU?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 11:19:00 GMT"
+        },
+        {
+          "id": "2e6e17d47457",
+          "title": "Anthropic研究员宣称已用AI证明黎曼猜想 国际数学界回应",
+          "summary": "该条信息来自权威媒体“财新”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财新",
+          "sourceUrl": "https://science.caixin.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0aVpQaWktZXFzWXkyR3VyVXVCdm1Ub2FHek9heWRmemVsc2lvRTU5SDh1dmNtanZhZ18zOTA2d3c5bFpyemRJa2x5STJCenVoYUo4Wm9SLW41b1Q2aUlyRkxR?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 13:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "ea540c41df57",
+          "title": "从 39 元到 19.5 元：2026 年 Qwen4‑Max Token Plan 首发优惠与接入教程",
+          "summary": "该条信息来自企业官方“阿里云开发者社区”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "阿里云开发者社区",
+          "sourceUrl": "https://developer.aliyun.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jeDlFenFfM2djNkdyT0JpNGE4bC1veVA1dWlyNk9KWFh1UzNWbjgzWnM1MkhSdE53YTZrWXZOa3pRalpIcmxNaFY3NFhYUFFyX0U2SkJ3UQ?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 11:41:48 GMT"
+        },
+        {
+          "id": "3ee0b374dd73",
+          "title": "智谱清言怎么进行版本更新？",
+          "summary": "该条信息来自企业官方“百度经验”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度经验",
+          "sourceUrl": "https://jingyan.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oZGxoNWVvSS1sWTNnMDVXc2lrb19GN1ZwUUxqWHU4TVZKakZBSV9VaWMtQTRBZ241RTd2NVgwdWpDblNyOThkcHFEcnJRWW1OSDJBWVVEUE1XOUlLRkRQUE41QmdyOGdxbFNZVGdB?oc=5",
+          "publishedAt": "Fri, 20 Nov 2026 20:19:11 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "a818944aef8a",
+          "title": "法官主导、技术辅助、提质增效",
+          "summary": "该条信息来自政务官方“最高人民法院知识产权法庭”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "最高人民法院知识产权法庭",
+          "sourceUrl": "https://ipc.court.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lMVdNR0dfRFJVU19XYXlDSEl6TXh5THFPbkNyWkZybUw1ektkZnlPeEd2Vmw1dGZsM000NzlwdVRtQ1ItT2dpY0pKX2dBcmt1Vm1WaGQ1azFjUlF5MlNN?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 03:16:05 GMT"
+        },
+        {
+          "id": "86d1ef18721b",
+          "title": "《对话》 20261121 AI时代的合作信心",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://tv.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92U2pHZEZzamwtdUZqU19yN3RjQVd0aHNMNmMwVzEtYTF3TXJnbW9YcFJEU2FXZFdqN1Y4cHFlU2J3ME5nUXBDb3pyc0pWenNfd3dvb0tUMkdETjQ2NUNrNE5yWGFST04xTGxhdm5Bc0RTM0UzS3c?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 14:28:00 GMT"
+        },
+        {
+          "id": "1556f5cab78d",
+          "title": "算力“下沉” 智能“可视” 2026世界计算大会观察",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://local.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xUEQtMmljOGg3SEJSR1hrdGY3VTF0X2ZDVWItMFRqcXNOOHljS1VHWWNYOVVEVWVmdjExR0U2T25KSEdQYy1vWnpJQTI5ckNyb2xlRF9qSUYxNXc0QTFDT211VVhIYzEyOUdKTjJQTXNYWndYX1dLaEhR?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 14:13:53 GMT"
+        },
+        {
+          "id": "80e495c6fc32",
+          "title": "AI短剧冲击之下，文学如何重新影响大众？",
+          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "ThePaper.cn",
+          "sourceUrl": "https://www.thepaper.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12eXRlYXR3M3ItaWJoNVZZbVgwYlFVYUEtTHprVmk0ZEdPQTRCUjBZaGxkYTBhN2xzYlNRT0p1N093czdmTS1YeUwxRFpPb1BISzAzVm44OHpRdHNmQi1aMg?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 13:25:25 GMT"
+        },
+        {
+          "id": "f1396adb53a3",
+          "title": "生菜种20天就能端上桌？在农博会看“AI种地”新生活",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50dWxWd0VKNG5INU9uZGV0MGN5NUNRWmRicDd3ZkJIZmtoLW12VUtvdnFBeE5rSkM3NnloamY3Rm9RZ1lzRmtmWFQ2Y2w4Qi1teGVuNDNVNC14eWx3V1ozazF4c0pQR2czUXkzRk9FTWFQSVJjSFRST3ZXcWo?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 12:59:33 GMT"
+        },
+        {
+          "id": "74c63a1fc709",
+          "title": "贵州省交通运输科技成果推广暨人工智能成果交流会举行",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://gz.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02eEw1bTJHdEZES2p3OUdIV0FWTFhVSGhGQXpfc0pEWURKNzZWdVVPTWEwN01tX3dnVnpxd3o1T0xZNXl3VnFnMUFCVFJmR1Z5NENZQ2o2WVBrcXNIWlUtSldHZlEtdVdQRVYwd1BHRWpWczJu?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 11:00:12 GMT"
+        },
+        {
+          "id": "11ccd6fa8bb1",
+          "title": "科普一下丨能画万物的AI，为啥数不准“13个鸡蛋”？",
+          "summary": "该条信息来自权威媒体“中国科技网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中国科技网",
+          "sourceUrl": "https://www.stdaily.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80X3ZGZ3QxamptRjRnaElQb0NQTUZDWGZiU0dMTUlWaHNlS0xOdE5kTUlzelF2LUY5NGVjYkZIbV9vUF80TkhRYjdsRmdvTTR0LTBFLTBkaHp1WjdhMEJOaHI4bV9kTXlKV1FOcEtlQnA?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 10:31:42 GMT"
+        },
+        {
+          "id": "f3abf4fb15d7",
+          "title": "郑增仪：把握数字化机遇 探索中小学人工智能教育发展新路径",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CdlhhNnRlcklCZ0JZVXBYS0hCZENSaGRWcDV6d1Nfd0cxMXlUWjF6a0ZBSGdGZ2FtbFVrS1NiQ1hDQWh2eEc4YzhvUUNEVDlwT1o2a0FBSHVfbk14dWEtM0NZMS0zeGFBdEhTOGt2VmVKUkRtU2RwRTFWaElhZw?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 09:01:31 GMT"
+        },
+        {
+          "id": "412f9de17095",
+          "title": "国家人工智能应用中试基地（人力资源服务方向）在渝揭牌",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://cq.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xc09lLVltU3VSUXJMSF9oVXpEcERsemJ3dTRaWTZmNUhtMk9tNk9DeGNiUlF3QVZqVDR0NlBXaWd3UjJNQ2QtSXpLLUNVck10bFExaXZ1VTBqcTBtMnVwYUw2OFRGY3ZBenc?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 08:02:00 GMT"
+        },
+        {
+          "id": "f44905b6e18c",
+          "title": "开放传神OPC社区盐城站投用 助力盐城打造长三角AI科创节点",
+          "summary": "该条信息来自权威媒体“新华网江苏频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网江苏频道",
+          "sourceUrl": "https://js.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YNmdRRmZNSnc1MDl6enU0U2xIRVFxUmpRM2pza0NrWHJEaFZuQk10RjFWQ1RjRGVWc0xWem5KSkV0ZXNMR28xY09RUWstMnVRd0c0NUkybGFncHVtUGNoUi1faF9OOWNvbHBPSmZnblJyUWtU?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 07:52:58 GMT"
+        },
+        {
+          "id": "bf45a04c9d94",
+          "title": "东山大会｜AI时代，民营企业如何奔赴“新航海”？",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://www.zj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WVVVKWnJralBpRjBmdXMta1NseWpUNjN5MWIyaXRxTHMyYWlvUWNNUGZ3QWhkMzNzbEV2V0tvMHJnbHdEZVN0WFhDXzJSdm02dkhXdVRaVU5vS0tZT2VqNnNBX21OTDJmXy0ydVh6MGc3S08yVUpmckV3?oc=5",
+          "publishedAt": "Sat, 21 Nov 2026 07:35:19 GMT"
+        }
+      ]
+    }
+  ]
+}
