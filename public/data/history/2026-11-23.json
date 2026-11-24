@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-24T07:03:39.384Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 4 条来自头部公司与模型重点队列，主要涉及 OpenAI、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "OpenAI",
+      "articles": [
+        {
+          "id": "3af3b7f545a1",
+          "title": "OpenAI首席科学家预警：AI研发明年或加速突破，呼吁行业共同设限",
+          "summary": "该条信息来自权威媒体“ThePaper.cn”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "ThePaper.cn",
+          "sourceUrl": "https://www.thepaper.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmQjFta0dsT3Vib1ozbG85cEhDdmJGc1g0aDdKTy0yc1ZVNkl2UEFDYjBRNFh2TkpybHVBZjFMcnkwQzdpWEdNUVdhZG9GR1VfYV93N25MdDlLQl91Z2JidA?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 08:53:22 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "6d2b349fc1d5",
+          "title": "新一代大模型技术升级解析：从GLM-5看行业能力跃迁与落地挑战",
+          "summary": "该条信息来自企业官方“Baidu AI Cloud”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "Baidu AI Cloud",
+          "sourceUrl": "https://intl.cloud.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15ZHk4WXZvR1BPNUpoOS1MZk1hdXVUS3c1NHAtalMwX0hpcDRKNlNGVm9XOGZLUzNwaTdZaVZReVlEVml2TXRYcW5WU0ZIc3AxZVo1ektyTmVoZw?oc=5",
+          "publishedAt": "Sun, 22 Nov 2026 18:36:51 GMT"
+        },
+        {
+          "id": "d1ec32bad246",
+          "title": "DeepSeek千亿融资落地？31家出资方浮出水面",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://www.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RTHVOYlota1RtaC1uUWpjck92ZWVFSFBIcDZFYWxZZm9xU0FoN2NUUkc3QmVqRHhXRy1faGg5ejhXQlN5SE1TOS1RZG1WVC1JVlZR?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 13:51:41 GMT"
+        },
+        {
+          "id": "9cc86208d17e",
+          "title": "智谱发布GLM-5.4，瞄准泛AI编程领域",
+          "summary": "该条信息来自国内主流媒体“新京报”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新京报",
+          "sourceUrl": "https://www.bjnews.com.cn",
+          "sourceTier": "国内主流媒体",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXMDBFRUI1SGhaMHdSczJaLXdEODE1bTdYc0tTbncya1ZQNjdNM2JMaDh1cVdvLVBZN29IVEVhOGh6RGZKM1hWRFp5eGJac1ktdWFhSWVnblhjQU43Q3lvSk9meEk?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 12:21:00 GMT"
+        },
+        {
+          "id": "ffc17a385fd8",
+          "title": "DeepSeek完成千亿级融资 梁文锋保留战略主导权与研发路线选择权",
+          "summary": "该条信息来自专业科技媒体“虎嗅网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "虎嗅网",
+          "sourceUrl": "https://www.huxiu.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xMTNMWk1DWDBXTVR3NUJ6azZBZnl6VUxlcmMzdG43LV9GS21kRjQ1cFh1MEJPY1k1N3lBQlhZc3J1dTV0bEE2dURCMEp1dE9CNU1Qag?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 14:48:53 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "e5e81b475ecc",
+          "title": "驻黑山大使陈绪峰出席下戈里察大学“助力可持续发展的人工智能和数字创新”学术研讨会",
+          "summary": "该条信息来自政务官方“中华人民共和国外交部”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "中华人民共和国外交部",
+          "sourceUrl": "https://www.fmprc.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZkdUWEZPNm1PZXhKNlg4eGREM01PMXREMWNWTTZCdjZpclF0ejQ5bER0RlVKeTF0Zmlxa3NEa0pEMTlNc2Y4QmFrUnlKQWJIejZGajh2NHdHbDBieEFoUDE3cnRaSkF6M0RGN1o3WXlqUEtkZm5PTmFDX1diRTJmUnpCRl9acWc?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 15:55:00 GMT"
+        },
+        {
+          "id": "f1f542940597",
+          "title": "GOTC 2026全球开源技术峰会在北京经开区举办",
+          "summary": "该条信息来自政务官方“北京市科学技术委员会”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "北京市科学技术委员会",
+          "sourceUrl": "https://kw.beijing.gov.cn",
+          "sourceTier": "政务官方",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVdhMG10RndEVXJKNi1CNm5fX3JWOUxnZWdoSHlfOGM1blBWTTFQMF90OFJfY0RjU00tdkVfcTI5TWVRSEZZdjJLN3hUYWZJcEtlS3VzX0dkR0RVZWF4Q1NXRUFvMy0tT3AyU1dRWHFMVkNGelU1OGxfdk52YjZvYk1B?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 04:26:23 GMT"
+        },
+        {
+          "id": "54fc8c47c19e",
+          "title": "丘成桐：AI时代，中国数学的黄金时代",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2WjNEU0s3bFRodjFCQlIta2ZmbDFjNERxaTNvWlQzaXAyZGlrVUdrajJHN3BZOU52cVl4Q2ttRFI3OGNPdXc0RVJ0UGJ2MFpmT3FuWHdEaVVrVVVydEl5SjFrOUFDQnB2T0w1QzFoU3kyM1NDN2lWcUVwTFpqUQ?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 14:27:08 GMT"
+        },
+        {
+          "id": "239a3a21d838",
+          "title": "《央视财经评论》 20261123 黎曼猜想 AI破局？",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://tv.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NejJWUmdVYmdQaEtxQk9rRjBZSkdDUlU1R2wzNWxaU1drVnQ4cjRzZjhhUldITEp2UE9WZ0d4ZmRqR3hiRHgzd3pudU5hY0RMR3dtSUVqSTJEeVk2ZTZiZlNoUGhVZVZUSl82LWx4NnR1RE9INVE?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 14:16:00 GMT"
+        },
+        {
+          "id": "df32c38dab53",
+          "title": "《新闻1+1》 20261123 黎曼猜想，被AI“证明”之后",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://tv.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcUZoQ2pUTHJHcFNjZnhkdUhUSm8wbUdRc0xsajZZTzZ4MkxfUl9nQmtGWEhyNjd1MTgwTEdRNC1jVmtHQXhHN2FQNXRqQ2pYWVhjMmgzX2piMGlzbnl6MktaZVBseDZiNmk5Mm5ZeERYcHhlaWc?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 14:12:00 GMT"
+        },
+        {
+          "id": "942c7b3ca461",
+          "title": "江苏仪征：AI赋能医保监管 筑牢基金安全防线",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zR1hWSlZlb0RHQnNYUXFBZUlGeWhxVFowWmNZMGt0cHFIYjdCcm1qem1mZk1qUkQwQjRZNGhBMXZFelRQWDMwQzNRdlBpV09sdER0ZWxLOW9sSFpTN2Q1V2JNd3o2NHdNYW5oNWVlNFdsMVVSam9rNFl5cDlqVW8?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 11:47:29 GMT"
+        },
+        {
+          "id": "5c36e236eca6",
+          "title": "一场会议，如何为化学装上“AI大脑”？",
+          "summary": "该条信息来自权威媒体“人民网-福建频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网-福建频道",
+          "sourceUrl": "https://fj.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8waDVmT003NDZ6N0x6VWRheVRwUDE4bVRtV0liX3ZYNTB1RXFvcXMwQlZDeHlyQ0xXWDFvWHROX0xOSXpuUlRXamJnTVFFNjlNckdCNmh6X05HTThoVlZfa0ZELVlrNzhab1E?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 11:45:00 GMT"
+        },
+        {
+          "id": "d6e26f94dc64",
+          "title": "AI赋绿 数智兴林 在林木展感受智慧林业之新",
+          "summary": "该条信息来自权威媒体“新华社广西分社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华社广西分社",
+          "sourceUrl": "https://www.gx.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwQUgxMURlX2taOFNyOENOajlQVkdYRXo1SUdVU0RTaWVRRElxWkFmZ3doaUw0S3cwNzlrQ2VsVnZSM3V2NndYX3VUby1TY2dudGt4Y0lZWEExaWcwZ1NyYmc0TEQ0Uno1cU5YU3hvR2RzTFRIR0lPeXZWZw?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 11:38:32 GMT"
+        },
+        {
+          "id": "da549c1c3583",
+          "title": "“永康制造”拥抱人工智能永康市以AI赋能推动制造业“智”变",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://zj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IRExLV21GN1hOVmszbDZaY2lLeVZBM3RWdDN5ZGlIVE5NWE5rc04zbVMzYjN1Ri05SzlHc25fdzRrd3hkUHJrMm11aVh3Q3h1RUdEUVZKUlJ0SDBOd0MtaGFQYjVKeEVDTEIzWGlaOGZiaXFR?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 11:32:57 GMT"
+        },
+        {
+          "id": "3ad75b021428",
+          "title": "交通基础设施数智化改造“活”起来 “人工智能+”赋能交通向“智”而行",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://news.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sNzZqbXB6enlQdVhTb3FUZk1qNkY3VDJYWGZScWpxTnNQQTdBM0phamNMQmthdUdDTmJEYklXRV94REt0SHk1QjQwVXhqTU5mdjQwMGk0R0xXOEoxbVUxUmc0YmhtcENiYmRmWGVmSHVrbnJzUnlaeg?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 09:55:33 GMT"
+        },
+        {
+          "id": "225fc12645ef",
+          "title": "800万Token额度迅速耗尽，AI大模型计费有黑箱",
+          "summary": "该条信息来自权威媒体“人民网-上海频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网-上海频道",
+          "sourceUrl": "https://sh.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRTNqdURhNnpURENNZ2F0aXJzVlFTSUpRNE41N1hENWRobzMzcFcwbUtORnk5SWNhTEY4OU1JQW5aeGd6dW1UYlBmRnBWcE91VjVsSUtiNHNSNzJTZWcxa3BjM29jek9mcVE?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 09:46:00 GMT"
+        },
+        {
+          "id": "f8c9da4eba9c",
+          "title": "聚焦AI与智能硬件创新 Future Makers2026北京站黑客松举办",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://bj.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGblVsa2RNbmZ2MnNxNlM0b2prdDAzQ3dUaUJoV25qYkx6ajlGcTlURDZuTm5JOEJxSklLbDgzUUFkNUhSb1d2Szk4WGxCUDBsZk5DZUl0LTB2NTFuRzJFZWhSNVkzZjBT?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 09:25:00 GMT"
+        },
+        {
+          "id": "64e7c8e222a3",
+          "title": "联合国小组：开发前沿模型并非获得AI能力唯一路径",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1raER2VlpnbVBadWhJRndPdDFZaGlQS0JWd2lMMzVELWk3dzdFdy1URXRBNV9hNnV5VGRWWmE4UnVIVVMzUUFzSno4RHJtaGVVSDlqWGFNNzJXZnRMVVBTWW9DTWZGdWR0czdXbXE4eFdfLXRsTW9SNWdMbHI?oc=5",
+          "publishedAt": "Mon, 23 Nov 2026 09:00:08 GMT"
+        }
+      ]
+    }
+  ]
+}
