@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-28T04:55:10.050Z",
+  "sourcePolicy": {
+    "version": "2026-09-trusted-cn-v3",
+    "mode": "可信来源白名单 + 头部公司与模型优先队列"
+  },
+  "watchlist": [
+    "OpenAI / Codex",
+    "DeepSeek",
+    "Anthropic / Claude",
+    "Google / Gemini",
+    "Meta / Llama",
+    "Microsoft / Copilot",
+    "NVIDIA",
+    "国产头部模型"
+  ],
+  "summary": "昨日从可信白名单中收录 18 条 AI 相关信息，其中 6 条来自头部公司与模型重点队列，主要涉及 Anthropic、国内 AI、行业动态 等方向。所有条目均保留来源和原文入口。",
+  "groups": [
+    {
+      "name": "Anthropic",
+      "articles": [
+        {
+          "id": "c2c564db1e50",
+          "title": "GPT周报｜Anthropic研究员宣称已用AI证明黎曼猜想；字节跳动推出个人AI智能体“小豆”；美国算力限制下国产AI模型迭代面临降速",
+          "summary": "该条信息来自权威媒体“财新”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财新",
+          "sourceUrl": "https://companies.caixin.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aZjlpdzNzbTRpeGk3MGkxTWlxLTJMdGVqTTdlUlF3WEIzRzNqaU5HYnlISWlJbHpsakNFX3hIY2JRb3FfTHZBa1N1ZGUyN2dyRExGWmNQZUE2S2ZsSDI2MzlIaGw?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 06:11:00 GMT"
+        },
+        {
+          "id": "016d39057657",
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "summary": "该条信息来自专业科技媒体“财联社”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "财联社",
+          "sourceUrl": "https://www.cls.cn",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQmI4dFp2Wl9qQmo2R25VaVpIbjdaQWFfd1d6d080LUVaNjc3clAtQnZ4ZTFWV3BrMEpQMDFvdDZxdm5oTDlVSQ?oc=5",
+          "publishedAt": "Thu, 26 Nov 2026 18:52:44 GMT"
+        }
+      ]
+    },
+    {
+      "name": "国内 AI",
+      "articles": [
+        {
+          "id": "183c9c27e690",
+          "title": "文心一言是什么？2025最新功能、应用场景与使用指南",
+          "summary": "该条信息来自企业官方“百度”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "百度",
+          "sourceUrl": "https://kuku.baidu.com",
+          "sourceTier": "企业官方",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yenNyRjFXNWlxWEpXMENOZG1tbndNS0UyRk9td1c2WTF4WWNvVUgzZ2ZTUnc3T3RUSXlCZXBKaUNET3dYMnBUM2lCcDR4ZGFiQ0xNLWV0X2Z5eGpabFo3aUw5SnI0NzRZXzgtZ2x0MlRqWm1vVTlGTy11emQ?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 10:15:15 GMT"
+        },
+        {
+          "id": "b0942164c3f4",
+          "title": "DeepSeek新模型限时内测！速度更快，烧钱也更快了",
+          "summary": "该条信息来自权威媒体“第一财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "第一财经",
+          "sourceUrl": "https://m.yicai.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBid3JydWdnX1NLRk9aVlJlbzBLUkZQVExzYnAwQXAycC0yekRYN1VJSU9KQ2VKTmpKdV9jbXo1UDM5VzI2eG1FbTRjSDd1aDRD?oc=5",
+          "publishedAt": "Thu, 26 Nov 2026 16:01:29 GMT"
+        },
+        {
+          "id": "e79439e14f17",
+          "title": "DeepSeek或将推出付费模式",
+          "summary": "该条信息来自国内主流媒体“21财经”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "21财经",
+          "sourceUrl": "https://www.21jingji.com",
+          "sourceTier": "国内主流媒体",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdDdYQWYwSlFOZVI0N2pjNW1ONzU3N01uSHYyRjgyU3FNeWd5VGMyckhRMF9Qenk3eFdDQXlkMVBmeExPTU12SUgxa0RXUTFCbkhheE9EaHNMbHdoZXhRV2NQbVRpUHNrM0dUWkUwTHZLbU1hUEZVdG5LSVpudzNUVmFSOXpEVEoxRDg5U3pRdw?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 08:39:00 GMT"
+        },
+        {
+          "id": "747a31ec6fff",
+          "title": "月之暗面：Kimi 科研支持计划现已开放申请",
+          "summary": "该条信息来自专业科技媒体“DoNews”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "DoNews",
+          "sourceUrl": "https://www.donews.com",
+          "sourceTier": "专业科技媒体",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zc0JhQkktTGpDcWRJcWpWdGRxX2NlU3htaWZfVG11dWNZNVRiTHdmYVRCdDVqczE3V3pNQ19CM3NEMWd6aWdjRDZjb0k5OGVyTnhSU2dOVnFvZ0c4V2c?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 05:25:49 GMT"
+        }
+      ]
+    },
+    {
+      "name": "行业动态",
+      "articles": [
+        {
+          "id": "a0052d7c37e8",
+          "title": "“广货行天下”冬季行动在深圳华强北启动",
+          "summary": "该条信息来自权威媒体“人民网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网",
+          "sourceUrl": "https://sz.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fUmI2dTdwNVFBYWU3R0o5cVZoa3c5SzJISGprckZYdFAwZkFaV2w4R0RzNG5QNUpnYUhVbTFwRTBQVGtlUmU1UzZaOEs3aElEX0RqYXNzUzgwWWhMM1poV0hYLVBMY1pPTVE?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 14:24:00 GMT"
+        },
+        {
+          "id": "bfb44df48ee2",
+          "title": "让AI走进生活 “2026香港AI科普周暨AI未来生活节”开幕",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PdmcxVDY2U1VFMDJKMkhSMkJpaHdDUFE2VzdkR0RmOHE0WU45NGxBUW9LX1ZWd1QtdWxrN09ZeGtaR1UwbV9jMTRrR3pnNHJ3b3U5cXc5R1lsTlE2OU9qSDVBUUtOVk5Oak4tbTJ6VmpLZG5KaE1z?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 13:59:55 GMT"
+        },
+        {
+          "id": "3ba11870608b",
+          "title": "组图｜“高校+科技馆+小学” 共建科创育人平台",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://fj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wZk9hSmRlNVR5NHZLT3NMZVc1MXhJeUxaMk9WaGl3RDZsN0NFdHZYRmZFN1NPSkFUNHBqOTh2ZnZabVlnRnJ2OHdMWGhYWmRSTlo4Y2JSTWFQVkZqcUlISjltN0I0Y0dtSnVXdVJqLThDbjBm?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 13:24:06 GMT"
+        },
+        {
+          "id": "e93f19be589a",
+          "title": "[经济信息联播]电影修复行业观察 AI助力电影修复提效 多元化运营摊薄算力成本",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://tv.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83OW5FVmk1UW9HRGxDOGU3X05HNDFON1dvWWI2WGt3SXBqTG9ZQVp1YVU0a250QTRQUGE2TGxjWm8tN2JiS3RzdFV4VW1MOHM1ekNkUWVQdkpUTktUNzUyWEFSQk5WSWFKRWRScE9TTHVzZzdlbHc?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 13:20:00 GMT"
+        },
+        {
+          "id": "adbb06582b97",
+          "title": "杭州余杭：AI机器人助阵 青年宣讲“活”起来",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://www.zj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEZWZsNk1yeE9oZTJmLS1JNTFoR1pSS2t4dDYxN05DblRCcjNOWmJTajgyc2hrS2c2YmxWQnFJeDlTaWYwLThpd08yTURxU0JhUklib3RaZlhwWml1QlJid2x1ZnV3dkt4RmFaUXpIc1hzaUs0ZVlBRWdB?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 13:17:23 GMT"
+        },
+        {
+          "id": "b8b813077d5f",
+          "title": "打造创新支柱，促进亚太共同繁荣（亚太合作启新程）",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://news.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84TTBnQVJoV1MzTkR6bWJCVXRQT0RELUhTb1JvNW5QSFMzVVFKbVl6Nk5DSlQ1ZWN3aTQ5NEpSdDBHTkc3TlJwUnpaUXM0S3N3ZURHT0FzTF94dFRFeGxLZVJfeTBXdzlibUc3RnNILXdXNDkydy1fcg?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 12:47:00 GMT"
+        },
+        {
+          "id": "cfdf12554cb8",
+          "title": "智慧医疗有了示范样板点",
+          "summary": "该条信息来自权威媒体“人民日报”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民日报",
+          "sourceUrl": "https://paper.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWGNHbjlwbWVQTHFHWGhPcDFJVUFweTd4YTMxLXlTcFFzb29ZRGRpeXBLZUFHWTc4N3ZQX0JzQllHT2FzcG1fQ0JiVU1WTzF2OTVXaXVFbkhCWjJzcVZlbkJ3SkNYa2NXSXVpYUFzYXE3TFM2eUlILXlGbEEzYk0?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 12:06:13 GMT"
+        },
+        {
+          "id": "8360e0464bd6",
+          "title": "研究报告：AI成为保险信息新入口",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmZPazVGWmZJcjNVQm1wRkRoNDdHV00wN0Rnd3ZHYm5fLXlPU3ZOTXNSMFl3X3h3VVNzbkZxNld5aU9jbDF5N2c5WTRMV2ptcVhoR3h6WDBlNEE4NEh0LVA1V2ZBUkZ6RmVIR3AwNzMzaEVnOVMwNnE2UXJtN0FzSQ?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 11:35:55 GMT"
+        },
+        {
+          "id": "f78028cc9b77",
+          "title": "AI短剧正经历产能爆发，上海手握三张“王牌”",
+          "summary": "该条信息来自权威媒体“人民网-上海频道”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "人民网-上海频道",
+          "sourceUrl": "https://sh.people.com.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOeG5ESlVFS0Z5Rnpjc21qRDNzNnhBRnVKQ0NKNXMzRHdsVHR0UFBvOVBMdF9zQ193SWRCRzhiV2gyMkpEM2huN3hoOC1hdk9MTW9wLUpxMjY5c25xRk9IaG91aG82Wk51UHc?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 11:14:00 GMT"
+        },
+        {
+          "id": "7050c32cdab4",
+          "title": "梨花文化亮相SIC老博会 发布新一代适老智能硬件成展会焦点",
+          "summary": "该条信息来自权威媒体“新华网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网",
+          "sourceUrl": "https://www.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SLWZUMElfMi1BOEQ3emtlSFRuZWlhdy1iNjFfejlNazVhcU5ka2Q1LUJSU21La1NKUEN6VkZpTWZXYUNoZ0pQVzRaWVdNb3Y1QkstcmRtUFZod2ZpbV8wOU5XNld3Ml9XaDNtN0VFc1pROEhRMFJnZ1Z2TTA?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 11:00:09 GMT"
+        },
+        {
+          "id": "14cbbbd6b41e",
+          "title": "江西：AI赋能生态环境执法 从“全面排查”转向“精准核查”",
+          "summary": "该条信息来自权威媒体“央视网”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "央视网",
+          "sourceUrl": "https://local.cctv.com",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OOWxxN3VoV0xIb2lyNl84R0d3ajlGZkpINmJ6Ry1fQ0g1b3ZUWGNEaDlybUhnMjRSUVlweURoNW9pclhfRXgyRkFCNVh6NGk4S2FYRVZWQ0NRSTA3SFhrcTVDcU1mNXJ4U2J4TlJ4aE45YU9KY1Jab3R3?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 10:56:04 GMT"
+        },
+        {
+          "id": "ca05dcb7c510",
+          "title": "多措并举激活网络文学新动能 中国网络作家村村民大会举行",
+          "summary": "该条信息来自权威媒体“新华网浙江”，本站仅作新闻线索索引，不复制报道正文或图片。请点击原文核验完整内容。",
+          "source": "新华网浙江",
+          "sourceUrl": "https://zj.news.cn",
+          "sourceTier": "权威媒体",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fX3pqRlIwaHh0REd6bW42emxFOUlwblFveFRWUXhzOTVuVkQ0N3c5SkhHZWRkU2ZKcWNiY2lhOTVPMlhjdUJ5VzBiZUZabU1abTliMmZ3Y3NoMEZ0dExOWnU2MVlXQXRqRnJmeVZBcWxyclZ2?oc=5",
+          "publishedAt": "Fri, 27 Nov 2026 10:37:32 GMT"
+        }
+      ]
+    }
+  ]
+}
